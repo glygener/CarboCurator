@@ -1,0 +1,6 @@
+old/
+log/
+scripts/
+data*
+*.tsv
+*.csv
