@@ -90,6 +90,7 @@ if __name__ == "__main__":
     API_LIMIT = 9999 # All because of this...
     if end_year == "current":
         end_year = datetime.now().year
+    check_api_key()
     common_args = (term, start_year, end_year)
 
     # Get Query Translation
