@@ -143,25 +143,47 @@ pip install -r requirements.txt
 git clone https://github.com/glygener/CarboCurator.git
 cd CarboCurator
 ```
+2. Set API keys ([NCBI](https://support.nlm.nih.gov/kbArticle/?pn=KA-05317)) ([OpenAI](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://platform.openai.com/api-keys&ved=2ahUKEwicptvz97SNAxWsF1kFHecXN7cQFnoECBYQAQ&usg=AOvVaw1YhcGDWJXhiKSfmL59Pnfn))
 
-2. Prepare data
+Unix & macOS (bash/zsh):  
+- Add to ~/.bashrc or ~/.zshrc
+```bash
+export NCBI_API_KEY="your_ncbi_api_key_here"
+export OPENAI_API_KEY="your_openai_api_key_here"
+```
+
+- Then reload:
+```bash
+source ~/.bashrc
+# or
+source ~/.zshrc
+```
+
+Windows (PowerShell):  
+```ps
+[Environment]::SetEnvironmentVariable('NCBI_API_KEY','your_ncbi_api_key_here','User')
+[Environment]::SetEnvironmentVariable('OPENAI_API_KEY','your_openai_api_key_here','User')
+```
+- Restart your terminal for changes to take effect
+
+4. Prepare data
 - Place your PubMed XML dump (or Entrez fetch script output) under `data/raw/`.
 - Ensure `requirements.txt` is up to date and install dependencies.
 
-3. Execute the pipeline
+5. Execute the pipeline
 ```bash
 # Fetch and preprocess abstracts
 python main/pmid_fetch.py
-python preprocessing/preprocess_get_abst.py
+python main/preprocess_get_abst.py
 
-# Run NER & RE
+# NER & RE
 python main/abstracts_curate.py
 
-# Validate and postprocess
-python main/abstracts_validate.py
+# Postprocess
+python main/json_parse.py
 ```
 
-4. Inspect outputs
+6. Inspect outputs
 - JSONL files under `data/processed/ner_re/`
 - Standardized TSV under `data/processed/nes/`
 
