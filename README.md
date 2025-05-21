@@ -16,10 +16,10 @@ CarboCurator is a scalable pipeline for automated extraction and curation of **g
 
 **Objectives**
 
-- Automate Named Entity Recognition (NER) of glycan entities, glycoproteins, glycoenzymes, diseases, specimen types, and biomarker roles.
-- Link extracted entities through Relation Extraction (RE) to form structured glycan–disease associations.
+- Automate **Named Entity Recognition** (NER) of glycan entities, glycoproteins, glycoenzymes, diseases, specimen types, and biomarker roles.
+- Link extracted entities through **Relation Extraction** (RE) to form structured glycan–disease associations.
 - Map recognized terms to standard ontologies (GlyTouCan, Uberon, Disease Ontology) to enhance interoperability.
-- Provide high‐quality, JSON‐formatted outputs for integration into knowledgebases.
+- Provide high‐quality, schema-validated JSON outputs for integration into knowledgebases.
 
 ---
 
