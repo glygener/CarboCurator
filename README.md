@@ -1,10 +1,10 @@
 # CarboCurator: Automated Glycan Biomarker Extraction
 
-**Keywords**: `NLP`, `Glycobiology`, `Machine Learning`, `Python`
+**Keywords**: `Text Mining`, `Glycobiology`, `Large Language Models`, `Python`
 
 **Authors**: Cyrus C.H. Au Yeung  
 **Date**: May 2025  
-**Poster**: [poster.pdf](poster.pdf)
+**Poster**: [poster.pdf](https://github.com/glygener/CarboCurator/blob/main/figures/poster.pdf#:~:text=poster.pdf)
 
 > The project pipeline is being restructured to improve interoperability and incorporate new NER–RE and post-processing modules. Production-ready scripts now reside in `main/`, while beta versions of each major task live in their respective directories (e.g., `named_entity_recognition/`, `preprocessing/`). The standardization and mapping utilities for extracted glycan terms are housed in `named_entity_standardization/`.
 
@@ -26,11 +26,13 @@ CarboCurator is a scalable pipeline for automated extraction and curation of **g
 ## Data Source
 
 - **PubMed Abstracts**: 4,595 articles retrieved via a custom Entrez query, including titles, abstracts, keywords, MeSH and chemical names.
-- **Glycan Structure Dictionary** (Vora *et al.*, 2023): for mapping glycan terms to standardized motifs.
+- **Glycan Structure Dictionary** ([Vora *et al.*, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10243773/)): for mapping glycan terms to standardized motifs.
 
 ---
 
 ## Methods
+
+![workflow_diagram](https://github.com/glygener/CarboCurator/blob/main/figures/workflow_diagram.png#:~:text=workflow_diagram.png)
 
 1. **Corpus Retrieval**  
    - Use Entrez E-utilities to fetch PubMed XML records.  
@@ -53,6 +55,10 @@ CarboCurator is a scalable pipeline for automated extraction and curation of **g
 5. **Output & Validation**  
    - Produce JSONL outputs conforming to the project schema.  
    - Convert to TSV for summary tables.
+
+## Example
+
+![example_curation](https://github.com/glygener/CarboCurator/blob/main/figures/curation_example.png#:~:text=curation_example.png)
 
 ---
 
@@ -118,7 +124,7 @@ carbocurator/
 └── README.md                    # Project overview and instructions  
 ```
 
-## Dependencies
+## Major Dependencies
 
 This project is written in **Python (≥ 3.8)** and uses:
 
@@ -134,7 +140,7 @@ pip install -r requirements.txt
 
 1. Clone the repo
 ```bash
-git clone 
+git clone https://github.com/glygener/CarboCurator.git
 cd CarboCurator
 ```
 
