@@ -1,0 +1,91 @@
+{
+  "glycan_biomarkers": [
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "N-glycans",
+        "glycan_entity_change": "altered level",
+        "glycoprotein_entity_name": "serum proteins",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Biomarkers, Tumor",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "cirrhosis",
+        "disease_mapped": "",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "diagnostic"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "serum",
+        "specimen_mapped": ""
+      },
+      "evidence": {
+        "pmid": "35925813",
+        "sentence_in_abstract": "Using the biomarker data model allows the capture of granular information, such as glycans with different levels of abundance in cirrhosis, hepatocellular carcinoma, and transplant groups."
+      }
+    },
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "N-glycans",
+        "glycan_entity_change": "altered level",
+        "glycoprotein_entity_name": "serum proteins",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Biomarkers, Tumor",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "hepatocellular carcinoma",
+        "disease_mapped": "Carcinoma, Hepatocellular",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "diagnostic"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "serum",
+        "specimen_mapped": ""
+      },
+      "evidence": {
+        "pmid": "35925813",
+        "sentence_in_abstract": "Using the biomarker data model allows the capture of granular information, such as glycans with different levels of abundance in cirrhosis, hepatocellular carcinoma, and transplant groups."
+      }
+    },
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "N-glycans",
+        "glycan_entity_change": "altered level",
+        "glycoprotein_entity_name": "serum proteins",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Biomarkers, Tumor",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "transplant groups",
+        "disease_mapped": "",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "diagnostic"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "serum",
+        "specimen_mapped": ""
+      },
+      "evidence": {
+        "pmid": "35925813",
+        "sentence_in_abstract": "Using the biomarker data model allows the capture of granular information, such as glycans with different levels of abundance in cirrhosis, hepatocellular carcinoma, and transplant groups."
+      }
+    }
+  ]
+}

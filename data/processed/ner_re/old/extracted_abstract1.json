@@ -1,0 +1,35 @@
+{
+  "glycan_biomarkers": [
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "\u03b12,6 sialylated N-glycans",
+        "glycan_entity_change": "increased level",
+        "glycoprotein_entity_name": "",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "",
+        "glycoenzyme_entity_name": "ST6GAL1",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": "Sialyltransferases|ST6GAL1 protein, human|beta-D-Galactoside alpha 2-6-Sialyltransferase"
+      },
+      "associated_disease": {
+        "disease_name": "prostate cancer",
+        "disease_mapped": "Prostatic Neoplasms",
+        "medical_intervention": "sialyltransferase inhibitor P-3F<sub>AX</sub> -Neu5Ac"
+      },
+      "biomarker_role": [
+        "diagnostic",
+        "prognostic",
+        "response"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "prostate cancer tissue|plasma",
+        "specimen_mapped": "Prostatic Neoplasms|"
+      },
+      "evidence": {
+        "pmid": "37550801",
+        "sentence_in_abstract": "A common change in tumour cell glycosylation is an increase in \u03b12,6 sialylation of N-glycans, a modification driven by the sialyltransferase ST6GAL1."
+      }
+    }
+  ]
+}

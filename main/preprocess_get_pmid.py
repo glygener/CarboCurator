@@ -17,6 +17,7 @@ start_year = 1900
 end_year = "current" # Use "current" to get the current year
 Entrez.email = "your.email@here.com" # Replace with your email address
 NCBI_API_KEY = "YOUR_API_KEY" # Optional: replace with your key or set env var
+output_dir = "~/data/processed/"
 #################################################################################
 
 def check_api_key():
@@ -40,8 +41,8 @@ def count_pmids(term, start_year, end_year):
     if (end_year - start_year == 1):
         if count > API_LIMIT:
             print(f"[Warning] There are {API_LIMIT} hits in {start_year} - {end_year}. Not all will be retrieved.")
-    return count
     handle.close()
+    return count
 
 def fetch_translation(term, start_year, end_year):
     handle = Entrez.esearch(
@@ -105,7 +106,8 @@ if __name__ == "__main__":
     print("[Message] (2) Fetching PMIDs...")
     print("[Message] Recursive splitting year range: ", end = " ", flush = True)
     pmids = batch_retrieval_by_recursive_splitting(*common_args)
-    with open("pmid_list.txt", "w") as f:
+    output_file = os.path.join(output_dir, "pmid_list.txt")
+    with open(output_file, "w") as f:
         f.write("\n".join(pmids))
         f.write("\n")
     print(f"\n[Message] Saved {len(pmids):,} PMIDs to pmid_list.txt")

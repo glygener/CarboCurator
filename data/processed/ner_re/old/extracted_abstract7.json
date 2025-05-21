@@ -1,0 +1,149 @@
+{
+  "glycan_biomarkers": [
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "GP20",
+        "glycan_entity_change": "increased level",
+        "glycoprotein_entity_name": "Immunoglobulin G",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Immunoglobulin G",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "esophageal squamous cell carcinoma",
+        "disease_mapped": "Esophageal Squamous Cell Carcinoma",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "predictive"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "",
+        "specimen_mapped": "Humans"
+      },
+      "evidence": {
+        "pmid": "36999031",
+        "sentence_in_abstract": "The adjusted OR of GP20 (digalactosylated monosialylated biantennary with core and antennary fucose), IGP33 (the ratio of all fucosylated monosyalilated and disialylated structures), IGP44 (the proportion of high mannose glycan structures in total neutral IgG glycans), IGP58 (the percentage of all fucosylated structures in total neutral IgG glycans), IGP75 (the incidence of bisecting GlcNAc in all fucosylated digalactosylated structures in total neutral IgG glycans), and the glycan score are 4.03 (95% CI: 3.03-5.36, P<0.001), 0.69 (95% CI: 0.55-0.87, P<0.001), 0.56 (95% CI: 0.45-0.69, P<0.001), 0.52 (95% CI: 0.41-0.65, P<0.001), 7.17 (95% CI: 4.77-10.79, P<0.001), and 2.86 (95% CI: 2.33-3.53, P<0.001), respectively."
+      }
+    },
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "IGP33",
+        "glycan_entity_change": "decreased ratio",
+        "glycoprotein_entity_name": "Immunoglobulin G",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Immunoglobulin G",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "esophageal squamous cell carcinoma",
+        "disease_mapped": "Esophageal Squamous Cell Carcinoma",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "predictive"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "",
+        "specimen_mapped": "Humans"
+      },
+      "evidence": {
+        "pmid": "36999031",
+        "sentence_in_abstract": "The adjusted OR of GP20 (digalactosylated monosialylated biantennary with core and antennary fucose), IGP33 (the ratio of all fucosylated monosyalilated and disialylated structures), IGP44 (the proportion of high mannose glycan structures in total neutral IgG glycans), IGP58 (the percentage of all fucosylated structures in total neutral IgG glycans), IGP75 (the incidence of bisecting GlcNAc in all fucosylated digalactosylated structures in total neutral IgG glycans), and the glycan score are 4.03 (95% CI: 3.03-5.36, P<0.001), 0.69 (95% CI: 0.55-0.87, P<0.001), 0.56 (95% CI: 0.45-0.69, P<0.001), 0.52 (95% CI: 0.41-0.65, P<0.001), 7.17 (95% CI: 4.77-10.79, P<0.001), and 2.86 (95% CI: 2.33-3.53, P<0.001), respectively."
+      }
+    },
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "IGP44",
+        "glycan_entity_change": "decreased level",
+        "glycoprotein_entity_name": "Immunoglobulin G",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Immunoglobulin G",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "esophageal squamous cell carcinoma",
+        "disease_mapped": "Esophageal Squamous Cell Carcinoma",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "predictive"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "",
+        "specimen_mapped": "Humans"
+      },
+      "evidence": {
+        "pmid": "36999031",
+        "sentence_in_abstract": "The adjusted OR of GP20 (digalactosylated monosialylated biantennary with core and antennary fucose), IGP33 (the ratio of all fucosylated monosyalilated and disialylated structures), IGP44 (the proportion of high mannose glycan structures in total neutral IgG glycans), IGP58 (the percentage of all fucosylated structures in total neutral IgG glycans), IGP75 (the incidence of bisecting GlcNAc in all fucosylated digalactosylated structures in total neutral IgG glycans), and the glycan score are 4.03 (95% CI: 3.03-5.36, P<0.001), 0.69 (95% CI: 0.55-0.87, P<0.001), 0.56 (95% CI: 0.45-0.69, P<0.001), 0.52 (95% CI: 0.41-0.65, P<0.001), 7.17 (95% CI: 4.77-10.79, P<0.001), and 2.86 (95% CI: 2.33-3.53, P<0.001), respectively."
+      }
+    },
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "IGP58",
+        "glycan_entity_change": "decreased level",
+        "glycoprotein_entity_name": "Immunoglobulin G",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Immunoglobulin G",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "esophageal squamous cell carcinoma",
+        "disease_mapped": "Esophageal Squamous Cell Carcinoma",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "predictive"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "",
+        "specimen_mapped": "Humans"
+      },
+      "evidence": {
+        "pmid": "36999031",
+        "sentence_in_abstract": "The adjusted OR of GP20 (digalactosylated monosialylated biantennary with core and antennary fucose), IGP33 (the ratio of all fucosylated monosyalilated and disialylated structures), IGP44 (the proportion of high mannose glycan structures in total neutral IgG glycans), IGP58 (the percentage of all fucosylated structures in total neutral IgG glycans), IGP75 (the incidence of bisecting GlcNAc in all fucosylated digalactosylated structures in total neutral IgG glycans), and the glycan score are 4.03 (95% CI: 3.03-5.36, P<0.001), 0.69 (95% CI: 0.55-0.87, P<0.001), 0.56 (95% CI: 0.45-0.69, P<0.001), 0.52 (95% CI: 0.41-0.65, P<0.001), 7.17 (95% CI: 4.77-10.79, P<0.001), and 2.86 (95% CI: 2.33-3.53, P<0.001), respectively."
+      }
+    },
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "IGP75",
+        "glycan_entity_change": "increased level",
+        "glycoprotein_entity_name": "Immunoglobulin G",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Immunoglobulin G",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "esophageal squamous cell carcinoma",
+        "disease_mapped": "Esophageal Squamous Cell Carcinoma",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "predictive"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "",
+        "specimen_mapped": "Humans"
+      },
+      "evidence": {
+        "pmid": "36999031",
+        "sentence_in_abstract": "The adjusted OR of GP20 (digalactosylated monosialylated biantennary with core and antennary fucose), IGP33 (the ratio of all fucosylated monosyalilated and disialylated structures), IGP44 (the proportion of high mannose glycan structures in total neutral IgG glycans), IGP58 (the percentage of all fucosylated structures in total neutral IgG glycans), IGP75 (the incidence of bisecting GlcNAc in all fucosylated digalactosylated structures in total neutral IgG glycans), and the glycan score are 4.03 (95% CI: 3.03-5.36, P<0.001), 0.69 (95% CI: 0.55-0.87, P<0.001), 0.56 (95% CI: 0.45-0.69, P<0.001), 0.52 (95% CI: 0.41-0.65, P<0.001), 7.17 (95% CI: 4.77-10.79, P<0.001), and 2.86 (95% CI: 2.33-3.53, P<0.001), respectively."
+      }
+    }
+  ]
+}

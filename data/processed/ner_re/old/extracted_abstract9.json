@@ -1,0 +1,33 @@
+{
+  "glycan_biomarkers": [
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "glycans",
+        "glycan_entity_change": "undetermined",
+        "glycoprotein_entity_name": "",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Polysaccharides",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "prostate cancer",
+        "disease_mapped": "Prostatic Neoplasms",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "diagnostic"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "",
+        "specimen_mapped": "Humans"
+      },
+      "evidence": {
+        "pmid": "37767873",
+        "sentence_in_abstract": "How glycomic studies can impact on prostate cancer."
+      }
+    }
+  ]
+}

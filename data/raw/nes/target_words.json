@@ -1,0 +1,16 @@
+{
+    "glycans": [
+        "sugars",
+        "oligosaccharides",
+        "carbohydrates",
+        "glycan structures"
+    ],
+    "triantennary": [
+        "tri-antennary",
+        "tri antennary"
+    ],
+    "biantennary": "bi-antennary",
+    "fucose": "fuc",
+    "glcnac": "N-acetylglucosamine",
+    "galnac": "N-acetylgalactosamine"
+}

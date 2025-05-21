@@ -1,6 +1,16 @@
-old/
-log/
+# Folders
+logs/
+main_test/
+developer/
+data_input/
+data_output/
 scripts/
-data*
-*.tsv
-*.csv
+
+#
+.DS_Store
+
+#
+.vscode/
+
+#
+*.tmp

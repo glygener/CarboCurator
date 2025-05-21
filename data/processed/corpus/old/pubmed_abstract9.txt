@@ -1,0 +1,6 @@
+PMID: 37767873
+Title: How glycomic studies can impact on prostate cancer.
+Abstract: 
+Keywords: biomarkers|diagnostics|glycans|liquid biopsy|prostate cancer
+Chemical names: Biomarkers, Tumor|Polysaccharides
+MeSH names: Male|Humans|Glycomics|Prostatic Neoplasms|Biomarkers, Tumor|Polysaccharides

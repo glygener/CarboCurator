@@ -1,0 +1,165 @@
+{
+    "type": "object",
+    "properties": {
+        "glycan_biomarkers": {
+            "type": "array",
+            "description": "One glycan_biomarkers entity consists of one change in one glycan_entity associated with one associated_disease",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "assessed_biomarker_entity": {
+                        "type": "object",
+                        "properties": {
+                            "glycan_entity": {
+                                "type": "string",
+                                "description": "Glycan/complex carbohydrate names/motifs/epitopes/notations, or structures(e.g. branching, bisecting, core-fucosylated). Exclude enzymes, glycoproteins, non-glycans and MS peaks (e.g. GP1)."
+                            },
+                            "glycan_entity_change": {
+                                "type": "string",
+                                "description": "Change associated with the glycan_entity",
+                                "enum": [
+                                    "increased level",
+                                    "decreased level",
+                                    "increased ratio",
+                                    "decreased ratio",
+                                    "altered level",
+                                    "unaltered level",
+                                    "acquisition of structure",
+                                    "loss of structure",
+                                    "undetermined"
+                                ]
+                            },
+                            "glycoprotein_entity_name": {
+                                "type": "string",
+                                "description": "Protein(s) expressessing the glycan_entity. Do not fill glycoenzyme entities. Include ONLY protein names in this field."
+                            },
+                            "glycoprotein_gene_name": {
+                                "type": "string",
+                                "description": "Gene symbol of glycoprotein_entity_name if explicitly mentioned."
+                            },
+                            "glycoprotein_mapped": {
+                                "type": "string",
+                                "description": "Copy Chemical_names value here if any of them maps to the glycoprotein_entity_name value."
+                            },
+                            "glycoenzyme_entity_name": {
+                                "type": "string",
+                                "description": "Glycosyltransferases/glycosylhydrolases that directly caused the glycan_entity_change. Exclude enzymes used in experimental pipelines (e.g. PNGase F)."
+                            },
+                            "glycoenzyme_gene_name": {
+                                "type": "string",
+                                "description": "Gene symbol of glycoprotein_entity_name if explicitly mentioned"
+                            },
+                            "glycoenzyme_mapped": {
+                                "type": "string",
+                                "description": "Copy Chemical_names value here if any of them maps to the glycoenzyme_entity_name value."
+                            }
+                        },
+                        "required": [
+                            "glycan_entity",
+                            "glycan_entity_change",
+                            "glycoprotein_entity_name",
+                            "glycoprotein_gene_name",
+                            "glycoprotein_mapped",
+                            "glycoenzyme_entity_name",
+                            "glycoenzyme_gene_name",
+                            "glycoenzyme_mapped"
+                        ],
+                        "additionalProperties": false
+                    },
+                    "associated_disease": {
+                        "type": "object",
+                        "properties": {
+                            "disease_name": {
+                                "type": "string",
+                                "description": "Disease(s) or condition(s) directly causing the change in glycan_entity. Exclude fill cells/tissues/organs."
+                            },
+                            "disease_mapped": {
+                                "type": "string",
+                                "description": "Copy MeSH_names value here if any of them maps to the disease_name value."
+                            },
+                            "medical_intervention": {
+                                "type": "string",
+                                "description": "Mentioned therapeutic or surgical measures applied to treat the disease if association with glycan change is apparent."
+                            }
+                        },
+                        "required": [
+                            "disease_name",
+                            "disease_mapped",
+                            "medical_intervention"
+                        ],
+                        "additionalProperties": false
+                    },
+                    "biomarker_role": {
+                        "type": "array",
+                        "description": "Classified biomarker roles using definitions from the FDA-NIH BEST Resource",
+                        "items": {
+                            "type": "string",
+                            "enum": [
+                                "diagnostic",
+                                "monitoring",
+                                "predictive",
+                                "prognostic",
+                                "response",
+                                "risk",
+                                "safety"
+                            ]
+                        }
+                    },
+                    "sample": {
+                        "type": "object",
+                        "properties": {
+                            "organism": {
+                                "type": "string",
+                                "description": "Organism of which the specimen was collected from"
+                            },
+                            "specimen_type": {
+                                "type": "string",
+                                "description": "Tissue/cell type/cell line/organ where the glycan_entity is being observed"
+                            },
+                            "specimen_mapped": {
+                                "type": "string",
+                                "description": "Copy MeSH_names value here if any of them maps to the specimen_type value."
+                            }
+                        },
+                        "required": [
+                            "organism",
+                            "specimen_type",
+                            "specimen_mapped"
+                        ],
+                        "additionalProperties": false
+                    },
+                    "evidence": {
+                        "type": "object",
+                        "properties": {
+                            "pmid": {
+                                "type": "string",
+                                "description": "PMID. Mandatory field"
+                            },
+                            "sentence_in_abstract": {
+                                "type": "string",
+                                "description": "A complete sentence from the abstract text mentioning the glycan entity, verbatim"
+                            }
+                        },
+                        "required": [
+                            "pmid",
+                            "sentence_in_abstract"
+                        ],
+                        "additionalProperties": false
+                    }
+                },
+                "required": [
+                    "assessed_biomarker_entity",
+                    "associated_disease",
+                    "biomarker_role",
+                    "sample",
+                    "evidence"
+                ],
+                "additionalProperties": false
+            }
+        }
+    },
+    "required": [
+        "glycan_biomarkers"
+    ],
+    "additionalProperties": false
+}

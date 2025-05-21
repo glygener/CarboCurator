@@ -1,0 +1,154 @@
+{
+  "glycan_biomarkers": [
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "IgG glycosylation",
+        "glycan_entity_change": "altered level",
+        "glycoprotein_entity_name": "Immunoglobulin G",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Immunoglobulin G",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "autoimmune diseases",
+        "disease_mapped": "Autoimmune Diseases",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "risk",
+        "prognostic"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "serum",
+        "specimen_mapped": ""
+      },
+      "evidence": {
+        "pmid": "34687018",
+        "sentence_in_abstract": "Changes in immunoglobulin G (IgG) glycosylation pattern have been observed in a vast array of auto- and alloimmune, infectious, cardiometabolic, malignant, and other diseases."
+      }
+    },
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "IgG glycosylation",
+        "glycan_entity_change": "altered level",
+        "glycoprotein_entity_name": "Immunoglobulin G",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Immunoglobulin G",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "alloimmune diseases",
+        "disease_mapped": "",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "risk",
+        "prognostic"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "serum",
+        "specimen_mapped": ""
+      },
+      "evidence": {
+        "pmid": "34687018",
+        "sentence_in_abstract": "Changes in immunoglobulin G (IgG) glycosylation pattern have been observed in a vast array of auto- and alloimmune, infectious, cardiometabolic, malignant, and other diseases."
+      }
+    },
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "IgG glycosylation",
+        "glycan_entity_change": "altered level",
+        "glycoprotein_entity_name": "Immunoglobulin G",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Immunoglobulin G",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "infectious diseases",
+        "disease_mapped": "",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "risk",
+        "prognostic"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "serum",
+        "specimen_mapped": ""
+      },
+      "evidence": {
+        "pmid": "34687018",
+        "sentence_in_abstract": "Changes in immunoglobulin G (IgG) glycosylation pattern have been observed in a vast array of auto- and alloimmune, infectious, cardiometabolic, malignant, and other diseases."
+      }
+    },
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "IgG glycosylation",
+        "glycan_entity_change": "altered level",
+        "glycoprotein_entity_name": "Immunoglobulin G",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Immunoglobulin G",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "cardiometabolic diseases",
+        "disease_mapped": "",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "risk",
+        "prognostic"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "serum",
+        "specimen_mapped": ""
+      },
+      "evidence": {
+        "pmid": "34687018",
+        "sentence_in_abstract": "Changes in immunoglobulin G (IgG) glycosylation pattern have been observed in a vast array of auto- and alloimmune, infectious, cardiometabolic, malignant, and other diseases."
+      }
+    },
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "IgG glycosylation",
+        "glycan_entity_change": "altered level",
+        "glycoprotein_entity_name": "Immunoglobulin G",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "Immunoglobulin G",
+        "glycoenzyme_entity_name": "",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": ""
+      },
+      "associated_disease": {
+        "disease_name": "malignant diseases",
+        "disease_mapped": "",
+        "medical_intervention": ""
+      },
+      "biomarker_role": [
+        "risk",
+        "prognostic"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "serum",
+        "specimen_mapped": ""
+      },
+      "evidence": {
+        "pmid": "34687018",
+        "sentence_in_abstract": "Changes in immunoglobulin G (IgG) glycosylation pattern have been observed in a vast array of auto- and alloimmune, infectious, cardiometabolic, malignant, and other diseases."
+      }
+    }
+  ]
+}

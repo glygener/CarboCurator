@@ -1,0 +1,175 @@
+[
+    {
+        "glytoucan_ac": "",
+        "term": "O-linked glycans",
+        "synonyms": [
+            "O-linked carbohydrates",
+            "O-glycans",
+            "O-linked oligosaccharides"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "term": "Core fucose",
+        "synonyms": [
+            "core-fucose",
+            "core-fucosylated glycans",
+            "core fucosylated glycans"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "term": "Globo H",
+        "synonyms": [
+            "globo-h"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "term": "Glycans",
+        "synonyms": [
+            "carbohydrates",
+            "sugars",
+            "oligosaccharides"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "term": "Alpha2,6-linked sialic acids",
+        "synonyms": [
+            "α2,6-linked sialic acids",
+            "alpha-2,6-linked sialic acids",
+            "α2,6-sialic acids",
+            "α2,6-SIA"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "has-aglycon",
+        "term": "GPI anchors",
+        "synonyms": [
+            "glycosylphosphatidylinositol",
+            "glycosylphosphatidylinositol (gpi)",
+            "glycosylphosphatidylinositol (GPI) anchor"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "process",
+        "term": "N-linked glycosylation",
+        "synonyms": [
+            "n-glycosylation",
+            "n-glycosylated"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "process",
+        "term": "O-linked glycosylation",
+        "synonyms": [
+            "o-glycosylation",
+            "o-glycosylated"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "process",
+        "term": "Core-fucosylation",
+        "synonyms": [
+            "core-fucosylated",
+            "core fucosylation",
+            "core fucosylated"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "process",
+        "term": "fucosylation",
+        "synonyms": [
+            "fucosylated"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "process",
+        "term": "galactosylation",
+        "synonyms": [
+            "galactosylated"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "process",
+        "term": "glycosylation",
+        "synonyms": [
+            "glycosylated"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "process",
+        "term": "mannosylation",
+        "synonyms": [
+            "mannosylated"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "process",
+        "term": "sialylation",
+        "synonyms": [
+            "sialylated"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "monosaccharide",
+        "term": "GlcNAc",
+        "synonyms": [
+            "n-acetylglycosamine"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "monosaccharide",
+        "term": "GalNAc",
+        "synonyms": [
+            "n-acetylgalactosamine"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "monosaccharide",
+        "term": "Neu5Ac",
+        "synonyms": [
+            "n-acetylneuraminic acid",
+            "nana"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "monosaccharide",
+        "term": "Sialic acids",
+        "synonyms": [
+            "Sia"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "monosaccharide",
+        "term": "Mannose",
+        "synonyms": [
+            "man"
+        ]
+    },
+    {
+        "glytoucan_ac": "",
+        "tag": "non-structure",
+        "term": "Free glycans",
+        "synonyms": [
+            "free-glycans",
+            "free oligosaccharides",
+            "foss"
+        ]
+    }
+]

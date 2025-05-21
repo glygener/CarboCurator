@@ -1,0 +1,6 @@
+PMID: 30451032
+Title: Glycomics of prostate cancer: updates.
+Abstract: <b>Introduction</b>: Prostate cancer (PCa) is a life-threatening disease affecting millions of men. The current best PCa biomarker (level of prostate-specific antigen in serum) lacks specificity for PCa diagnostics and this is why novel PCa biomarkers in addition to the conventional ones based on biomolecules such as DNA, RNA and proteins need to be identified. <b>Areas covered</b>: This review details the potential of glycans-based biomarkers to become diagnostic, prognostic, predictive and therapeutic PCa biomarkers with a brief description of the innovative approaches applied to glycan analysis to date. Finally, the review covers the possibility to use exosomes as a rich source of glycans for future innovative and advanced diagnostics of PCa. The review covers updates in the field since 2016. <b>Expert commentary</b>: The summary provided in this review paper suggests that glycan-based biomarkers can offer high-assay accuracy not only for diagnostic purposes but also for monitoring/surveillance of the PCa disease.
+Keywords: Prostate cancer|biomarkers|diagnostics|exosomes|glycan analysis|glycomics|lectins
+Chemical names: Biomarkers, Tumor|Lectins|Polysaccharides
+MeSH names: Biomarkers, Tumor|Exosomes|Glycomics|Humans|Lectins|Male|Polysaccharides|Prostatic Neoplasms

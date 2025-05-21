@@ -1,0 +1,3385 @@
+source_term	target_term	source_term_frequency	glytoucan_ac	mapping_flag	mapping_score
+N-glycans	N-linked glycans	213	G78059CC	gsd_strict	2
+N-glycosylation	N-linked glycosylation	100		gsd_strict	2
+N-glycan	N-linked glycans	82	G78059CC	gsd_strict	2
+glycosylation	glycosylation	73		gsd_strict	2
+Tn antigen	Tn antigen	71	G57321FI	gsd_strict	2
+N-linked glycans	N-linked glycans	60	G78059CC	gsd_strict	2
+sialic acid	Sialic acids	58		gsd_strict	2
+fucosylation	fucosylation	51		gsd_strict	2
+N-linked glycosylation	N-linked glycosylation	51		gsd_strict	2
+Tn	Tn antigen	47	G57321FI	gsd_strict	2
+sialylation	sialylation	44		gsd_strict	2
+O-glycans	O-linked glycans	43		gsd_strict	2
+O-glycosylation	O-linked glycosylation	34		gsd_strict	2
+Lewis X	Lewis x	34	G00051MO	gsd_strict	2
+MUC1		32			0
+N-linked oligosaccharides	N-linked glycans	31	G78059CC	gsd_strict	2
+sialyl Lewis X	Sialyl Lewis x	28	G00054MO	gsd_strict	2
+GlycA		27			0
+Thomsen-Friedenreich antigen	T antigen	26	G00031MO	gsd_strict	2
+mannose	Mannose	25		gsd_strict	2
+M2BPGi		24			0
+O-linked glycans	O-linked glycans	23		gsd_strict	2
+fucose		22			0
+glycans	Glycans	21		gsd_strict	2
+sialyl-Tn	Sialyl-Tn antigen	21	G36123IU	gsd_strict	2
+GalNAc	GalNAc	20		gsd_strict	2
+sialylated glycans		19			0
+fucosylated glycans		19			0
+N-linked glycan	N-linked glycans	19	G78059CC	gsd_strict	2
+O-glycan	O-linked glycans	18		gsd_strict	2
+core fucosylation	Core-fucosylation	18		gsd_strict	2
+T antigen	T antigen	17	G00031MO	gsd_strict	2
+sialic acids	Sialic acids	16		gsd_strict	2
+HNK-1	HNK-1	15	G54406UD	gsd_strict	2
+T	T antigen	15	G00031MO	gsd_strict	2
+galactosylation	galactosylation	14		gsd_strict	2
+sialyl Lewis x	Sialyl Lewis x	14	G00054MO	gsd_strict	2
+O-linked oligosaccharides	O-linked glycans	14		gsd_strict	2
+Lewis x	Lewis x	14	G00051MO	gsd_strict	2
+hyperglycosylated hCG		13			0
+bisecting GlcNAc		13			0
+Lewis(x)	Lewis x	13	G00051MO	gsd_strict	2
+N-acetyllactosamine		13			0
+sialic acid residues		11			0
+N-linked carbohydrates	N-linked glycans	11	G78059CC	gsd_strict	2
+sialyl-Lewis X	Sialyl Lewis x	10	G00054MO	gsd_strict	2
+glycated albumin		10			0
+sialyl Lewis x (sLe(x))	Sialyl Lewis x	10	G00054MO	gsd_strict	2
+Globo H	Globo H	10		gsd_strict	2
+N-glycan branching		10			0
+STn	Sialyl-Tn antigen	10	G36123IU	gsd_strict	2
+O-GlcNAc	O-GlcNAc	10	G49108TO	gsd_strict	2
+SSEA-4	SSEA-4	10	G84263XI	gsd_strict	2
+oligosaccharides	Glycans	10		gsd_strict	2
+N-glycosylated	N-linked glycosylation	10		gsd_strict	2
+sialyl-Lewis x	Sialyl Lewis x	9	G00054MO	gsd_strict	2
+N-glycopeptides		9			0
+O-linked glycosylation	O-linked glycosylation	9		gsd_strict	2
+N-acetylgalactosamine	GalNAc	9		gsd_strict	2
+N-acetylglucosamine	GlcNAc	9		gsd_loose	2
+sialoglycans		9			0
+core fucose	Core fucose	8		gsd_strict	2
+fucosylated N-glycans		8			0
+fructosamine		8			0
+sialyl Le(x)	Sialyl Lewis x	8	G00054MO	gsd_strict	2
+Le(x)	Lewis x	8	G00051MO	gsd_strict	2
+galactose		8			0
+polysialic acid		8			0
+glycan	Glycans	7		gsd_strict	2
+glycation		7			0
+sialyl-Tn antigen	Sialyl-Tn antigen	7	G36123IU	gsd_strict	2
+sialylated N-glycans		7			0
+Le(y)	Lewis y	7	G00052MO	gsd_strict	2
+GM3	GM3	7	G91237TK	gsd_strict	2
+core 2 O-glycans	Core 2	7	G00033MO	gsd_strict	2
+O-GlcNAcylation		7			0
+sialyl-Lewis(x)	Sialyl Lewis x	7	G00054MO	gsd_strict	2
+N-acetylgalactosamine (GalNAc)		6			0
+sialyl Lewis a	Sialyl Lewis a	6	G00053MO	gsd_strict	2
+bisecting N-acetylglucosamine		6			0
+α2,3-linked sialic acid		6			0
+Lewis Y	Lewis y	6	G00052MO	gsd_strict	2
+LewisX	Lewis x	6	G00051MO	gsd_strict	2
+Sialyl Lewis X	Sialyl Lewis x	6	G00054MO	gsd_strict	2
+glycan shield		6			0
+sialosyl-Tn	Sialyl-Tn antigen	6	G36123IU	gsd_strict	2
+galectin-3		6			0
+pentosidine		6			0
+sialyl-Tn (STn)		6			0
+sialyl-Lewis a	Sialyl Lewis a	6	G00053MO	gsd_strict	2
+sialyl Lewis(x)		6			0
+CA19-9	Sialyl Lewis a	6	G00053MO	gsd_strict	2
+N-linked glycosylation sites		6			0
+glycosylphosphatidylinositol (GPI)	GPI anchors	6		gsd_strict	2
+anti-laminaribioside		6			0
+anti-chitobioside		6			0
+anti-mannobioside		6			0
+galectin-1		6			0
+fucosylated glycan		5			0
+polylactosamine		5			0
+IgG N-glycans		5			0
+Mac-2 binding protein glycosylation isomer		5			0
+N-glycan structures	N-linked glycans	5	G78059CC	gsd_loose	2
+N-glycome		5			0
+N- and O-glycans		5			0
+high mannose glycans	High mannose	5	G55220VL	gsd_strict	2
+agalactosylation		5			0
+core fucosylated glycans	Core fucose	5		gsd_strict	2
+lactosylceramide	Lactosylceramide	5	G84224TW	gsd_strict	2
+α2-6 sialylation		5			0
+sialylated O-glycans		5			0
+LacdiNAc	LacdiNac	5	G31736BK	gsd_strict	2
+Lewis(X)	Lewis x	5	G00051MO	gsd_strict	2
+advanced glycation end products (AGEs)		5			0
+glycosylated	glycosylation	5		gsd_strict	2
+core-fucosylation	Core-fucosylation	5		gsd_strict	2
+asialofetuin		5			0
+carbohydrate-deficient transferrin (CDT)		5			0
+sialyl residues		5			0
+carbohydrate-deficient transferrin		5			0
+O-glycosylated	O-linked glycosylation	5		gsd_strict	2
+chondroitin sulfate		5			0
+sialyl Lewis X (sLeX)		5			0
+glycan-related biomarkers		5			0
+MUC2		5			0
+MUC1 mucin		5			0
+2,3-sialyl T antigen, core 1-type O-glycan	Sialyl T antigen	5	G65562ZE	gsd_strict	2
+N-glycan profile		4			0
+core-fucosylated N-glycans	Core-fucosylated	4	G78059CC	gsd_strict	2
+NA2F		4			0
+core-fucosylated biantennary glycans		4			0
+NGA2F		4			0
+oligomannose	High mannose	4	G55220VL	gsd_strict	2
+sulfated glycans		4			0
+N-glycosylation site		4			0
+Globo-H	Globo H	4		gsd_strict	2
+glycopeptides		4			0
+high-mannose-type glycans	High mannose	4	G55220VL	gsd_strict	2
+oligosaccharide chains		4			0
+Le(a)	Lewis a	4	G00047MO	gsd_strict	2
+free oligosaccharides	Free glycans	4		gsd_strict	2
+glycan moieties		4			0
+O-linked glycopeptides		4			0
+αGlcNAc		4			0
+Lewis X Antigen	Lewis x	4	G00051MO	gsd_strict	2
+glycan structures	Glycans	4		gsd_loose	2
+Sialyl-Tn (STn)		4			0
+Sialyl-Le(x) (SLe(x))		4			0
+SSEA-3	SSEA-3	4	G25129BT	gsd_strict	2
+GlcNAc	GlcNAc	4		gsd_strict	2
+glycan epitopes		4			0
+sorbitol		4			0
+Tn-antigen		4			0
+complex glycans		4			0
+glycosphingolipids		4			0
+glucosepane		4			0
+glycosylation site		4			0
+complex N-glycans		4			0
+Neu5Ac	Neu5Ac	4		gsd_strict	2
+reelin		4			0
+6-sulfo sialyl Lewis X	6-Sulfo Sialyl Lewis x	4	G80722US	gsd_strict	2
+aberrant glycan structures		4			0
+N-glycolylneuraminic acid (Neu5Gc)		4			0
+N276 glycan		4			0
+Lewisx	Lewis x	4	G00051MO	gsd_strict	2
+sialyl Lewis x (sLex)		4			0
+anti-laminarin		4			0
+heparan sulfate		4			0
+IgG glycosylation		3			0
+complex-type glycans		3			0
+afucosylation		3			0
+high-mannose glycans		3			0
+high-mannose N-glycans		3			0
+Sialyl-Lewis X	Sialyl Lewis x	3	G00054MO	gsd_strict	2
+glycosaminoglycans		3			0
+sialyl Lewis-X		3			0
+N- and O-linked glycans		3			0
+N-acetylglucosamine (GlcNAc)		3			0
+digalactosylation		3			0
+NA2		3			0
+high mannose N-glycans	High mannose	3	G55220VL	gsd_strict	2
+tri- and tetra-antennary N-glycans		3			0
+terminal galactosylated N-glycans		3			0
+α2,3-linked sialylation		3			0
+core 2-branched O-glycans	Core 2	3	G00033MO	gsd_strict	2
+Fucosylated haptoglobin		3			0
+T-antigen		3			0
+high-mannose type N-glycans	High mannose	3	G55220VL	gsd_strict	2
+GM2	GM2	3	G79389NT	gsd_strict	2
+O-glycan chains		3			0
+GD3	GD3	3	G98544DH	gsd_strict	2
+Thomsen-Friedenreich (TF) antigen	T antigen	3	G00031MO	gsd_strict	2
+Lewis(y)	Lewis y	3	G00052MO	gsd_strict	2
+A2BG2		3			0
+α2,6-linked sialic acids	Alpha2,6-linked sialic acids	3		gsd_strict	2
+6-sulfo sialyl Lewis x	6-Sulfo Sialyl Lewis x	3	G80722US	gsd_strict	2
+TF-antigen	T antigen	3	G00031MO	gsd_strict	2
+sialylated structures		3			0
+sialyl Lewis X (SLe(x))	Sialyl Lewis x	3	G00054MO	gsd_strict	2
+Man8		3			0
+Man9		3			0
+Lewis x antigen	Lewis x	3	G00051MO	gsd_strict	2
+N-linked glycan moieties		3			0
+core 1 O-glycans		3			0
+Sialyl-Le(a) (SLe(a))		3			0
+hypoglycosylation		3			0
+trisialotransferrin		3			0
+tetrasialotransferrin		3			0
+pentasialotransferrin		3			0
+bisecting N-acetylglucosamine (GlcNAc)		3			0
+poly-N-acetyllactosamine		3			0
+glycosylated ferritin		3			0
+O-linked carbohydrates	O-linked glycans	3		gsd_strict	2
+glycosylated protein		3			0
+Oligosaccharides	Glycans	3		gsd_strict	2
+Sialyl-Tn	Sialyl-Tn antigen	3	G36123IU	gsd_strict	2
+N-linked oligosaccharide chains		3			0
+branched N-glycans		3			0
+N197 glycan		3			0
+complex-type N-glycans		3			0
+N-linked sugars	N-linked glycans	3	G78059CC	gsd_loose	2
+GalNAc O-glycosylation		3			0
+galactosylated glycans		3			0
+MUC-1		3			0
+sialyl-Lewis(a)	Sialyl Lewis a	3	G00053MO	gsd_strict	2
+GM3 ganglioside		3			0
+non-enzymatic glycosylation		3			0
+core-fucosylated	Core-fucosylation	3		gsd_strict	2
+α2,6-sialic acid	Alpha2,6-linked sialic acids	3		gsd_strict	2
+furosine		3			0
+glycosylphosphatidylinositol (GPI) anchor	GPI anchors	3		gsd_strict	2
+O-linked sugars	O-linked glycans	3		gsd_loose	2
+N- and O-linked glycosylation		3			0
+alpha1,6-fucosylated		3			0
+N-linked carbohydrate chains		3			0
+N-linked glycosylation site		3			0
+core 1-derived O-glycans		3			0
+CD15		3			0
+MUC1 glycopeptides		3			0
+carbohydrate chains		3			0
+sialyl T	Sialyl T antigen	3	G65562ZE	gsd_strict	2
+N-linked glycan structures	N-linked glycans	3	G78059CC	gsd_loose	2
+sialyl Lewis X (sLe(x))	Sialyl Lewis x	3	G00054MO	gsd_strict	2
+Glycosylphosphatidylinositol (GPI)	GPI anchors	3		gsd_strict	2
+core 2 branched O-glycans		3			0
+3'-sialyllactose		3			0
+sialyl-Lewis A	Sialyl Lewis a	3	G00053MO	gsd_strict	2
+CA 19-9 antigen	Sialyl Lewis a	3	G00053MO	gsd_strict	2
+sialylated	sialylation	3		gsd_strict	2
+glycoforms		3			0
+Lewis antigens		3			0
+glycosylated residues		3			0
+sialoglycoproteins		3			0
+Sialic Acid	Sialic acids	3		gsd_strict	2
+sialoglycan ligands		3			0
+Lewis X antigen	Lewis x	3	G00051MO	gsd_strict	2
+O-glycosylated proteins		3			0
+PI-glycan		3			0
+underglycosylated MUC1		3			0
+glucosylceramide (GlcCer)		3			0
+sulfated glycan		3			0
+sialylated O-linked glycans		3			0
+glycan profile		3			0
+fucosyl residue		3			0
+N-glycan biosynthesis		3			0
+hCG glycoforms		3			0
+fucoidan		3			0
+Lacto-N-fucopentaose III (LNFPIII)		3			0
+HNK-1 carbohydrate epitope	HNK-1	3	G54406UD	gsd_strict	2
+sialyl LewisX	Sialyl Lewis x	3	G00054MO	gsd_strict	2
+glycan-phosphatidyl inositol (GPI)		3			0
+mannan		3			0
+α2,6-SIA	Alpha2,6-linked sialic acids	3		gsd_strict	2
+PIG-linked surface structures		3			0
+hyperfucosylated		3			0
+Gal-9		3			0
+Galectin-1		3			0
+6-sulfo Lewis X		2			0
+core 2 glycans		2			0
+FA2G2S1		2			0
+GP1		2			0
+GP2		2			0
+GP6		2			0
+GP7		2			0
+GP5		2			0
+bisection		2			0
+core 2 O-glycan	Core 2	2	G00033MO	gsd_strict	2
+NA3Fb		2			0
+NA4		2			0
+NA2FB		2			0
+tri-antennary structures		2			0
+α2,6-linked sialic acid	Alpha2,6-linked sialic acids	2		gsd_strict	2
+salivary glycopatterns		2			0
+sialylated N-glycan		2			0
+Thomsen-nouveau (Tn) antigen	Tn antigen	2	G57321FI	gsd_strict	2
+NGA2FB		2			0
+bisecting N-acetylglucosamine (GlcNAc) glycoforms		2			0
+glycosylated PD-L1		2			0
+oligosaccharides terminating in GlcNAc or N-acetyl-lactosamine with occasional α1,2-linked fucose		2			0
+triantennary glycans		2			0
+high-mannose glycan		2			0
+GM1	GM1	2	G48558GR	gsd_strict	2
+mucin glycans		2			0
+monogalactosylation		2			0
+Neu5Gc		2			0
+β1-6 branching		2			0
+N-glycan epitopes		2			0
+advanced glycation endproducts (AGEs)		2			0
+paucimannosidic glycans		2			0
+sialylated MUC1		2			0
+trisialylated triantennary glycans		2			0
+deglycosylation		2			0
+core 1	Core 1	2	G00031MO	gsd_strict	2
+highly fucosylated N-glycans		2			0
+cutaneous lymphocyte-associated antigen (CLA)		2			0
+human milk glycans		2			0
+carbohydrate deficient transferrin		2			0
+GalNAc-ol		2			0
+sulfation		2			0
+FA2B		2			0
+A2G2		2			0
+FA2G2		2			0
+sialyl Lewis A	Sialyl Lewis a	2	G00053MO	gsd_strict	2
+mannosylation	mannosylation	2		gsd_strict	2
+fucosylated glycoform		2			0
+diantennary structures		2			0
+sialyl Lewis-X (sLe(X))		2			0
+sialosyl-Tn antigen		2			0
+Fructosamine		2			0
+complex-type N-linked glycans		2			0
+core fucosylated structure	Core-fucosylated	2	G78059CC	gsd_strict	2
+fucosylated N-linked glycans		2			0
+fucosylated O-linked glycans		2			0
+GalNAc residues		2			0
+Man5		2			0
+glycation sites		2			0
+core 2-based O-glycans		2			0
+serum glycans		2			0
+fucosylated	fucosylation	2		gsd_strict	2
+Glycosylation	glycosylation	2		gsd_strict	2
+truncated O-glycans		2			0
+N-linked glycopeptides		2			0
+alpha2,6-sialylation		2			0
+specific glycan structures		2			0
+terminal sialic acid		2			0
+Mac-2 binding protein glycosylation isomer (M2BPGi)		2			0
+Lewis X pentasaccharide		2			0
+core 2	Core 2	2	G00033MO	gsd_strict	2
+sialyl-Le(x)	Sialyl Lewis x	2	G00054MO	gsd_strict	2
+Carbohydrates	Glycans	2		gsd_strict	2
+sulfated Lewis X		2			0
+fucosylated epitopes		2			0
+Tn (GalNAc)		2			0
+STn (sialyl alpha2-6 GalNAc)		2			0
+TF (Gal beta1-3 GalNAc)		2			0
+NeuAc-Gal-GlcNAc2		2			0
+Tn antigen (α-O-GalNAc-Ser/Thr)		2			0
+IgG galactosylation		2			0
+mucin-type O-glycans		2			0
+mannose type glycans		2			0
+O-glycosylations	O-linked glycosylation	2		gsd_strict	2
+Lewis X (LeX)	Lewis x	2	G00051MO	gsd_strict	2
+E-selectin ligand		2			0
+N276-glycan		2			0
+sialyl-Tn (sTn)		2			0
+trifucosylated tetra-antennary glycan		2			0
+nonglycosylated prostate-specific antigen (PSA)		2			0
+NG1(6)A2F		2			0
+advanced glycation end products		2			0
+alpha-galactosylceramide		2			0
+IgG sialylation		2			0
+Sialyl-Tn antigen	Sialyl-Tn antigen	2	G36123IU	gsd_strict	2
+sialyl-core 1 structure (NeuAcα2-3galactosyl β1-3-N-acetylgalactosamine)		2			0
+sialylated hybrid structures		2			0
+N-glycan chains		2			0
+Peak3		2			0
+glycated hemoglobin		2			0
+hyperglycosylated human chorionic gonadotropin		2			0
+N-glycosylations	N-linked glycosylation	2		gsd_strict	2
+high mannose	High mannose	2	G55220VL	gsd_strict	2
+Tn antigen (GalNAcα1-Ser/Thr)		2			0
+mannosylated	mannosylation	2		gsd_strict	2
+asparagine-linked glycans		2			0
+core and outer arm fucosylation		2			0
+sialic acid (Sia)		2			0
+underglycosylated mucin		2			0
+outer arm to core fucose		2			0
+tetrasialylated structures		2			0
+mannose structures		2			0
+sialyl Lex	Sialyl Lewis x	2	G00054MO	gsd_strict	2
+O-linked carbohydrate	O-linked glycans	2		gsd_strict	2
+glycosylation sites		2			0
+Advanced glycosylation end products (AGEs)		2			0
+glycosylated serum albumin		2			0
+alpha-1-acid glycoprotein		2			0
+hypoglycosylated MUC1		2			0
+Lewis(b)	Lewis b	2	G39211DH	gsd_strict	2
+Fucosylated glycans		2			0
+highly sialylated multi-branched glycans		2			0
+oncofetal fibronectin		2			0
+highly-branched		2			0
+α2,3-linked sialic acids		2			0
+core-2 O-glycans		2			0
+complex-type oligosaccharides		2			0
+glycosyl phosphatidylinositol (GPI)		2			0
+high branching (HB)		2			0
+triantennary (TRIA)		2			0
+GM1 ganglioside	GM1	2	G48558GR	gsd_strict	2
+N-acetyl-galactosamine		2			0
+cancer-associated glycan alteration		2			0
+glycan nodes		2			0
+N-linked carbohydrate	N-linked glycans	2	G78059CC	gsd_strict	2
+Le(X)	Lewis x	2	G00051MO	gsd_strict	2
+N-linked and O-linked carbohydrates		2			0
+fucosylated glycoforms		2			0
+AC133		2			0
+N-glycosylated clusterin		2			0
+alpha GalNAc		2			0
+fructosyl-lysine		2			0
+GalNAcalpha-O-bn		2			0
+O-linked β-N-acetylglucosamine (O-GlcNAc)		2			0
+glycan features		2			0
+glycan motifs		2			0
+N-glycosylated peptides		2			0
+α2,6-sialylated N-glycans		2			0
+D-mannosyl residues		2			0
+Sialyl Lewis X Antigen	Sialyl Lewis x	2	G00054MO	gsd_strict	2
+α2,6 sialylation		2			0
+Lewis type 1 antigens		2			0
+trisialylated triantennary glycan		2			0
+6-sulfo-sialyl Lewis x	6-Sulfo Sialyl Lewis x	2	G80722US	gsd_strict	2
+CD45RB glycosylation		2			0
+glycosylphosphatidylinositol	GPI anchors	2		gsd_strict	2
+Glycated albumin		2			0
+sialyltransferases		2			0
+aberrant glycans		2			0
+core2 O-glycans	Core 2	2	G00033MO	gsd_strict	2
+Lewis x (Le(x))		2			0
+MUC4		2			0
+alpha (1)-acid glycoprotein (AGP)		2			0
+sialosyl-Le(x)		2			0
+aglycosylated		2			0
+asparagine-linked glycosylation		2			0
+Tf-Gly		2			0
+sialylated tumor-related antigen (sTRA)		2			0
+GlycB		2			0
+Asn-linked glycosylation		2			0
+glycosylated G-CSF		2			0
+complex-glycosylated		2			0
+α2,3-sialic acid		2			0
+glucose monomycolate		2			0
+N-glycosylation variants		2			0
+glycophospholipid		2			0
+α2,3-sialylation		2			0
+MUC16		2			0
+sialyl Le(a)		2			0
+carbohydrate moiety		2			0
+sialyl-Lewisx epitopes (sLe(x))		2			0
+glycosylation pattern		2			0
+IgG fucosylation		2			0
+glycan adducts		2			0
+fucosylated N/O-glycans		2			0
+biantennary glycan		2			0
+sialyl 6-sulfo Lewis X		2			0
+Man9GlcNAc2		2			0
+dextran sulfate		2			0
+α1,4-linked N-acetylglucosamine (αGlcNAc)		2			0
+HNK-1 glycan		2			0
+glycan moiety		2			0
+sLe(x)	Sialyl Lewis x	2	G00054MO	gsd_strict	2
+asparagine-linked oligosaccharides		2			0
+mucin-type glycans		2			0
+sialyl-Lewisa		2			0
+sialyl-Lewisx		2			0
+CCA-associated carbohydrate antigen (CCA-CA)		2			0
+advanced glycation endproducts		2			0
+4-O-hexosaminyl-containing disaccharide mimics		2			0
+lactose		2			0
+glycan composition		2			0
+core 3 O-glycan		2			0
+6-sulfo N-acetyllactosamine		2			0
+sialylated epitope		2			0
+carbohydrate residues		2			0
+O-glycosylated peptides		2			0
+sTRA		2			0
+bifucosylated tetra-antennary glycan		2			0
+Lewis A	Lewis a	2	G00047MO	gsd_strict	2
+advanced glycation end-products (AGEs)		2			0
+TA-MUC1		2			0
+TF		2			0
+L2/HNK-1 carbohydrate epitope		2			0
+Amadori albumin		2			0
+high mannose type glycan		2			0
+under-glycosylated MUC1		2			0
+glycosyl-phosphatidylinositol (GPI)		2			0
+mannoproteins		2			0
+SLe(x)	Sialyl Lewis x	2	G00054MO	gsd_strict	2
+LacNAc	N-acetyllactosamine (Type 2)	2	G00055MO	gsd_strict	2
+Gd-IgA1		2			0
+sialyl lewis A	Sialyl Lewis a	2	G00053MO	gsd_strict	2
+oligomannose N-glycans		2			0
+Man5GlcNAc2		2			0
+anti-glycan antibodies		2			0
+α1,4-linked N-acetylglucosamine		2			0
+N-glycosylation patterns		2			0
+Mucin-1		2			0
+PMM2-CDG		2			0
+Polysaccharides		2			0
+MUC5AC		2			0
+alpha-N-acetylgalactosamine (GalNAc)		2			0
+glycosylated forms		2			0
+Galactose-deficient IgA1		2			0
+anti-Saccharomyces cerevisiae antibodies (ASCA)		2			0
+N332 glycan		2			0
+sialyl T antigen	Sialyl T antigen	2	G65562ZE	gsd_strict	2
+O-glycopeptides		2			0
+high-mannose glycosylation		2			0
+CA50		2			0
+sialyl Lewis A (sLe(a))		2			0
+tumor-specific glycan changes		2			0
+sialyl-TN glycans	Sialyl-Tn antigen	2	G36123IU	gsd_strict	2
+gp120		2			0
+sulfo-Lewis(a)		2			0
+fucosylated glycoforms of IgG2		2			0
+deglycosylated ricin A chain		2			0
+Thomsen-Friedenreich		2			0
+N-Glycan	N-linked glycans	2	G78059CC	gsd_strict	2
+N-glycan modifications		2			0
+sialic acid-containing glycans		2			0
+truncated O-linked saccharides		2			0
+fucosylated PSA		2			0
+Tn antigens	Tn antigen	2	G57321FI	gsd_strict	2
+phosphatidylinositol-glycan (PI-G)		2			0
+N-glycolylneuraminic acid		2			0
+N-acetylneuraminic acid (Neu5Ac)		2			0
+α-Gal		2			0
+phosphatidylinositol-glycan		2			0
+oligomannoside		2			0
+Heparan sulfate		2			0
+Lewis(Y)	Lewis y	2	G00052MO	gsd_strict	2
+Hyperglycosylated hCG		2			0
+Hyperglycosylated hCGβ		2			0
+fucosylated triantennary sugar chain		2			0
+mucin O-glycans		2			0
+ACCA		2			0
+embryoglycan		2			0
+HNK-1 carbohydrate		2			0
+Galbeta1-4GlcNAc		2			0
+sialyl residue		2			0
+anti-Saccharomyces cerevisiae		2			0
+branched glycans		2			0
+glycated Lp(a)		2			0
+galactose-deficient immunoglobulin A1 (Gd-IgA1)		2			0
+CA 19-9	Sialyl Lewis a	2	G00053MO	gsd_strict	2
+sialic acid alpha2-3 galactose linkage		2			0
+Galbeta1-3GalNAc		2			0
+N- and O-linked glycan residues		2			0
+N-glycan structure		2			0
+anti-chitin		2			0
+α2,6-sialylation		2			0
+NeuAc alpha 2-3Gal		2			0
+core-1 O-glycans		2			0
+orosomucoid		2			0
+HNK-1 epitope	HNK-1	2	G54406UD	gsd_strict	2
+α2-6-sialic acid		2			0
+6'-sulfated sialyl Lewis X		2			0
+N-glycopeptide IgG2-GP09		2			0
+sialyl-Lewis-X		2			0
+heparin		2			0
+heavy chain glycans		2			0
+Alpha-L-fucose		2			0
+anti-chitine		2			0
+sialyl Lewis(x) (sLe(x))		2			0
+polylactosaminoglycans		2			0
+sialyl-di-Lewis a		2			0
+sialylated glycan-structures		2			0
+carbohydrate moieties		2			0
+glycan branching		2			0
+hyposialylation		2			0
+mannosides		2			0
+glycocalyx		2			0
+sialyl-Tn (sTn) antigen		2			0
+agalactosylated (G0) IgG		2			0
+V3-glycan		2			0
+polylactosaminoglycan		2			0
+Asn-linked oligosaccharides		2			0
+hyaluronan	Hyaluronan	2	G29086KO	gsd_strict	2
+GalNAcbeta1-4(Fucalpha1-2Fucalpha1-3)GlcNAc (LDN-DF)		2			0
+hyaluronic acids		2			0
+N-acetyl glucosamine residues		2			0
+N-acetyl methyl groups		2			0
+core-fucosylated haptoglobin		2			0
+Wisteria floribunda agglutinin positive Mac-2-binding protein (M2BPGi)		2			0
+α2,6 sialylated N-glycans		1			0
+digalactosylated monosialylated biantennary with core and antennary fucose		1			0
+the ratio of all fucosylated monosialylated and disialylated structures		1			0
+the proportion of high mannose glycan structures in total neutral IgG glycans		1			0
+the percentage of all fucosylated structures in total neutral IgG glycans		1			0
+the incidence of bisecting GlcNAc in all fucosylated digalactosylated structures in total neutral IgG glycans		1			0
+difucosylated Lewis Y (LeY)		1			0
+α-GalNAc Tn-antigen		1			0
+Core 1 and Core 2 glycan structures		1			0
+Fuc1Hex5HexNAc5		1			0
+IgG1 glycosylation traits		1			0
+fucosylation on IgG1, IgG2 and IgG3		1			0
+glycosylation of mucin 1		1			0
+glycosylation of mucin 16		1			0
+glycosylation of CD63		1			0
+undersialylated and undergalactosylated biantennary and triantennary glycans		1			0
+aglycosylated glycoform		1			0
+mono-sialylated glycoform		1			0
+glycan compositions or/and structures		1			0
+α-2,6 sialic acid		1			0
+sialyllactose		1			0
+lactose- and N-acetyllactosamine (LacNAc) type-II-core glycans		1			0
+NeuAcα2-3Galβ1-4(+/-Fucα1-3) Xylα1-3Glc		1			0
+Core 1/Core 3 O-glycosylation		1			0
+α-2,3 sialylation		1			0
+α-1,2 fucosylation		1			0
+core 1 sialylated O-glycans		1			0
+Lewis-X antigen (Lex, CD15) (Galβ1-4(Fucα1-3)GlcNAcβ1-R)		1			0
+G2		1			0
+FA2BG1		1			0
+T-antigen (Galβ1-3GalNAc)		1			0
+Fc-bisection		1			0
+Fc-sialylation		1			0
+Fc-fucosylation		1			0
+O-acetylated sialoglycans		1			0
+oligomannose N-glycan		1			0
+IgG Fc N-glycan traits		1			0
+galactose and sialic acid structures		1			0
+GP4		1			0
+GP24		1			0
+GP9		1			0
+GP13		1			0
+GP15		1			0
+GP18		1			0
+GP23		1			0
+Hex1		1			0
+HexNAc1Hex1Neu5Ac1		1			0
+digalactosylated (G2)		1			0
+agalactosylated (G0)		1			0
+fucosylation (F)		1			0
+bisected N-acetylglucosamine		1			0
+complex β1-6 branched N-linked oligosaccharides		1			0
+N-glycosylation signatures		1			0
+stage-specific embryonic antigen 4 (SSEA-4)		1			0
+GP14		1			0
+sialyl-Lewis antigen		1			0
+fucosylated haptoglobin		1			0
+Mac-2 bp glycosylation isomer		1			0
+Glucosylsphingosine		1			0
+paucimannosidic N-glycans		1			0
+complex N- and O-glycans		1			0
+isomeric N-glycans		1			0
+O-mannose-bound matriglycan		1			0
+N-glycans carrying bisecting N-acetylglucosamine		1			0
+N-linked glycan compositions		1			0
+GlcNAc bisection		1			0
+H5N2		1			0
+H6N2		1			0
+H7N2		1			0
+H3N3F1		1			0
+H5N5F1		1			0
+Globo H hexasaccharide		1			0
+bifucosylated triantennary N-glycan (peak10, NA3F2)		1			0
+N-glycan structures (peak9, NA3Fb)		1			0
+N-glycan structures (peak12, NA4Fb)		1			0
+disialyl core 1 O-glycan		1			0
+tri-antennary and sialylated N-glycans		1			0
+core-fucosylated glycans	Core fucose	1		gsd_strict	2
+bisected glycans		1			0
+agalactosylated, HexNAc terminated IgG1 glycoforms		1			0
+bisecting glycoforms		1			0
+biantennary glycoforms		1			0
+tetra-antennary α-2,3 sialylated N-glycans		1			0
+dimeric Le(x)	Dimeric Lewis x	1	G79535HZ	gsd_strict	2
+galactosylated N-glycans		1			0
+Lewis-X		1			0
+N58 glycan		1			0
+nonsialylated, nonfucosylated N-glycans		1			0
+fOSs	Free glycans	1		gsd_strict	2
+pauci-mannose		1			0
+HexNAc4 Hex5 Fuc1 NeuAc1		1			0
+HexNAc4 Hex5 Fuc1 NeuAc2		1			0
+6-sulfo type2 lactosamine		1			0
+6-sulfo Lewis Y		1			0
+3'-sulfo type1 lactosamine		1			0
+3'-sulfo Lewis A	3'-Sulfo-Lewis a	1	G78706CK	gsd_strict	2
+Cervical glycans		1			0
+Cervical glycome		1			0
+NeuAcα2-3Galβ1-3N-acetylgalactosamine (GalNAc)		1			0
+sialyl Lewis X antigen	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+trisialylated monofucosylated triantennary glycan (A3F)		1			0
+extended O-glycans		1			0
+Galbeta(1-3)GalNAc	T antigen	1	G00031MO	gsd_strict	2
+H3N5		1			0
+H4N3F1P1		1			0
+H5N4F1P1		1			0
+S1H5N4F1		1			0
+NA4Fb		1			0
+NG1A2F		1			0
+dimLea		1			0
+LebLea		1			0
+bigalacto core-α-1,6-fucosylated biantennary glycan		1			0
+branching α-1,3-fucosylated triantennary glycan		1			0
+terminal lactosamine		1			0
+α1,6 and α1,3 fucosylated oligosaccharides		1			0
+GalNAcα1,3(LFucα1,2)Galβ1,3/4GlcNAcβ1		1			0
+chitotriose		1			0
+α1,2-linked fucose		1			0
+α2,6 sialic acids		1			0
+Thomson-nouveau antigen (Tn)		1			0
+sialylated form (STn)		1			0
+oligo-mannose		1			0
+hybrid-type		1			0
+α2,6-sialylated structures		1			0
+tetra-antennary structures		1			0
+glycomic fingerprint		1			0
+core-fucosylated triantennary glycans with outer-arm fucose		1			0
+high mannosylated glycans		1			0
+bisected type N-glycans		1			0
+LewisX antigens		1			0
+complex type N-glycans with bisecting GlcNAc		1			0
+sTn antigen		1			0
+Tn antigen (GalNAcα1-Thr/Ser)		1			0
+GAG-NREs		1			0
+immature truncated O-glycans		1			0
+high mannose, core-fucosylated, hyperbranched/hypersialylated N-glycans		1			0
+glycan (m/z 2118)		1			0
+O-glycosylated MUC1		1			0
+N-glycan profiles		1			0
+Glc₁Man₉GlcNAc₂		1			0
+Gal₂Man₃GlcNac₄Fuc₁Neu₁		1			0
+Man₄GlcNac₂		1			0
+Gal₂Man₃GlcNac₄Neu₃OAc₃		1			0
+Man₃GlcNac₅ Fuc₁		1			0
+Glycan	Glycans	1		gsd_strict	2
+O-linked N-acetylgalactosamine (O-GalNAc)		1			0
+core fucosylated glycoforms		1			0
+sialyl-Lewis x -Lewis x		1			0
+O-linked glycans carrying alpha2,3-linked sialic acid		1			0
+Mac-2 Binding Protein Glycosylation Isomer		1			0
+asialylated or monosialylated biantennary and triantennary N-glycans		1			0
+fully galactosylated structures		1			0
+bisialylated biantennary and trisialylated triantennary structures		1			0
+agalacto core-alpha-1,6-fucosylated biantennary glycan (NGA2F)		1			0
+Lewis(X) motif		1			0
+tetraantennary N-glycans		1			0
+core-fucosylated biantennary digalactosylated N-glycan		1			0
+tri- and tetra-antennary fucosylated N-glycans		1			0
+IgG1G0F		1			0
+IgG2G0F		1			0
+IgG2G1FN		1			0
+IgG2G1FS		1			0
+IgG2G2S		1			0
+IgG4G0F		1			0
+IgG4G1FS		1			0
+IgG4G1S		1			0
+IgG4G2FS		1			0
+IgG4G2N		1			0
+mannose-enriched glycans		1			0
+Sia-alpha2-6Gal/GalNAc		1			0
+monosialylated glycans		1			0
+NeuAcalpha2-6Galbeta1-4GlcNAcbeta1-2Manalpha1-3Manbeta1-4GlcNAc		1			0
+glycan chains of fetuin		1			0
+Core 1-derived O-glycans		1			0
+Core 2-derived O-glycans		1			0
+Core 3-derived O-glycans		1			0
+monofucosylated N-glycans		1			0
+difucosylated N-glycans		1			0
+core-type fucosylated N-glycan	Core-fucosylated	1	G78059CC	gsd_strict	2
+Lewis-type fucosylated N-glycan		1			0
+NeuAc1Gal1GalNAc1		1			0
+NeuAc2Gal1GalNAc1		1			0
+monosialylated diantennary glycans A2G2S(6)1 and FA2G2S(3)1		1			0
+α2,3 sialylation		1			0
+complex glycan		1			0
+N-Glycans	N-linked glycans	1	G78059CC	gsd_strict	2
+GD1	GD1	1	G81983KG	gsd_strict	2
+sialyl-T (O-glycan)	Sialyl T antigen	1	G65562ZE	gsd_strict	2
+free oligosaccharides (fOSs)		1			0
+core-2 tetrasaccharide Galbeta1-->4GlcNAcbeta1-->6(Galbeta1-->3)GalNAcOH++		1			0
+sialyl Lewis x antigen	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+disialylated, monofucosylated glycan		1			0
+monosialylated, trifucosylated glycan		1			0
+core fucose residues		1			0
+core-fucose	Core fucose	1		gsd_strict	2
+complex neutral		1			0
+fucosyltransferases		1			0
+glycosylation level		1			0
+total α-1,6-core fucosylated biantennaries (NGA2F, NG1A2F, NA2F)		1			0
+total bisecting α-1,6-core fucosylated biantennaries (NGA2FB, NA2FB)		1			0
+branching α-1,3-fucosylated triantennary N-glycan (NA3FB)		1			0
+α-1,6-core fucosylated structure NA2F		1			0
+non-fucosylated structure NA2		1			0
+pauci-mannose/mono-antennary type N-glycans		1			0
+bisecting GlcNAc residues		1			0
+(neo)lacto-series glycosphingolipids		1			0
+2-linked mannose		1			0
+β1-4 branching		1			0
+4-linked GlcNAc		1			0
+antennary fucosylation		1			0
+fucosylated triantennary structures		1			0
+fucosylated biantennary with core-branched N-acetylglucosamine		1			0
+triantennary structures		1			0
+tetraantennary tetrasialylated glycan with a polylactosamine extension, A4G4LacS4		1			0
+triantennary trisialylated glycan containing the SLex epitope		1			0
+bisecting and sialylated glycans		1			0
+Core 1 type glycans		1			0
+core-fucosylated, multiply branched and sialylated structures		1			0
+two core-fucosylated and agalactosylated glycans (m/z 1591, 1794)		1			0
+sialyl (S)Tn		1			0
+glycated hemoglobin HbA1c		1			0
+PGP10(FA1G1Ga1)		1			0
+PGP11(FA2G2)		1			0
+PGP15(FA3G2)		1			0
+PGP17(A2G2S)		1			0
+BGP11(F(6)A2B)		1			0
+sialylated tri- or tetra-antennary glycans		1			0
+3-sialylated tri-antennary N-glycopeptides		1			0
+sialylated Lewis type epitope		1			0
+core-fucosylated high mannose N-glycans		1			0
+internally sialylated glycans		1			0
+Sialyl Lewis X (sLe<sup>x</sup>)		1			0
+DSIgG1 G1FN/G0FN, G2N/G2, G2FN/G2N		1			0
+DSIgG2 G1F/G0F, G1FN/G0FN, G2N/G1N, G2S/G2		1			0
+agalactosylated biantennary glycans		1			0
+biantennary (NA2) N-glycans		1			0
+triantennary (NA3) N-glycans		1			0
+bisected complex type N-glycans		1			0
+H4N3S1		1			0
+H4N3F1		1			0
+H6N4S2		1			0
+H6H5F1S2		1			0
+H6N5		1			0
+H6N6F1S1		1			0
+O-linked galactosyl beta1,3 N-acetylgalactosamine (Gal beta1-->3GalNAc)		1			0
+α1-6 fucosylated tri-antennary glycans		1			0
+core- and arm-fucosylation on tetra-antennary glycans		1			0
+high-mannose type glycans		1			0
+highly-branched sialyted N-glycans		1			0
+Bisecting GlcNAc		1			0
+triantennary glycan		1			0
+sialylated mucin-type O-glycan with core 1- and core 2-based structures		1			0
+H-type 1 antigen (Fuc-α1,2-Gal-β1,3-GlcNAc)		1			0
+sialylated glycan chains		1			0
+sulfated O-glycans		1			0
+poly-N-acetyllactosamine chains		1			0
+complex-type branched N-glycans		1			0
+outer-arm fucosylation		1			0
+tri- and tetra-branched structures		1			0
+bisecting glycans		1			0
+N-linked glycome		1			0
+sialyl Lewis antigens		1			0
+core-fucosylated-agalacto-biantennary		1			0
+fucosylated-galactosylated-triantennary		1			0
+afucosylated-galactosylated-biantennary		1			0
+multi-glycans		1			0
+methylglyoxal		1			0
+sialyl-Lewis X (SLe(X))		1			0
+bisected N-glycans		1			0
+di/triantennary complex type N-glycans		1			0
+biantennary fucosylated structures		1			0
+fucosylated, afucosylated tri- and tetraantennary structures		1			0
+N-glycans H6N5F1		1			0
+N-glycans H7N6F1		1			0
+N-glycans H3N4F1		1			0
+N-glycans H5N4F3		1			0
+core 2-based glycans		1			0
+core 1-based glycans		1			0
+6-sulfo sialyl Lewis x (sLex)		1			0
+MECA-79 epitope		1			0
+NeuAcalpha2-3Galbeta1-3GalNAc-ol		1			0
+Galbeta1-3GalNAc-ol		1			0
+NeuAcalpha2-3Galbeta1-4GlcNAcbeta1-6[NeuAcalpha2-3Galbeta1-3]GalNAc-ol		1			0
+NeuAcalpha2-3Galbeta1-4GlcNAcbeta1-6[NeuAcalpha2-3Galbeta1-4GlcNAcbet a1-3Galbeta1-3]GalNAc-ol		1			0
+acetylation		1			0
+globo-type glycans		1			0
+disialyl gangliosides		1			0
+glycan biomarkers		1			0
+known glycan structures		1			0
+A2G1		1			0
+FA2[6]G1		1			0
+FA2[3]G1		1			0
+FA2[6]BG1		1			0
+FA2[3]BG1		1			0
+FA2G2S2		1			0
+Hex4HexNAc2		1			0
+Hex7HexNAc6dHex1Neu5Ac4		1			0
+biantennary complex-type N-glycan		1			0
+high-mannose structures (Hex(5-9)HexNAc(2))		1			0
+complex/hybrid-type glycans (NeuAc(0-3)Fuc(0-3)Hex(3-8)HexNAc(3-7))		1			0
+bisecting N-linked glycan structures		1			0
+Mac-2 binding protein glycosylation-modified isomer (M2BPGi)		1			0
+gangliosides		1			0
+polysialylated glycans		1			0
+HNK1-epitope		1			0
+6-sialylated biantennary glycans		1			0
+oxidation		1			0
+O-acetylated sialoglycoproteins		1			0
+sialylated N-glycan structures		1			0
+fucosylated N-glycan structures		1			0
+tandem repeat polypeptides		1			0
+sialylated bi-antennary glycans		1			0
+tri-antennary, N-linked, fucosylated glycans		1			0
+minor tri-antennary N-linked glycan		1			0
+O-mannosylated glycan		1			0
+cell surface glycosylation		1			0
+sialyl Lewis X epitopes (SLe(X))		1			0
+core fucosylated agalactosyl biantennary glycans		1			0
+core glycan, consisting of two GlcNAc and three hexoses		1			0
+3'-sialyl N-acetyllactosamine (3'-SLN)		1			0
+glycan repertoire of the human parasite Schistosoma mansoni		1			0
+DTR motif of MUC1		1			0
+α2,3-linked sialoglycans		1			0
+α2,6- and α2,3-sialylated glycan structures		1			0
+GalNAc-Ser/Thr		1			0
+fucosyl vs non-fucosyl		1			0
+O-linked glycan	O-linked glycans	1		gsd_strict	2
+mucin core-1 sugar		1			0
+biantennary complex type disialyloligosaccharide		1			0
+Oligomannosidic glycans		1			0
+(2,6)-branched triantennary glycans		1			0
+hybrid structures		1			0
+alpha(1,3)-fucosylation		1			0
+alpha(1,6)-core fucosylation		1			0
+bisecting GlcNAc residue		1			0
+di-sialylated T-antigen (NeuAcα2,3Galβ1,3(NeuAcα2,6)GalNAc)		1			0
+mannose octasaccharide		1			0
+mannose hexasaccharide		1			0
+biantennary complex-type structure		1			0
+core-2 glycans		1			0
+CA 125		1			0
+oligomannose glycoforms		1			0
+GalNAc alpha 1----Ser/Thr		1			0
+alpha2,3-sialylation		1			0
+WFA-recognized glycans		1			0
+terminal N-acetyl galactosamine		1			0
+N-acetyl glucosamine oligomers		1			0
+tri/tetra-antennate non-bisected complex N-linked glycan		1			0
+core fucosylated, agalactosyl biantennary glycans (FA2)		1			0
+sialyl Lewis x (SLe(x))	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+non-natural sialyl TF-beta O-glycan		1			0
+high-mannose N-glycan [-(N-acetylglucosamine)2-(mannose)5-8]		1			0
+high-mannose and fucosylated biantennary complex N-linked glycans		1			0
+type-2 oligosaccharides		1			0
+alpha2-3 sialylation		1			0
+bisecting N-acetylglucosamine residue		1			0
+neutral oligosaccharides		1			0
+alpha1,6-fucosylation		1			0
+Core 1 (beta-Gal(1-3) alpha-GalNAc-O-Ser/Thr)		1			0
+S-linked glycans		1			0
+Lewis(X) antigen		1			0
+TIMP-1 glycans		1			0
+biantennary and hybrid N-linked structures		1			0
+high mannose N-glycan	High mannose	1	G55220VL	gsd_strict	2
+Siaα2,6Gal		1			0
+Siaα2,3Gal		1			0
+glycoforms of fetuin		1			0
+N- and O-linked sugars		1			0
+non-sialylated N-glycans		1			0
+GlcNAc(2)Man(7)		1			0
+sialylated T-antigens		1			0
+highly sialylated O-linked glycans		1			0
+Le(a) trisaccharide antigen		1			0
+Le(x) trisaccharide antigen		1			0
+DF3 epitope		1			0
+alpha 1-ACT glycans		1			0
+terminal glycosylation		1			0
+FA2BG2		1			0
+Lewis(x) epitope		1			0
+high-mannose 5		1			0
+tetraantennary structures		1			0
+core-fucosylated tetraantennary N-glycans		1			0
+advanced glycation end product (AGE)-modified proteins		1			0
+asparagine-linked saccharide units		1			0
+monoantennary glycans		1			0
+highly sialylated glycans		1			0
+disialylated glycans		1			0
+tri- and tetra-antennary glycans		1			0
+tri-, di-, mono- and non-sialylated complex-type N-glycans		1			0
+bi-antennary-fucosylated GlcNAc-terminated residues		1			0
+Wisteria floribunda agglutinin reactive glycan (LacdiNAc)		1			0
+Lewis X antigen group		1			0
+O-glycan cryptic epitope, gp(C1)		1			0
+Muc1		1			0
+core-fucosylated bi-antennary monosialylated glycans		1			0
+bisecting bi-antennary and non-fucosylated glycans		1			0
+sialylated N-glycopeptide structures LPTQNITFQTESSVAEQEAEFQSPK HexNAc6, Hex3, Neu5Ac2		1			0
+structure IVLDPSGSMNIYLVLDGSDSIGASNFTGAK HexNAc5, Hex4, Fuc1		1			0
+Le(a)Le(x) tumor-associated carbohydrate antigen		1			0
+L-galactosylated dimeric sialyl Lewis X		1			0
+O-mannosyl glycans	O-linked mannose	1	G59126YU	gsd_strict	2
+sialic acid-containing structures		1			0
+fucose-containing structures		1			0
+α1,3fucosylated AGP (fAGP)		1			0
+glycans with one complex type antenna		1			0
+bigalactosylated biantennary glycans		1			0
+nongalactosylated biantennary glycans		1			0
+agalactosylated IgGs terminating with N-acetylglucosamine		1			0
+sialylated, mucin-like domain		1			0
+high mannose type and biantennary glycans		1			0
+triantennary chains		1			0
+acute-phase glycoproteins		1			0
+O-mannose-linked HNK-1		1			0
+core-type 1 O-glycans		1			0
+α1,3fucosylated glycans		1			0
+nonfucosylated glycans		1			0
+isomers with more α-2,6-linked sialic acids		1			0
+complex-type N-glycosylation		1			0
+asialo-bisecting GlcNAc type N-glycan		1			0
+Sialyl Lewis (sLe(x))		1			0
+glycosylation of acetylcholinesterase		1			0
+H-type II blood group determinant pentasaccharide		1			0
+lacto-N-fucoheptaose		1			0
+α1-3/4 fucosyl epitope at Asn 241		1			0
+Advanced glycation end products (AGEs)		1			0
+Fucose		1			0
+Sialylation	sialylation	1		gsd_strict	2
+difucosylated cores		1			0
+paucimannosidic N-glycan (Man(3)GlcNAc(2))		1			0
+galactosylation of diantennary glycans		1			0
+sialylated biantennary, triantennary and tetra-antennary oligosaccharides		1			0
+hyposialylated transferrin		1			0
+sialylated moieties		1			0
+mannosylated moieties		1			0
+deoxyfructosyl-lysine		1			0
+core type 1 and type 2 glycans		1			0
+high mannose and complex bisecting type N-linked glycans		1			0
+G2890		1			0
+G3560		1			0
+core 1 O-glycan		1			0
+ABO blood group antigens		1			0
+A9 antigen		1			0
+multi-antennary glycans		1			0
+transferrin glycans		1			0
+Mac-2-binding protein glycosylation isomer		1			0
+globotriaose		1			0
+isoglobotriaose		1			0
+α-lactosylceramide		1			0
+Siaα2-6Gal/GalNAc		1			0
+Galβ4GlcNAc		1			0
+GalNAcα3GalNAc		1			0
+Galβ3GalNAc		1			0
+branching/LacNAc elongation		1			0
+sialyl-T		1			0
+N- and O-glycosylation patterns		1			0
+MUC1 glycosylation		1			0
+dimeric Le(x) oligosaccharide		1			0
+glycopeptide neoantigen epitopes centering the GSTA sequence		1			0
+glycoconjugates		1			0
+mucin-type core 1 structures		1			0
+core 2 O-linked sLe(x)		1			0
+glycan modifications		1			0
+NeuNAc alpha 2----3Gal beta 1----3 (NeuNAc alpha 2----3Gal beta 1----4GlcNAc beta 1----6) GalNAcOH		1			0
+301N-glycan		1			0
+O-glycan α-2,6-sialylation		1			0
+Fucosylated structures		1			0
+O-glycan patterns		1			0
+sialyl-TF		1			0
+sialyl-dimeric Le(x)		1			0
+core-part of glycans		1			0
+FA2		1			0
+sugar moiety		1			0
+Gb3	Globotriaosylceramide	1	G00059MO	gsd_strict	2
+sulfated type 2 tumor-associated carbohydrate antigens		1			0
+glycosylated form of Siglec-6		1			0
+AcPAPGS(alpha GalNAc)T(alpha GalNAc)APPA		1			0
+AcS(alpha GalNAc)T(alpha GalNAc)APPA		1			0
+HbA1c		1			0
+glycosylated signaling molecules		1			0
+carboxyethyl-lysine (CEL)		1			0
+2-succinocystein (2SC)		1			0
+sialyl LewisX (sLex)		1			0
+asialotransferrin to sialotransferrin ratio		1			0
+bi-antennary structures		1			0
+tri-antennary/bisecting structures		1			0
+sulfated N-glycans		1			0
+sialylated Thomsen-Friedenreich antigens		1			0
+non-sulfated HNK-1 glyco-epitope		1			0
+high-mannose and complex-type fucosylated N-glycans		1			0
+serum fucosylation		1			0
+IgG peak 7		1			0
+PNA-specific glycans		1			0
+truncated precursor glycan structures		1			0
+oligo-mannose oligosaccharides		1			0
+sialylated biantennary glycans		1			0
+core fucosylated biantennary glycans		1			0
+triantennary glycan with two fucoses		1			0
+disialotransferrin		1			0
+glycosyl modification		1			0
+High-mannose-type, complex-type, and hybrid-type oligosaccharides		1			0
+Man6P (mannose 6-phosphate)		1			0
+Uridine Diphosphate N-acetylglucosamine		1			0
+Glucosamine		1			0
+glycated RBP		1			0
+tumor-associated glycoprotein (TAG)-72		1			0
+glycosylated proteoforms		1			0
+Uridine diphosphate N-acetylglucosamine (UDP-GlcNAc)		1			0
+biantennary N-linked		1			0
+N-glycan core-afucosylation		1			0
+NeuAcalpha2-3Galbeta1-3GalNAcol		1			0
+NeuAcalpha2-3Galbeta1-3(NeuAcalpha2-6)GalNAcol		1			0
+Galbeta1-3(NeuAcalpha2-6)GalNAcol		1			0
+Galbeta1-3GalNAcol		1			0
+N-glycan oligosaccharides		1			0
+fucosylated paucimannose		1			0
+GalNAc-rich O-glycans		1			0
+N-linked complex type		1			0
+high mannose-type N-linked glycans		1			0
+additional glycan at the N-terminal base of the V2 loop		1			0
+glycosylation profiles		1			0
+monosaccharides		1			0
+underglycosylated mucin-1 (uMUC1)		1			0
+mucin-type glycopeptides		1			0
+N-glycans of the oligomannosidic or hybrid type		1			0
+HexNAc5Hex4dHex1s/p1		1			0
+VVL		1			0
+DSA		1			0
+SNA		1			0
+C-glycosyl amino acids		1			0
+3,4,6-tri-O-acetyl-2-azido-2-deoxy-alpha-D-galactopyranosyl		1			0
+Tn-antigenic structures		1			0
+hyperglycosylation of CD19		1			0
+core 2 oligosaccharide Galβ3(Galβ3/4GlcNAcβ6)GalNAc-ol		1			0
+glycated hemoglobin (HbA1c)		1			0
+H-type 2		1			0
+sialyl-oligosaccharide		1			0
+glycosylated exoPD-L1		1			0
+advanced glycosylation end products (AGEs)		1			0
+sialyl-Lewis(x) antigen		1			0
+GSH		1			0
+4-HNE		1			0
+hCGα glycoforms		1			0
+hCGβ glycoforms		1			0
+aberrant glycosylated IgA1		1			0
+N-glycosylated carbohydrate portion of 6 kDa		1			0
+K13		1			0
+mucin tandem repeat (TR) peptide		1			0
+alpha-N-acetylgalactosamine-bearing glycans		1			0
+Galbeta1-3GalNAc (core 1)		1			0
+mono- and di-sialylated core 1		1			0
+sialyl Tn (STn)		1			0
+sialyl Lewis A (CA19-9)		1			0
+sialyl Lewis C (SLeC)		1			0
+sialyl LeX (SLeX)		1			0
+Hyperglycosylated hCG (H-hCG)		1			0
+sialyl-3T antigen		1			0
+sialic acid-containing carbohydrates		1			0
+glycophosphatidylinositol		1			0
+sialylpolylactosamine		1			0
+sialyl Le(x)/Le(a)		1			0
+T antigens	T antigen	1	G00031MO	gsd_strict	2
+core 1 (T)		1			0
+salivary protein glycosylation		1			0
+N-linked carbohydrate structure		1			0
+fucosylated haptoglobin (Fuc-Hpt)		1			0
+core fucosylated neutral glycans		1			0
+N-linked mannose-5 glycans		1			0
+xylose-containing plant complex N-linked glycans		1			0
+galactal		1			0
+2-nitroglycal		1			0
+Tn (GalNAcalpha1-O-Ser/Thr)		1			0
+Fucosylated N-glycans		1			0
+Acetylgalactosamine		1			0
+glycan part of serum prostate specific antigen (PSA)		1			0
+di-sialylated glycans (sialic acid attached to sialic acid)		1			0
+branched fucosylated galactose with N-acetylglucosamine moieties (HexNAc-(Fuc)Gal-GlcNAc)		1			0
+NG1(3)A2F		1			0
+PSA		1			0
+HNK1		1			0
+α2,3-linked sialyl N-glycan		1			0
+N-linked intact glycopeptides		1			0
+Tn (GalNAc-O-Ser/Thr)		1			0
+LCA-binding fraction		1			0
+sialyl-Tn antigens	Sialyl-Tn antigen	1	G36123IU	gsd_strict	2
+core 3 structure (GlcNAcβ1-3GalNAcα1-O-Ser/Thr)		1			0
+sLea	Sialyl Lewis a	1	G00053MO	gsd_strict	2
+precursors of lipoxidation end products		1			0
+alpha-galactosylsphingosine		1			0
+Mucins		1			0
+HexNAc2Hex5		1			0
+HexNAc4Hex5Fuc1NeuAc1		1			0
+HexNAc4Hex5Fuc1NeuAc2		1			0
+N-Acetylgalactosamine (GalNAc)		1			0
+Carbohydrate-deficient transferrin (CDT)		1			0
+AChE glycosylation pattern		1			0
+O-glycan T antigen		1			0
+core-2		1			0
+Asn332 glycan-dependent epitope		1			0
+Asn392		1			0
+Asn386		1			0
+NaSO3-3GlcA(beta 1-->3)Gal(beta 1-->4)GlcNAc(beta 1-->3)Gal(beta 1-->4)Glc beta-OPr		1			0
+oncofetal antigens		1			0
+terminal galactose/N-acetylgalactosamine (Gal/GalNAc)		1			0
+underglycosylated mucin-1 antigen (uMUC-1)		1			0
+diantennary glycan		1			0
+Sialyl Lewisx (SLeX)		1			0
+α-1,6-fucosylation		1			0
+Thomsen-Friedenreich antigen (TF-antigen)	T antigen	1	G00031MO	gsd_strict	2
+β64N glycoforms		1			0
+core2 O-glycan	Core 2	1	G00033MO	gsd_strict	2
+core3 O-glycan		1			0
+differential glycosylation patterns		1			0
+sialoglycans CDw75 and HB-6		1			0
+N-linked glycan residue		1			0
+core-fucosylation of neutral glycans		1			0
+core-fucosylation of sialylated glycans		1			0
+core-1 mucin-type O-glycans		1			0
+glycan variant		1			0
+N-glycosylated subunits		1			0
+N-linked GlcNAc		1			0
+triantennary glycan-containing outer arm (alpha-1,3) fucosylation		1			0
+core (alpha-1,6) fucosylation		1			0
+high-mannose type (Man(4) to Man(9))		1			0
+triantennary complex type		1			0
+disialylated diantennary glycans		1			0
+O-glycosylated tandem repeat domain of MUC1		1			0
+sialylated oligosaccharide chains		1			0
+fatty acid unsaturation		1			0
+hyperglycosylated human chorionic gonadotrophin (hCG-H)		1			0
+N- and O-linked glycoproteins		1			0
+N-acetyl-d-lactosamine		1			0
+albumin glycation		1			0
+complex O-glycan branching		1			0
+β4-galactosylation of highly branched N-glycans		1			0
+core fucosylated, bisecting and sialylated modifications		1			0
+Peak7		1			0
+N-acetyllactosamine-containing glycans		1			0
+high-mannose-type		1			0
+glycosylated NELL1		1			0
+glucosylated free oligosaccharides		1			0
+glycosylation products		1			0
+glycosylated IgG		1			0
+sialyl-trimeric-Lewis x		1			0
+advanced glycation end product		1			0
+AGE-damaged enzymes		1			0
+sugars	Glycans	1		gsd_strict	2
+high mannose immature glycoprotein		1			0
+sparsely-glycosylated MUC1		1			0
+heavily-glycosylated MUC1		1			0
+alpha-N-acetylgalactosamine	Tn antigen	1	G57321FI	gsd_loose	2
+glycan synthesis		1			0
+high-mannose type		1			0
+core-fucosylated tetraantennary structures		1			0
+LacdiNAc motif		1			0
+under-galactosylated IgA1		1			0
+neutral and sialylated glycans		1			0
+mAb glycan profile		1			0
+haptoglobin		1			0
+transferrin		1			0
+N-linked glycosites		1			0
+O-linked β-N-acetylglucoside (O-GlcNAc)		1			0
+altered glycosylation		1			0
+FA2/[FA2G1 + FA2G2]-IgG1		1			0
+m/z 1955		1			0
+m/z 2032		1			0
+m/z 2584		1			0
+α-2,6 sialylated galactosides		1			0
+N-linked oligosaccharide side chains		1			0
+high-mannose immature CEA		1			0
+Con-A band 2 (AFP-C2)		1			0
+LCA-A band 1 (AFP-L1)		1			0
+E-PHA band 2 (AFP-P2)		1			0
+glycosylation signatures		1			0
+Galbeta1-3GalNAcalpha		1			0
+S-(β-D-glucopyranosyl)-D-cysteine		1			0
+S-(2-acetamido-2-deoxy-α-D-galactopyranosyl)-L-cysteine		1			0
+fucose (Fuc)		1			0
+sialyl Lewis X (sLe(X))	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+α-2,6-linked sialic acids		1			0
+alpha-L-Fuc residues		1			0
+alpha-Man, GlcNAc(beta1,4,GlcNAc)1,2, GalNAc alpha1,3GalNAc, alpha-GalNAc, and a-Gal residues		1			0
+Gly-Trp-Ser-Tyr-Gly		1			0
+2,6-branched mannose		1			0
+oligosaccharide	Glycans	1		gsd_strict	2
+alpha-Fetoproteins		1			0
+high mannose oligosaccharide structures		1			0
+sialyl LacNAc		1			0
+defucosylated N-glycan		1			0
+terminal galactose residues		1			0
+poly-N-acetyllactosaminyl O-glycans		1			0
+α1-3 fucosylated glycoforms		1			0
+Lewis X-carrying N-glycans		1			0
+O-sialoglycoproteins		1			0
+sialyl Lea		1			0
+Sialyl Tn		1			0
+H-type-1 antigen (Fucalpha1-2Galbeta1-3GlcNAcbeta1-)		1			0
+NeuNAcalpha2-3Galbeta1-		1			0
+highly glycosylated antigen		1			0
+core and antenna fucosylation		1			0
+total glycosylation		1			0
+HMFG1		1			0
+214D4		1			0
+oligosaccharide moiety		1			0
+glycosylated VDBP		1			0
+PNA-reactive sites		1			0
+glycan-related networks		1			0
+3-O-SO3Na-beta-Gal-(1-->4)-beta-GlcNAc-(1-->3)-beta-Gal-(1-->4)-GlcNAc-beta-OBn		1			0
+3-O-SO3Na-beta-Gal-(1-->3)-beta-GlcNAc-(1-->3)-beta-Gal-(1-->3)-beta-GlcNAc-(1-->3)-beta-Gal-(1-->4)-Glc-beta-OBn		1			0
+glycated serum proteins		1			0
+glycosylated hemoglobin		1			0
+α-2,6 sialylation		1			0
+Galactose-alpha-1,3-galactose (alpha-Gal)		1			0
+N-glycolylneuraminic acid (NeuGc)		1			0
+β-galactopyranoside		1			0
+α-linked sialic acid		1			0
+innermost GlcNAc		1			0
+N-terminal V3 loop glycan		1			0
+N-glycan of CCP-2		1			0
+N-glycans of CCP-4		1			0
+GC mucins		1			0
+α2-3-linked sialic acids		1			0
+triantennary trigalactosylated glycans		1			0
+tetraantennary tetrasialylated glycans		1			0
+Lea/Leb glycans		1			0
+shielding glycans		1			0
+Tn/Sialyl-Tn-epitopes		1			0
+2,6-linked sialylated N-glycans		1			0
+agalactosylated structures		1			0
+Sialyl Lewis(a)		1			0
+α2,6sialylation		1			0
+core-fucosylated residues		1			0
+core-fucosylated structures		1			0
+trianntenary structure		1			0
+tri-antennary tri-sialylated mono-fucosylated glycan of alpha-1 antitrypsin		1			0
+Lactosylceramide	Lactosylceramide	1	G84224TW	gsd_strict	2
+sialyl-Tn (sialic acid alpha2,6GalNAc)		1			0
+9-O-acetylation		1			0
+6'-sulfo sialyl Lewis(x)		1			0
+Forssman disaccharide (GalNAcα1-3GalNAcβ)		1			0
+terminal alpha-GlcNAc		1			0
+terminal beta-GlcNAc		1			0
+T(N)		1			0
+ST(N)		1			0
+2,6-ST		1			0
+N-deacetylsialyl Lewis X ganglioside		1			0
+Sialyl Lewis X (sLex)		1			0
+CD90		1			0
+congenital defects of glycosylation		1			0
+glycosylated plasma fetuin-A		1			0
+glycan ratio m/z 2378/1914		1			0
+sialylated oligosaccharides		1			0
+N-acetylglucosaminylasparagine		1			0
+C-mannosylation		1			0
+glycosylated PAI-2		1			0
+sialylated O-linked glycans (MUC1-ST)		1			0
+high-mannose core structures of N-linked glycans		1			0
+α1,6-fucose		1			0
+NeuAcα2,3Galβ1,3GalNAc		1			0
+glycophore		1			0
+CA125 antigen		1			0
+Lipid-linked oligosaccharide (LLO)		1			0
+Glycated Serum Albumin		1			0
+glycosylated pyridinoline (gPYD)		1			0
+total deoxypyridinoline (tDPD)		1			0
+free pyridinium crosslinks (fPYD)		1			0
+free deoxypyridinoline (fDPD)		1			0
+sulfa-Tn antigens		1			0
+O-N-acetylglucosamine glycosylation		1			0
+mucin core 2 tetrasaccharide		1			0
+Globo		1			0
+serum invasive trophoblast antigen (ITA)		1			0
+HbA(1C)		1			0
+α1,6-linked fucosylation		1			0
+glycosylated prostate-specific antigen		1			0
+beta1		1			0
+beta6		1			0
+beta7		1			0
+mucin-type O-glycosylation		1			0
+SG35		1			0
+SG45		1			0
+SG46		1			0
+N-linked glycan chains		1			0
+complex N-linked glycans with sialic acid chains		1			0
+glycosylation-dependent epitope of the CD31 antigen		1			0
+glycosylated alpha-fetoprotein		1			0
+HNK-1 sulfated carbohydrate epitope		1			0
+N- and O-glycosylation		1			0
+sialylated O-linked sugar chains		1			0
+MUC1 glycoform		1			0
+truncated glycosylation		1			0
+α1,3-mannosylation		1			0
+CD34		1			0
+monosialylated alpha-fetoprotein		1			0
+asparagine-linked carbohydrate structures		1			0
+O-linked oligosaccharides with the core-2 structure		1			0
+high-mannose or hybrid structures		1			0
+Siaα2,6Galβ1,4GlcNAc (Sia6LacNAc)		1			0
+core 2-type O-glycans		1			0
+fucose-α(1-2)-galactose		1			0
+α-galactose adjuvant motif		1			0
+anthocyanins		1			0
+sialoglycoprotein gp114		1			0
+basolateral p58		1			0
+highly sialylated O- and N-linked complex carbohydrates		1			0
+sulfated glycan (Galβ1-3[SO3-GlcNAcβ1-6]GalNAc)		1			0
+fucosylated glycan (GlcNAcβ1-3(Fucα1-2Galβ1-3)GalNAc)		1			0
+core 4 glycan (GlcNAcβ1-3[GlcNAcβ1-6]GalNAc)		1			0
+sialylated/agalactosylated ratio		1			0
+Nε-fructosyl-lysine		1			0
+Nε-carboxymethyl-lysine		1			0
+Nε-carboxyethyl-lysine		1			0
+oligomannose and hybrid type glycans		1			0
+sulfated and α2-3- linked sialic acid glycoconjugates		1			0
+high-mannose and complex-type N-glycans		1			0
+N-glycans of MUC2		1			0
+N-glycan sialylation		1			0
+tri-galactosylated (G3)		1			0
+antenary fucosylated (FUC_A)		1			0
+low branching (LB)		1			0
+non-sialylated (S0)		1			0
+monogalactosylation (G1)		1			0
+core fucosylation (FUC_C)		1			0
+biantennary galactosylation (A2G)		1			0
+biantennary (BA)		1			0
+agalactosyl bi-antennary glycans		1			0
+monogalactosyl bi-antennary glycans		1			0
+#3410		1			0
+#3510		1			0
+#4510		1			0
+hyperglycosylated Wisteria floribunda agglutinin-positive Mac-2 binding protein (WFA(+)-M2BP)		1			0
+hybrid type glycans		1			0
+m/z 1708		1			0
+m/z 1914		1			0
+m/z 1708/1914 ratio		1			0
+high mannose type N-glycans	High mannose	1	G55220VL	gsd_strict	2
+sialylated O-linked glycan		1			0
+N-glycan of high mannose and/or hybrid type		1			0
+bisecting-GlcNAc		1			0
+type 1-(Galβ-3GlcNAc)-terminating backbone sequence		1			0
+type 2-(Galβ-4GlcNAc) analog		1			0
+mono-sulfated type 2 chain with 6-sulfation at the penultimate N-acetylglucosamine		1			0
+Wisteria floribunda agglutinin positive Mac-2 binding protein (WFA+-M2BP)		1			0
+G0 glycoform		1			0
+G1 glycoform		1			0
+G2 glycoform		1			0
+α-2,3-terminal sialic acid		1			0
+3-deoxyglucosone		1			0
+advanced glycation endproducts (AGEs)-Nε-carboxymethyl-lysine (CML)		1			0
+Nω-carboxymethylarginine (CMA)		1			0
+3-deoxyglucosone-derived hydroimidazolone (3DG-H)		1			0
+o,o'-dityrosine (DT)		1			0
+methylglyoxal-derived hydroimidazolone (MG-H1)		1			0
+glucose monomycolate (GMM)		1			0
+Early- and advanced-glycation products (EGAs and AGEs)		1			0
+3-O-alpha-L-fucopyranosyl-2-acetamido-2-deoxy-D-glucopyranose		1			0
+2-acetamido-2-deoxy-3-O-(alpha-L-fucopyranosyl)-4-O-(beta-D-galactopyranosyl)-D-glucopyranose		1			0
+α-1 acid glycoprotein		1			0
+serum amyloid A		1			0
+α(1,6)linked fucose residues		1			0
+alpha-2,6-sialylated Hp		1			0
+alpha-1,6-fucosylated Hp		1			0
+alpha-D-galactose-binding plant lectin frutalin		1			0
+differentially glycosylated form of CD3gamma		1			0
+hyper-sialylation		1			0
+N-linked carbohydrate groups		1			0
+core alpha-1,6-linked fucose	Core-fucosylated	1	G78059CC	gsd_strict	2
+under-glycosylated forms of MUC1		1			0
+fully glycosylated MUC1		1			0
+glycosides		1			0
+H		1			0
+high mannose form		1			0
+Wheat Germ Agglutinin-reactive glycoproteins		1			0
+sialyl Lewis A antigen		1			0
+GP17		1			0
+G12n		1			0
+Fuc		1			0
+high mannose and complex N-glycans		1			0
+trigalactosylated (G3)		1			0
+trisialylated (S3)		1			0
+glycan 9200		1			0
+fucosylated PON1		1			0
+Neu5Acalpha2,6Gal		1			0
+Neu5Acalpha2,3		1			0
+Glycated Albumin		1			0
+14-3-3 protein		1			0
+N-linked oligosaccharide decorated with sialic acid		1			0
+Maillard reaction product X (MRX)		1			0
+fucosylated-sialylated glycans		1			0
+hybrid monosialylated triantennary glycopeptide		1			0
+(β-1,4) triantennary N-linked glycan		1			0
+α-1,6-fucosylated PSA		1			0
+O-glycan Core 1		1			0
+core 2 [Galbeta1 --> 3(GlcNAcbeta1 --> 6)GalNAc]		1			0
+alpha2,3-linked sialic acid		1			0
+glycosylated CEA N-A3		1			0
+N-linked carbohydrate chain		1			0
+DF3 antigen		1			0
+poly N-acetyllactosamines		1			0
+core 2 beta-1,6 branch		1			0
+CC49 epitope		1			0
+CSLEX-1 epitope		1			0
+SM-3 peptide epitope		1			0
+NA3F		1			0
+NA3		1			0
+N-linked oligosaccharide chains containing sialic acid residues		1			0
+hyperglucosylation		1			0
+EA 1		1			0
+beta1,6-branched polylactosamine		1			0
+Tn-MUC1 (GalNAc-α-MUC1)		1			0
+N- and O-linked carbohydrates		1			0
+α2-6 sialylated N-glycans		1			0
+Man8/9 N-glycans		1			0
+Man5 N-glycans		1			0
+Glycated CD59		1			0
+galactosylated A1AT		1			0
+fucosylated A1AT		1			0
+A1AT containing poly-LacNAc		1			0
+glycated Tf		1			0
+NeuAc		1			0
+beta Gal		1			0
+alpha Fuc		1			0
+ELF		1			0
+galactose-deficient IgA1 (Gd-IgA1)		1			0
+glycosylation at Asn51 and Asn78 sites		1			0
+alpha2,6-sialic acid		1			0
+O-glycosylated forms of T cell surface molecules		1			0
+Advanced Glycation End Products (AGEs)		1			0
+α1-2Fuc glycan		1			0
+(N-acetylhexosamine)2 (deoxyhexose)(mannose)3 (N-acetylglucosamine)2		1			0
+(hexose)(N-acetylhexosamine)2 (deoxyhexose)(mannose)3 (N-acetylglucosamine)2		1			0
+(N-acetylneuraminic acid)(α2-6)galactose/N-acetylgalactosamine		1			0
+truncated glycans		1			0
+glycan at position 3		1			0
+glycan at position 11		1			0
+glycan component of gp41		1			0
+Tn antigen (GalNAc alpha-O-Ser/Thr)		1			0
+heparan sulfate (HS) oligosaccharide		1			0
+N-linked and O-linked glycosylation		1			0
+disaccharides		1			0
+trisaccharides		1			0
+MPL		1			0
+VVA		1			0
+SLeX	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+SLea	Sialyl Lewis a	1	G00053MO	gsd_strict	2
+diSLeX		1			0
+GlcNAc beta1-6 branched N-glycans		1			0
+hypoglycosylated N-glycans		1			0
+alpha-D-Neup5Ac-(2-->3)-beta-D-Galp-(1-->4)-D-GlcpNAc		1			0
+234 gp120 glycan		1			0
+276 gp120 glycan		1			0
+disialyl Lewis(a)		1			0
+sialyl 6-sulfo Lewis(x)		1			0
+sialyl Lewis(a)		1			0
+core-2-based Thr-linked O-glycan		1			0
+GalNAcβ1,4GlcNAcβ		1			0
+Sialyl-Tn antigen (STn)	Sialyl-Tn antigen	1	G36123IU	gsd_strict	2
+Lewis type 2 antigens		1			0
+glycosylated rHuG-CSF		1			0
+α2-3 Linked N-Acetylneuraminic Acid		1			0
+Core 1 O-Glycans		1			0
+2G12 neutralizing epitope		1			0
+biantennary fucosylated glycan without galactose (H3N4F1)		1			0
+biantennary fucosylated glycan with two galactose (H5N4F1)		1			0
+non-fucosylated glycans		1			0
+sialyl Lewis a (SLea)		1			0
+glucuronic acid/sulphate containing N-linked glycans		1			0
+disialylated triantennary glycans		1			0
+trigalactosylated, triantennary, disialylated, and trisialylated glycans		1			0
+biantennary digalactosylated glycans with core fucose		1			0
+sialylation of the CD45RA region		1			0
+differential sialylation of the CD45RB region		1			0
+sialyl lewis X (SLex)		1			0
+branched O-linked glycans		1			0
+high-mannose type oligosaccharide structures		1			0
+PSA glycosylation		1			0
+glycan N238		1			0
+mannosyl-β1-phosphomycoketide		1			0
+glucosylated MOG		1			0
+sialyl-Lewis X (SLex; NeuAc alpha 2,3Gal beta 1,4(Fuc alpha 1,3)-GlcNAc-)		1			0
+Nε-(Carboxymethyl)lysine		1			0
+Glycosylated MUC1		1			0
+alphaGalNAc		1			0
+O-glycosylated fragment		1			0
+3-sulfo Lewis x		1			0
+6-sulfo Lewis x		1			0
+A antigen		1			0
+glycated Cu,Zn-superoxide dismutase		1			0
+Glycated Hemoglobin		1			0
+cancer associated glycosylation		1			0
+4F2 heavy chain antigen		1			0
+glycated lipoproteins, LDL		1			0
+polylactoaminoglycans		1			0
+polyglycosylceramides		1			0
+lactotriaosylceramide	Lactotriaosylceramide	1	G06239NA	gsd_strict	2
+neolactotetraosylceramide		1			0
+globotetraosylceramide	Globotetraosylceramide	1	G00061MO	gsd_strict	2
+poly-sialic acid		1			0
+hexosylceramide		1			0
+carbohydrate	Glycans	1		gsd_strict	2
+N(epsilon)-fructoselysine		1			0
+N(epsilon)-(carboxymethyl)lysine		1			0
+malondialdehyde-lysine		1			0
+histo-blood group antigens		1			0
+d-ribose		1			0
+Tn antigen (α-O-GalNAc-Ser)		1			0
+Tn antigen (α-O-GalNAc-Thr)		1			0
+N-glycosylated CD97		1			0
+core-2 O-glycoform		1			0
+Sialyl-Lewis x	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+glycosylated factor		1			0
+immaturely glycosylated form		1			0
+N-glycosyl chains		1			0
+glycosylated full-length gp120		1			0
+carbohydrate units		1			0
+glycan N301		1			0
+under-O-glycosylated IgA1		1			0
+Lamp-1		1			0
+sialyl Le(x) (sLe(x))		1			0
+3-O-sulfated oligosaccharide chains terminated by a sulfated N-acetyllactosamine		1			0
+sulfated Lewis A determinant		1			0
+6-O-sulfated chain terminated by a sulfated H-2 determinant		1			0
+glycated IgG		1			0
+Con A-reactive moieties		1			0
+LCA-reactive moieties		1			0
+asialyl T		1			0
+Asn58 glycosylation		1			0
+Tn antigen (GalNAc alpha 1-O-Ser/Thr)		1			0
+glycosylated LCs		1			0
+Neu5Ac (alpha2,6) Gal/GalNAc		1			0
+H-type-1 antigen		1			0
+glycosylated rh-G-CSF		1			0
+biantennary fucosylated glycan modification		1			0
+sulfated lactosaminoglycan chains		1			0
+sialokeratan sulfate epitope		1			0
+branched mannose and N-acetylglucosamine		1			0
+EV glycan signature		1			0
+O-linked glycan structures	O-linked glycans	1		gsd_loose	2
+serum alkaline phosphatases		1			0
+beta1-6 branched N-linked oligosaccharides		1			0
+CD66c		1			0
+core 1 O-glycan motif		1			0
+Wisteria floribunda agglutinin (WFA)		1			0
+SialylTn (STn)	Sialyl-Tn antigen	1	G36123IU	gsd_strict	2
+6SO4-Gal		1			0
+N-glycoform		1			0
+MUC1-TF		1			0
+glycans present on gp120		1			0
+alpha2,3-sialyl residues		1			0
+glycated peptides		1			0
+Tn-antigen (GalNAc-O-Ser/Thr)		1			0
+IgG Fc N-glycosylation		1			0
+alpha2,6-linked N-acetyl-D-neuraminic acid		1			0
+alpha2,3-linked N-acetyl-D-neuraminic acid		1			0
+unique N-glycan (Tf-1)		1			0
+N-glycan similar to that of serum transferrin (Tf-2)		1			0
+glycosylation aberrancies		1			0
+α2,3sialylated T-antigen		1			0
+mucin glycopeptides		1			0
+6'-sulfo-sLe X		1			0
+GlcNAc5,Hex6,Neu5Ac3		1			0
+GlcNAc6,Hex7,Neu5Ac4		1			0
+GlcNAc4,Hex5,Fuc,Neu5Ac		1			0
+GlcNAc5,Hex6,Fuc,Neu5Ac2		1			0
+GlcNAc6,Hex7,Fuc,Neu5Ac3		1			0
+Fucalpha1-2Gal		1			0
+bisecting GlcNAc-beta(1-->4) linkage		1			0
+oligosaccharide markers		1			0
+calprotectin		1			0
+advanced oxidation protein products (AOPP)		1			0
+glycosylation pattern of Ncr1-Noé		1			0
+N-glycosylated NPC2		1			0
+poly N-acetyl lactosamine		1			0
+core-type fucosylation		1			0
+N ε -carboxymethyl-lysine		1			0
+N ε -(γ-glutamyl)lysine		1			0
+glycated human serum albumin		1			0
+glycated apolipoprotein A-I		1			0
+MUC2 mucin		1			0
+galactose-deficient hinge-region O-glycans (Gd-IgA1)		1			0
+Gal3C-S		1			0
+Lewis x epitope		1			0
+sialylated Lewis x epitope		1			0
+glycosylation profile		1			0
+high mannose-glycosylated		1			0
+PSA glycoforms		1			0
+O-mannosylation		1			0
+sialoglycoprotein CD43		1			0
+Lactose		1			0
+hypoglycosylated form of CD86		1			0
+Lewis x carbohydrate epitope (Le(x))		1			0
+mannose 6-phosphate		1			0
+beta-D-Gal p-(1-->3)-alpha-D-Gal pNAc-(1-->O)-L-threonine		1			0
+N-linked oligosaccharide moieties		1			0
+sialyl-transferase		1			0
+fucosyl-transferase		1			0
+cell surface carbohydrates		1			0
+2'-O-alpha-L-fucosyl-N-acetyllactosamine		1			0
+3'-O-alpha-L-fucosyllactose		1			0
+O-glycosidic-linked carbohydrates		1			0
+light chain carbohydrate		1			0
+Sialyl-Lex (sLex)		1			0
+Pregnancy-Specific beta 1-Glycoproteins		1			0
+blood group oligosaccharides		1			0
+high-mannose N-linked carbohydrate chains		1			0
+complex N-linked carbohydrate chains		1			0
+high mannose glycoproteins		1			0
+α-fetoprotein		1			0
+chondroitin sulfate A		1			0
+sialyl-Lewis(x)-saccharopeptides		1			0
+high-mannose oligosaccharide		1			0
+hybrid oligosaccharides		1			0
+alpha-galactose residues		1			0
+N-linked glycosyl units		1			0
+glycosylation-rich region		1			0
+WFA-sialylated MUC1		1			0
+hypoglycosylated form of mucin		1			0
+Carcinoembryonic Antigen		1			0
+N-linked glycosylation epitope		1			0
+carbohydrate antigen		1			0
+Thomsen-Friedenreich (T)-antigen	T antigen	1	G00031MO	gsd_strict	2
+high-mannose-type oligosaccharides	High mannose	1	G55220VL	gsd_loose	2
+high-mannose type oligosaccharides		1			0
+hybrid-type glycoproteins		1			0
+(Hex)4(HexNAc)3		1			0
+(Hex)4(HexNAc)4		1			0
+(Hex)5(HexNAc)4		1			0
+IgG agalactosylation		1			0
+H3N4F1-a		1			0
+H3N4F1-b		1			0
+H4N3S1F1-e		1			0
+H4N4F3SA		1			0
+H4N6F2		1			0
+H4N6SA		1			0
+H5N4FSA		1			0
+Sialyl Lewis(X)		1			0
+GP21		1			0
+GP22		1			0
+agalactosylated glycoform of ASCA IgG		1			0
+sialylated core 1 O-glycans		1			0
+multifucosylated tetraantennary N-glycans		1			0
+sialic acid receptors		1			0
+fucosylated AFP		1			0
+ICAM-1		1			0
+MUC18		1			0
+Tn neoantigen (GalNAcα1-O-Ser/Thr)		1			0
+glycan age index		1			0
+glycan age		1			0
+agalactosylated		1			0
+monogalactosylated		1			0
+digalactosylated		1			0
+complex-type biantennary N-glycans		1			0
+Gal(β1-3)GalNAc (T-antigen)		1			0
+Sia(α2-3)Gal(β1-3)GalNAc (Sialyl T)		1			0
+Sia(α2-3)Gal(β1-3)Sia(α2-6)GalNAc (disialyl-T)		1			0
+triantennary complex-type glycans		1			0
+alpha-Gal antigen	Alpha-gal antigen	1	G24432YB	gsd_strict	2
+LacNAc-containing glycans		1			0
+paucimannosidic structures		1			0
+glycan 2		1			0
+agalactosylated (G0) Abs		1			0
+glycosylated 400-kD precursor species		1			0
+glycosylated isoforms		1			0
+Glc1Man9GlcNAc2		1			0
+Man8GlcNAc2		1			0
+Man7GlcNAc2		1			0
+N-linked oligosaccharide	N-linked glycans	1	G78059CC	gsd_strict	2
+alpha-galactose-containing oligosaccharides		1			0
+highly branched sugar chains		1			0
+Gal beta 1----4(Fuc alpha 1----3)GlcNAc beta 1----		1			0
+Neu5Ac alpha 2----3Gal beta 1----4GlcNAc beta 1----		1			0
+fucosylated trimannosyl core		1			0
+bisected biantennary sugar chain		1			0
+glycosylated CD4		1			0
+galactosides		1			0
+glycosylated fraction		1			0
+N-acetyl-lactosamine		1			0
+Thomsen-Friedenreich (T) antigen	T antigen	1	G00031MO	gsd_strict	2
+D-dimer		1			0
+O-glycosidically linked proteins (NeuAcalpha2,6 Galbeta1,3GalNAcalpha1,0 Ser/Thr or sialyl-T-antigen)		1			0
+underglycosylated mucin 1 (uMUC1)		1			0
+9-O-acetylated sialoglycans		1			0
+hyperglycosylated MUC1		1			0
+N-glycan composition		1			0
+3'-sialylated, 6'-sulfated LNnT		1			0
+3'-sialylated, 6-sulfated core 1		1			0
+disulfated core 1		1			0
+mono- and disialylated sugar chains		1			0
+HNK-1-capped core M2 glycan		1			0
+high-mannose N-linked chains		1			0
+oligomannose glycans		1			0
+(GlcNAc)(2)(Man)(5)		1			0
+(GlcNAc)(2)(Man)(4)		1			0
+(GlcNAc)(2)(Fuc)(0-2)(Man)(2-3)		1			0
+sialyl-Lewis C		1			0
+HPA-positive glycotopes		1			0
+E-selectin ligands		1			0
+P-Selectin		1			0
+glycosylated SIV gp120 core		1			0
+Sd(a) antigen		1			0
+N-linked sugars of high mannose types		1			0
+sialyl Le(X)	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+oligosaccharide chain		1			0
+K06 epitope of human CD43		1			0
+cCLLa		1			0
+Glycopeptides		1			0
+sialyl-Lewisc		1			0
+α1-3,4 fucosylation		1			0
+C2-O-sLeX	C2-O-sLex	1	G97345NY	gsd_strict	2
+tri antennary trigalactosylated trisialylated glycans		1			0
+monoantennary glycan structures		1			0
+bi and triantennary, di- and trigalactosylated, di- and trisialylated		1			0
+9-O-acetyl-N-acetylneuraminic acid (Neu5,9Ac2)		1			0
+9-acetamido-9-deoxy-N-acetylneuraminic acid (Neu5Ac9NAc)		1			0
+β-galactofuranosyl (β-Galf) residues		1			0
+carbohydrate antigen 19-9 (CA19-9)		1			0
+carbohydrate antigen-S27 (CA-S27)		1			0
+WFA-positive MUC1 (WFA<sup>+</sup>-MUC1)		1			0
+WFA-positive M2BP (WFA<sup>+</sup>-M2BP)		1			0
+sialyl Lewis(X) (sLe(x))		1			0
+G2FN/G1FN		1			0
+glycosylated Hb		1			0
+sialyl-Le(a)		1			0
+Thomsen-Friedenreich epitope	T antigen	1	G00031MO	gsd_strict	2
+NƐ-(carboxylmethyl) lysine		1			0
+glycosylated NTCP		1			0
+Asn-linked oligosaccharide moieties		1			0
+HCN5-CHOs		1			0
+HCN1-CHOs		1			0
+N-linked glycosylation sequences		1			0
+sialosyl dimeric Le(x)		1			0
+C gamma 2 structures		1			0
+glycosilated surface nucleolin		1			0
+galactose-deficient (Gd)-IgA1		1			0
+high-mannose or hybrid types of oligosaccharides		1			0
+asialofetuin-A		1			0
+fully glycosylated		1			0
+glycosylated DNA		1			0
+polyglycylation		1			0
+nonglycosylated amylin		1			0
+N-glycosylated form		1			0
+glycosylation inhibiting factor (GIF)		1			0
+C-III<sub>0b</sub>		1			0
+C-III<sub>2</sub>		1			0
+galactose β1-4 N-acetylglucosamine (Gal-GlcNAc)		1			0
+Lec		1			0
+mucin core 2		1			0
+glycated CD59		1			0
+two glycan forms of fPSA		1			0
+fully glycosylated forms of MUC1		1			0
+differentiation-dependent glycoforms		1			0
+DU-PAN-2		1			0
+GPI-anchored glycoprotein		1			0
+tri-antennary complex type glycan (m/z 3195)		1			0
+glycan ratio (m/z 3195/1914)		1			0
+di-sialylated glycans		1			0
+mono-sialylated ApoC-III		1			0
+desialylated A2HSG		1			0
+capsular polysaccharides		1			0
+sialyl Lewis X (sLeX) antigen		1			0
+IgA1		1			0
+core-fucosylated tetraantennary oligosaccharides		1			0
+N-linked fetuin glycans		1			0
+core 1 sialyl Lewis A		1			0
+Thomsen-Friedenreich-antigen	T antigen	1	G00031MO	gsd_strict	2
+core fucosylated α2-6 monosialo-biantennary structure		1			0
+truncated O-linked glycans		1			0
+carbohydrate-induced conformational tumour-epitope		1			0
+Glycosphingolipids		1			0
+Hex5HexNAc4NeuAc1dHex1		1			0
+monosialylated		1			0
+unfucosylated		1			0
+mannosylation-6 phosphate		1			0
+Lewis blood group family antigens		1			0
+Lex	Lewis x	1	G00051MO	gsd_strict	2
+sialyl Lexa		1			0
+heparan sulfate (HS)		1			0
+glycosylated Eng		1			0
+glycosylated Flt-1		1			0
+glycopeptide		1			0
+sialyl moiety		1			0
+trisaccharide glycan		1			0
+core 2 O-glycan structures	Core 2	1	G00033MO	gsd_loose	2
+high-mannosylation		1			0
+total sialylation		1			0
+intact glycans		1			0
+altered glycans		1			0
+multibranched complex-type N-glycans		1			0
+tri-antennary complex-type N-glycans		1			0
+bi-antennary complex-type N-glycans		1			0
+Neu5Acα2-3(6-O-sulfo)Galβ1-4GlcNAc		1			0
+N-Linked glycans	N-linked glycans	1	G78059CC	gsd_strict	2
+tyrosine sulfate		1			0
+hybrid, oligomannose, and biantennary digalactosylated monosialylated glycans (M5A1G1S1, M8, and A2G2S1)		1			0
+bisecting glycans (A2B, A2(6)BG1)		1			0
+monoantennary glycans (A1)		1			0
+triantennary trigalactosylated trisialylated glycans (A3G3S3 and FA3G3S3)		1			0
+SiaTn		1			0
+6-OSulfo-TF		1			0
+6-OSulfo-LN		1			0
+SiaLea		1			0
+fucosylated biantennary oligosaccharides		1			0
+sialyl(NeuGl)-TF, Gal beta 1-3(NeuGl alpha 2-6)GalNAc		1			0
+sialylated trisaccharides NeuAc alpha 2-3Gal Beta 1-3GalNAc		1			0
+L-fucose		1			0
+sialic acid-containing glycans (sialosides)		1			0
+multi-multiantennary branched N-glycans		1			0
+mucin-type Core 1 and Core 2 sialylated O-glycans		1			0
+glycopatterns		1			0
+α2,6-sialylated N-glycan		1			0
+N-linked complex sugar chain		1			0
+I antigen	I antigen	1	G56045WU	gsd_strict	2
+blood group H determinant		1			0
+N-glycosylation motifs		1			0
+α2,6- and α2,3-sialylated isomers		1			0
+O-linked sialylated T-antigen [Neu5Ac(alpha2-3)-Gal(beta1-3)-GalNAcalpha1]		1			0
+carboxymethyllysine		1			0
+fructose		1			0
+core 2 o-glycans	Core 2	1	G00033MO	gsd_strict	2
+mistletoe lectin I		1			0
+glycosylated endosialin		1			0
+sialyl Lewis C		1			0
+Lewis X (CD15/SSEA-1)		1			0
+triantennary N-linked glycans		1			0
+bisected hybrid-type glycans		1			0
+blood group A trisaccharide (BG-Atri)		1			0
+sialyl 6-sulfo Lewis X (G152 glycan)		1			0
+cyclic sialyl 6-sulfo Lewis X (G159 glycan)		1			0
+tetraantennary glycan		1			0
+glycoxidation products		1			0
+AβPP 115 kDa		1			0
+N-glycosylated residues		1			0
+hybrid/complex type glycopeptides with mannose as hexose units		1			0
+agalactosylated fucosylated structures		1			0
+asialylated fucosylated structures		1			0
+glycation adducts		1			0
+Tn glycoform		1			0
+3-nitrotyrosine		1			0
+N(epsilon)-carboxymethyl-lysine		1			0
+3-deoxyglucosone-derived hydroimidazolone		1			0
+N-formylkynurenine		1			0
+Glyc-AChE		1			0
+Glyc-BuChE		1			0
+glycosylated gp120		1			0
+lactamized neuraminic acid		1			0
+sulfated sialylparagloboside		1			0
+ganglioside GM4		1			0
+tri- or tetraantennary complex type glycans		1			0
+sialylated tri- or tetraantennary complex type glycans		1			0
+N-glycosylated Asn(88)		1			0
+Sialyl Lewis a (Si-Le(a))		1			0
+type 2 Lewis antigens		1			0
+type 1 Lewis antigens		1			0
+N(epsilon)-[carboxymethyl]-lysine (CML)		1			0
+sialyl Lewis-type oligosaccharides		1			0
+advanced glycosylation end product (AGE)		1			0
+overfucosylation		1			0
+undersialylation		1			0
+D-glu-LPPA-1		1			0
+D-gal-LPPA-1		1			0
+α-D-glucosylated eugenol		1			0
+sugar chain composition		1			0
+glycosylated ALCAM		1			0
+O-glycosylated tandem repeat domain		1			0
+N-acetylgalactosaminyltransferase 3 (GalNAc-T3)		1			0
+N-glycanase-treated basigin		1			0
+basigin		1			0
+saccharides		1			0
+sLex moiety		1			0
+N glycosylation		1			0
+glucosylation		1			0
+Lactosylceramide (LacCer)		1			0
+high-mannose-type, nonsialylated, nonfucosylated carbohydrate moieties		1			0
+hypogalactosylated hinge region		1			0
+Hyaluronan	Hyaluronan	1	G29086KO	gsd_strict	2
+Peanut Agglutinin		1			0
+Man6		1			0
+Man7		1			0
+6'-sulfo-sialyl Lewis X	6'-Sulfo Sialyl Lewis x	1	G00672PE	gsd_strict	2
+2-naphthylmethyl 3,4,6-tetra-O-acetyl-beta-D-galactopyranosyl-(1 --> 4)-2-acetamido-3,6-di-O-acetyl-2-deoxy-beta-D-glucopyranoside		1			0
+2-naphthylmethyl 2-acetamido-3,4,6-tri-O-acetyl-2-deoxy-beta-D-glucopyranosyl-(1 --> 3)-2,4,6-tri-O-acetyl-beta-D-galactopyranoside		1			0
+2-naphthylmethyl 2,3,4,6-tetra-O-acetyl-beta-D-galactopyranosyl-(1 --> 3)-2-acetamido-4,6-di-O-acetyl-2-deoxy-alpha-D-galactopyranoside		1			0
+2-naphthylmethyl 2-acetamido-3,4,6-tri-O-acetyl-2-deoxy-beta-D-glucopyranosyl-(1 --> 3)-2-acetamido-4,6-di-O-acetyl-2-deoxy-alpha-D-galactopyranoside		1			0
+2-naphthylmethyl 2-acetamido-3,4,6-tri-O-acetyl-2-deoxy-beta-D-glucopyranosyl-(1 --> 6)-2-acetamido-3,4-di-O-acetyl-2-deoxy-alpha-D-galactopyranoside		1			0
+Fucosylation	fucosylation	1		gsd_strict	2
+sialylated core-2 O-glycans		1			0
+O-GalNAc		1			0
+nonreducing terminal GlcNAc residues		1			0
+sialyl Lewis x structure		1			0
+mammalian-like N-glycans		1			0
+core-fucosylated N-glycan	Core-fucosylated	1	G78059CC	gsd_strict	2
+beta1,6GlcNAc-branching		1			0
+maltooligosaccharide		1			0
+glycans released from bovine ribonuclease B		1			0
+glycans released from bovine fetuin		1			0
+glycans released from chicken ovalbumin		1			0
+Neu5Acα2-6GalNAcα-glycan		1			0
+α2, 3 sialic acid in SLea		1			0
+N156		1			0
+N262		1			0
+N410		1			0
+CMP-sialic acid		1			0
+high mannose- and two complex-type glycans		1			0
+N-glycans of the oligomannosidic type		1			0
+fucose residues		1			0
+triantennary and biantennary structures		1			0
+G2F glycosylation profile		1			0
+N-linked glycan composition		1			0
+beta-1,6-GlcNAc branching		1			0
+alternatively glycosylated MUC1		1			0
+alternatively glycosylated MUC5AC		1			0
+Axl N-glycans		1			0
+MUC1 O-glycosylation		1			0
+non-human and human glycans		1			0
+Neu5Acα2,6-Tn		1			0
+Neu5Gcα2,6-Tn		1			0
+Glycosaminoglycans		1			0
+Glc3Man9GlcNAc2		1			0
+Glc3Man7-9GlcNAc2		1			0
+sialylated O-glycosylated ligand CD99		1			0
+sialic acid-containing glycan		1			0
+glycosylated variants		1			0
+complex glycosylated mature form		1			0
+GSL-4A		1			0
+O-linked glycan chains		1			0
+N-linked glycan attached to asparagine 61		1			0
+complex N-glycan of the V3 loop		1			0
+Lewis y	Lewis y	1	G00052MO	gsd_strict	2
+G81		1			0
+Lewis histo-blood group and related glycans		1			0
+extended Lea and Lex containing glycans		1			0
+sialyl-Tn (STn) antigen		1			0
+O-glycan compositions (33-mer hinge core peptides + xGalNAc + yGal + zNeu5Ac)		1			0
+monogalactosylated triantennary structure		1			0
+polysaccharide-based multi-ingredient supplement		1			0
+simple glycans		1			0
+monoglucosylated glycans		1			0
+high-mannose N-glycan		1			0
+Gal		1			0
+hybrid glycans		1			0
+beta1,6GlcNAc-branched N-glycans		1			0
+sialylated keratan sulfate		1			0
+trisialylated triantennary structures		1			0
+tetrasialylated triantennary structures		1			0
+Thomsen-Friedenreich antigen (TFα; Galβ1-3GalNAcα)		1			0
+GalNAc Le(x)		1			0
+Sialic Acid (Sia)		1			0
+mucin 1 glycans		1			0
+sialyl-Le X		1			0
+VIM-2	VIM-2	1	G22418PV	gsd_strict	2
+glycosylated hemoglobin (HbA(1c))		1			0
+6'-sulfo-sialyl Lewis X (6'-sulfo-sLe x)		1			0
+carboxymethyllysine (CML)		1			0
+oxidized phosphatidylcholine (Ox-PC)		1			0
+MUC1-N		1			0
+CD24		1			0
+T-antigen (Gal beta(1-3)GalNAc alpha 1-O-R)		1			0
+fucosylated exosome		1			0
+terminal α2,6-sialylation		1			0
+glycosylated isoforms of alpha-1-antitrypsin		1			0
+tetrasaccharide-core O-linked carbohydrate moieties		1			0
+Tn (GalNAc-Ser/Thr)		1			0
+STn (NeuAcα2,6GalNAc-Ser/Thr)		1			0
+fucose-terminated glycans		1			0
+6-sulfo-sialyl Lewis(x) oligosaccharide		1			0
+GlcNAc residues		1			0
+N-glycosylation site deletions		1			0
+bi- and triantennary glycans		1			0
+Thomsen-Friedenreich disaccharide	T antigen	1	G00031MO	gsd_strict	2
+high Mannose oligosaccharides	High mannose	1	G55220VL	gsd_loose	2
+biantennary galactosylated N-glycans		1			0
+LNT		1			0
+LSTa		1			0
+LSTc		1			0
+sialyl-Tn antigen (NeuAc-GalNAc-O-Ser/Thr)		1			0
+desialylation		1			0
+alpha3-fucosylation		1			0
+O-glycosidic linkages to sugar residues		1			0
+sialyl Lewis-X (sLeX)		1			0
+sLex glycopolymers		1			0
+fucosylated triantennary glycans		1			0
+DG9-glycan index		1			0
+alpha2,3-linked sialic acid residues		1			0
+poly-N-acetyllactosaminyl side chains		1			0
+sialyl Lex structures		1			0
+Asn-linked core oligosaccharide		1			0
+Ser/Thr-linked mannose		1			0
+O-linked carbohydrate unit		1			0
+PD-L1 N-link glycosylation		1			0
+differential glycosylation		1			0
+fucosylated GP73		1			0
+glycosylated mature molecules		1			0
+glycated hCD59		1			0
+D-N-acetylglucosamine		1			0
+glucosylceramide	Glucosylceramide	1	G71142DF	gsd_strict	2
+GnGn structures		1			0
+Congenital disorder of glycosylation		1			0
+ALG9-CDG		1			0
+ALG3-CDG		1			0
+COG6-CDG		1			0
+MGAT2-CDG		1			0
+SLC35A2-CDG		1			0
+O-Acetyl-GD3		1			0
+sialyl Lewis X tetrasaccharide		1			0
+A type histoblood group epitope		1			0
+sialylated glycoforms		1			0
+tandem core repeat sequence		1			0
+core-fucosylated alpha-fetoprotein		1			0
+Bacteroidales O-glycosylation motif		1			0
+heparan sulfate-like glucosaminoglycan		1			0
+Gal(beta 1-3)GalNAc		1			0
+bacterial polysaccharides		1			0
+SLEX	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+SLEA	Sialyl Lewis a	1	G00053MO	gsd_strict	2
+tri-antennary carbohydrate moieties		1			0
+bi-antennary moieties		1			0
+mono-antennary		1			0
+tri- and tetra-antennary oligosaccharides		1			0
+hyperglycosylated N-terminal CD109 fragment		1			0
+glycosylation of CD83		1			0
+core oligosaccharide structure		1			0
+glycan epitope		1			0
+sialyl Tn (STN), NeuAcα2-6-GalNAc		1			0
+α(1,2)fucosylated glycans		1			0
+bisected hybrid or complex type glycan		1			0
+biantennary fucosylated complex type glycan		1			0
+triantennary bisected complex type glycan		1			0
+Thomsen-Friedenreich (TF) human tumor antigen	T antigen	1	G00031MO	gsd_strict	2
+antennary fucosylated N-glycans		1			0
+GlcNAcylated AACT		1			0
+2534 m/z N-glycan		1			0
+sialyl Lewis a (sLe(a))		1			0
+sulfated and/or sialylated glycans		1			0
+N-glycosylation pattern		1			0
+297-11A-sulfated glycans		1			0
+serum glycan profiles		1			0
+Dol18/Dol19		1			0
+galactose-6-sulfated oligosaccharides		1			0
+disialyl core 1 O-glycans		1			0
+Sialyl LewisA (CA19-9)		1			0
+Tn/Sialyl-Tn on MUC1		1			0
+tri-antennary and tetra-antennary glycans		1			0
+asialo triantennary N glycan		1			0
+sialyl Lewis X antigen (sLeX)		1			0
+alpha2,3-sialylated human alpha(1)-acid glycoprotein (AGP)		1			0
+glycosylated surface proteins		1			0
+aberrantly glycosylated form		1			0
+GlcNAc-branched N-glycans		1			0
+N-acetylglucosaminylated glycans		1			0
+α2, 6-sialylated glycans		1			0
+glycosamine glycans		1			0
+glycosylated hemoglobin (HbA1c)		1			0
+sLe(a)		1			0
+N-Linked oligosaccharides	N-linked glycans	1	G78059CC	gsd_strict	2
+underglycosylated IgA1		1			0
+defective glycosylation		1			0
+glyco-chains		1			0
+beta-N-acetylglucosamine		1			0
+glycated serum protein (GSP)		1			0
+glycosylation at position 415		1			0
+gp130		1			0
+galactose-N-acetylgalactosamine		1			0
+β-(1→3)-glucan		1			0
+epitope		1			0
+3-O-glucosylation		1			0
+1,5-anhydroglucitol		1			0
+carbohydrates	Glycans	1		gsd_strict	2
+branch alpha(1,3)-fucosylated triantennary glycan		1			0
+bisecting core alpha(1,6)-fucosylated biantennary glycan		1			0
+Gal/GalNAc		1			0
+mannosylated N-glycans		1			0
+Manα1-3Man		1			0
+Manα1-6Man		1			0
+CD24-associated carbohydrate epitopes		1			0
+galactosylated streptavidin		1			0
+2-keto-Gal		1			0
+transferrin glycoforms		1			0
+KL-6/MUC1		1			0
+glycosylated CD133 protein		1			0
+MUC1-Tn		1			0
+Thomsen-Friedenreich antigen (T antigen) disaccharide, beta-D-galactose-(1-->3)-alpha-N-acetyl-D-galactosamine (beta-D-Gal-(1-->3)-alpha-D-GalNAc)		1			0
+Gal beta 1----4GlcNAc		1			0
+Gal beta 1----3GlcNAc		1			0
+2,3-sialylated glycans		1			0
+LewisX (LeX)		1			0
+N-linked glycan at position 386		1			0
+sialyl Lewis x (sLe<sup>x</sup>)		1			0
+A2		1			0
+disialylated O-glycans		1			0
+monosialylated O-glycan		1			0
+6'-sulfo-sialyl Lewis x	6'-Sulfo Sialyl Lewis x	1	G00672PE	gsd_strict	2
+high-mannose-type N-glycans	High mannose	1	G55220VL	gsd_strict	2
+single-GlcNAc-type N-glycans		1			0
+sialyl LewisX (sLeX)		1			0
+lacto-N-neotetraose		1			0
+high-mannose-type saccharides		1			0
+blood-type antigens H, A, B, Le(a), Le(b), Le(x), Le(y), sialyl-Le(a)		1			0
+terminal mannose, terminal N-acetylglucosamine, 6-sulfogalactose residues		1			0
+N-glycan with Galβ1-4Galβ1- motif		1			0
+α2,6-sialylated glycans		1			0
+outer arm fucosylation		1			0
+sialyl-Le(x)-containing glycan NeuAc(alpha2-3)Gal(beta1-4)[Fuc(alpha1-3)]GlcNAc-R		1			0
+CD75s gangliosides		1			0
+high molecular weight hyaluronan (HMW-HA)		1			0
+anti-laminaribioside carbohydrate IgG antibodies (ALCA)		1			0
+anti-chitobioside carbohydrate IgA antibodies (ACCA)		1			0
+anti-mannobioside carbohydrate IgG antibodies (AMCA)		1			0
+complex biantennary glycan		1			0
+N332 oligomannose glycan		1			0
+N-glycolyl-neuraminic acid (Neu5Gc)		1			0
+biantennary N-glycans		1			0
+glucuronoxylomannan		1			0
+fucosylated biantennary disialylated oligosaccharide		1			0
+glycoprotein 130 (gp130)		1			0
+Galbeta1,3GalNAc alpha2,3-sialyltransferase		1			0
+large free hCG alpha		1			0
+Gc protein		1			0
+sialic acid links alpha(2,3)Gal/GalNAc and alpha(2,6)Gal/GalNAc		1			0
+galactosylceramide (Gal beta 1-1'Cer;GalCer)		1			0
+sialylated Tn antigen		1			0
+sialylated glycopeptides		1			0
+High-mannose glycosylation		1			0
+Glycodelin A		1			0
+C-CAM		1			0
+Leb carbohydrate antigen		1			0
+glycoGag		1			0
+glycoMA		1			0
+epitopes		1			0
+hexosyl-1-phosphoisoprenoids		1			0
+mannosyl-beta1-phosphodolichols		1			0
+mannose-rich sugar chain		1			0
+complex carbohydrate structure		1			0
+N-acethylhexosamine		1			0
+bisected oligosaccharides		1			0
+non-fucosylated and hybrid oligosaccharides		1			0
+bisected non-fucosylated hybrid glycans		1			0
+complex type oligosaccharides		1			0
+Galβ1-3GlcNAcβ1-3Galβ1-4GlcNAc		1			0
+Galβ1-3GlcNAcβ1-3Galβ1-4GlcNAcβ1-6(Galβ1-3)GalNAc		1			0
+Glycan epitope-Tn/STn		1			0
+GD1b	GD1b	1	G37184KW	gsd_strict	2
+fibrinogen-derived glycan peak		1			0
+sialosyl-Le(a)		1			0
+Sda		1			0
+high mannose-type N-glycans		1			0
+α2,6-NeuAc glycans		1			0
+α2,3-NeuAc moiety		1			0
+O-linked and N-linked sugars		1			0
+N-linked carbohydrate residues		1			0
+N-glycosylated MUC1-C		1			0
+hyperglycosylated human chorionic gonadotropin (hCG-h)		1			0
+advanced glycation endproduct (AGE)		1			0
+ABH carbohydrate structures		1			0
+sialylated N-acetyllactosamine		1			0
+H and A antigens		1			0
+binary N-acetyllactosamine		1			0
+hyperglycosylated human chorionic gonadotrophin (hCG-h)		1			0
+tri-antennary N-glycans containing a Lewis X-type fucose		1			0
+di-fucosylated tetra-antennary N-glycans		1			0
+bisected, afucosylated carbohydrates		1			0
+Thomsen-Friedenreich antigen (Gal beta1-3GalNac alpha-)	T antigen	1	G00031MO	gsd_strict	2
+apoC3 glycosylation index		1			0
+alpha2-6-linked sialic acids		1			0
+sialylated CD43 epitope		1			0
+CD48		1			0
+sialyl 6'-sulfo N-acetyllactosamine		1			0
+glycan proteins		1			0
+monofucosylated triantennary glycan A3G3F1S3		1			0
+sialylated forms of Tn-antigen		1			0
+sialylated forms of TF-antigen		1			0
+T and Tn		1			0
+sulfo sLex		1			0
+sulfated sialyl Lewis-x (sLex)		1			0
+sialylLex		1			0
+sialylated epitopes		1			0
+fucosylated tri-antennary glycan		1			0
+high mannose oligosaccharides	High mannose	1	G55220VL	gsd_loose	2
+core-2 sialyl Lewis X		1			0
+H type 3	Blood group H (Type 3)	1	G94435QH	gsd_strict	2
+alpha2-6-linked sialic acid		1			0
+short O-linked glycans		1			0
+core-fucosylated, sialylated, and branched glycans		1			0
+Thomsen-Friedenreich (TF) antigen (CD176)		1			0
+N-linked glycoproteins		1			0
+O-linked Gal beta 1,3GalNAc glycans		1			0
+6'-sulfo-sLex		1			0
+bisected fucosylated N-glycan structures		1			0
+N-glycan fucosylation		1			0
+fuco-oligosaccharides		1			0
+Tn antigen (CD175)		1			0
+fucosylated glycoproteins		1			0
+sialyl-Lewis x (sLe<sup>x</sup>)		1			0
+glycan at position 386		1			0
+fucosylated triantennary N-glycan		1			0
+Tn determinant (GalNAc alpha-O-Ser/Thr)		1			0
+CD45RB		1			0
+N-glycosylated protein		1			0
+N-acetylneuraminate		1			0
+α2-6-linked sialyl glycans		1			0
+immunogamma globulin glycans		1			0
+SSEA4		1			0
+terminal Gal/GalNAc		1			0
+Lewis a (Le(a)) antigens		1			0
+Core 1	Core 1	1	G00031MO	gsd_strict	2
+Core 3	Core 3	1	G00035MO	gsd_strict	2
+Tf glycan isoform		1			0
+terminal α2,6-linked sialic acid		1			0
+fully-sialylated alpha-chain of complement 4-binding protein		1			0
+short-chain O-glycans		1			0
+b1,6 branched N-oligosaccharides		1			0
+mono-glucosylates		1			0
+Tn-glycopeptides		1			0
+3-fucosyl-N-acetyllactosamine (CD15)		1			0
+sulfoglucuronylcarbohydrate (SGC)		1			0
+GalalphaGal		1			0
+N-Glycosylated recombinant ricin B chain		1			0
+Non-glycosylated ricin B chain		1			0
+B152/B109 ratio		1			0
+Agalactosyl biantennary glycans (FA2)		1			0
+glycans containing the sialyl Lewis x epitope (A3F1G1 and A2F1G1)		1			0
+S-linked STn		1			0
+laminin α1		1			0
+glycosylation motifs		1			0
+cancer-associated carbohydrate antigens		1			0
+glycosylated LT		1			0
+CD30		1			0
+tetrasaccharide composed of GalNAc, Gal, and two N-glycolylneuraminic acid residues		1			0
+PI(4,5)P2		1			0
+carboxyl amino acids		1			0
+IgA1 O-glycosylation		1			0
+H type-3 trisaccharide		1			0
+sialyl-Tn antigen (STn)	Sialyl-Tn antigen	1	G36123IU	gsd_strict	2
+Tn antigen (α-GalNAc-O-Ser/Thr)		1			0
+alpha(2,3)-sialylation		1			0
+beta1,6-branched oligosaccharides		1			0
+isoglobotrihexosylceramide		1			0
+core of the HIV type 1 envelope glycoprotein 120		1			0
+cysteinylated albumin		1			0
+fucosylated N-glycopeptides		1			0
+glycosylated forms of proBNP 1-108		1			0
+pGCD59		1			0
+galactose-deficient IgA1		1			0
+lenograstim		1			0
+filgrastim		1			0
+M1 epitopes		1			0
+fucosylated neutral GSLs		1			0
+G(M3) Ganglioside		1			0
+heavily glycosylated protein		1			0
+azido sialic acids		1			0
+α2,6-sialic acids	Alpha2,6-linked sialic acids	1		gsd_strict	2
+G2FS(6)1		1			0
+G2FS(3,6)2		1			0
+G2FS(6,6)2		1			0
+sialyl Tn		1			0
+fucosylated sugar antigens		1			0
+Glycosaminoglycan		1			0
+alpha1,2-fucosylation		1			0
+beta-N-acetylgalactosaminylation		1			0
+core 3 (GlcNAcbeta1-3GalNAc)		1			0
+Sd(a)/Cad-antigen-like structures		1			0
+sulphated Lewis x		1			0
+bifucosylation		1			0
+Terminal Sialylation		1			0
+Bisecting N-Glycans		1			0
+alpha(2,8)-disialylated ganglioside GT1b		1			0
+tetrasaccharide: Neu5Ac-α2,6-Gal-β1,4-GlcNAc-β1,4-GlcNAc		1			0
+ALG1-CDG		1			0
+GlcNAc and Man-bearing neoglycoproteins		1			0
+asialoglycoprotein		1			0
+NeuAcα(2-3)Galβ(1-3)GalNAc		1			0
+Tn (GalNAcαThr/Ser)		1			0
+T (Galβ1-3GalNAcαThr/Ser)		1			0
+STn antigens		1			0
+ABH group carbohydrate epitopes		1			0
+alpha2,6-linked sialic acids	Alpha2,6-linked sialic acids	1		gsd_strict	2
+N-glycan markers		1			0
+P5(NA2), P8(NA3), P10(NA4)		1			0
+P1[NGA2F], P2[NGA2FB], P3[NG1A2F], P4[NG1A2F], P7[NA2FB], P8[NA3], P9[NA3Fb]		1			0
+HER2 N-glycans		1			0
+Tn antigen (GalNAcalpha1-Ser/Thr)		1			0
+sialylated sulfated glycans		1			0
+core 3-derived glycans		1			0
+N-acetyl-D-hexosamines		1			0
+NeuAc alpha 2-->3Gal beta 1-->3(4)GlcNAc		1			0
+NeuAc alpha 2-->3Gal beta 1-->3GalNAc		1			0
+NeuAc alpha 2-->6Gal beta 1-->4GlcNAc		1			0
+Lewis x residues		1			0
+N-acetylneuraminic acid (NeuAc)		1			0
+Galactose 6-O-sulfate		1			0
+MUC5AC-WGA		1			0
+N-linked sugar chains		1			0
+R5a		1			0
+R5b		1			0
+P5		1			0
+log(R5a/P1)		1			0
+log(R5b/P1)		1			0
+Core 1 O-glycans		1			0
+monosialylated Core 1 O-glycans		1			0
+disialylated Core 1 O-glycan		1			0
+polylactosamine-type N-glycans		1			0
+T-nouvelle (Tn, CD175)		1			0
+sialylated Tn (CD175s)		1			0
+Thomsen-Friedenreich antigen (TF, CD176)		1			0
+fucose- and sialic acid-containing N-glycans		1			0
+CCPs		1			0
+biantennary and triantennary N-glycans		1			0
+TRA-1-60		1			0
+TRA-1-81		1			0
+laminarin		1			0
+chitin		1			0
+alpha2,8-disialic acids		1			0
+α2-6Sia		1			0
+RM2		1			0
+mucin O-glycan core structures		1			0
+O-linked glycoproteins		1			0
+traumatic brain injury indicative glycan biomarkers		1			0
+sialic acid residues in N- and O-glycans		1			0
+N-glycan signatures		1			0
+unique glycans		1			0
+α-2,3-Sia		1			0
+α-1,2-Fuc		1			0
+α-1,6-Fuc		1			0
+α-2,6-Sia		1			0
+α-GalNAc		1			0
+Gal-β-1,3-GalNAc		1			0
+α2-3-linked N-acetylneuraminic acid		1			0
+agalactosylated (GnGnF, GnGn(bi)F)		1			0
+galactosylated (AGn(bi), AGn(bi)F, AA(bi), AAF)		1			0
+monosialylated IgG glycoforms (NaAF, NaA(bi))		1			0
+fully sialylated glycans		1			0
+GlcNAc 6-O-sulfate		1			0
+α2,3 and α2,6 sialyl lactosamines		1			0
+6-O sulfated sLeX		1			0
+di-N-acetylchitobiose		1			0
+beta-D-glucan		1			0
+glycan antigens		1			0
+9-OAcSA		1			0
+sialic acid-containing glycoproteins		1			0
+triantennary 'complex-type' with terminal fucose		1			0
+biantennary 'complex-type' without fucose		1			0
+biantennary 'complex-type' with fucose		1			0
+'high-mannose' chains		1			0
+N-acetyl-galactosamine (GalNAc)		1			0
+VRE-bearing glycoproteins		1			0
+LacdiNAc-glycosylated prostate-specific antigen		1			0
+high molecular weight glycans		1			0
+MUC21		1			0
+defucosylated version of humanized monoclonal antibody against HM1.24		1			0
+core 3 sialyl-Le(x) hexasaccharide		1			0
+T(alpha) (Galbeta1-3GalNAcalpha1-)		1			0
+Tn (GalNAcalpha1-Ser/Thr)		1			0
+glycated apoB		1			0
+LDL-		1			0
+Glycosylation at threonines 48 and 71 of human proBNP		1			0
+glycated apolipoprotein B		1			0
+EEQFN <sup>177</sup>STYR (H3N4)		1			0
+EEQYN <sup>227</sup>STFR (H3N4F1)		1			0
+A/B epitopes		1			0
+Sialic acid-binding Ig-like lectin 8 (Siglec-8)		1			0
+mannose-containing O-specific polysaccharides		1			0
+blood group B trisaccharide		1			0
+β-glucan fragment		1			0
+(Man)(5)(GlcNAc)(2)		1			0
+(Man)(6)(GlcNAc)(2)		1			0
+(Hex)(4)(GlcNAc)(5)		1			0
+tri-arabinans		1			0
+Mac-2 binding protein glycan isomer		1			0
+monosulfated tetra-glycosyl ceramide, SM1a, Galβ1-3GalNAcβ1-4(3-O-sulfate)Galβ1-4GlcCer		1			0
+Fucalpha1-2Galbeta motif		1			0
+Fucalpha1-3GlcNAc motif		1			0
+MUC1 O-glycopeptide		1			0
+cell surface glycan		1			0
+glycans 1a		1			0
+glycans 2a		1			0
+heparin hexasaccharides		1			0
+SLe(a)		1			0
+α2,3-sialylated N-glycans		1			0
+Wisteria floribunda agglutinin		1			0
+glucuronylated T antigen		1			0
+Le(x) glycan		1			0
+heparins/heparan sulfates		1			0
+sialyl N-acetyllactosamine		1			0
+nonsialyl N-acetyllactosamine		1			0
+glycosylated total serum proteins		1			0
+N-glycolylated GM3		1			0
+Tn and T glycoforms		1			0
+agalactosylated oligosaccharides		1			0
+hCG derivatives		1			0
+SIRPalpha1		1			0
+fucosylated kininogen		1			0
+fucosylated alpha-1-antitrypsin		1			0
+N-linked glycosylated		1			0
+sialosyl globopentaosylceramide		1			0
+Myelin-Oligodendrocyte Glycoprotein		1			0
+ED-B domain		1			0
+glycosylated molecules		1			0
+outer arm fucose residues		1			0
+glyco-parameters		1			0
+AOL/DSA		1			0
+MAL/DSA		1			0
+GlcNAcβ		1			0
+GA2		1			0
+H type-1 glycan		1			0
+GSTA		1			0
+Galα1-3Galβ1-(3)4GlcNAc-R		1			0
+single-N-linked glycan chain		1			0
+anti-laminaribioside carbohydrate (ALCA)		1			0
+anti-chitobioside carbohydrate (ACCA)		1			0
+anti-mannobioside carbohydrate (AMCA)		1			0
+glycan content		1			0
+sialylated and sulphated glycans		1			0
+fucose-containing branched trisaccharide		1			0
+disaccharide		1			0
+disialylated O-glycan tetrasaccharides		1			0
+asparagine-linked glycan		1			0
+elongated complex oligosaccharide		1			0
+truncated O-glycans (Tn, T antigens and their sialylated forms)		1			0
+fucosylated, non-galactosylated, non-sialylated, bisecting IgG N-glycans		1			0
+plasma MPA and HPA binding glycans		1			0
+multiply-galactosylated glycans and sialylated glycans, GNA-binding glycans, NPA-binding glycans, WGA-binding glycans, and bisecting GlcNAc glycans		1			0
+N-linked complex glycans		1			0
+sulfated sialoglycan		1			0
+non-fucosylated triantennary sugar chain		1			0
+glucomannan		1			0
+Glc(alpha1,4)Glc(alpha) (GAGA4)		1			0
+maltohexaose		1			0
+fuco-fractions		1			0
+tri-antennary glycan		1			0
+core-fucosylated biantennary glycan		1			0
+GlcNH2		1			0
+GlcNH2/Man ratio		1			0
+glycans terminated with galactose residues		1			0
+LCA-binding oligosaccharides		1			0
+blood group i epitope (linear poly-N-acetyllactosamine chain)		1			0
+alpha(2,8)-linked disialic acid		1			0
+α2-3 and α2-6 sialosides		1			0
+alpha1,6-Fucose		1			0
+GD3(d18:1/18:0)		1			0
+GD2(d18:1/18:0)		1			0
+tri and tetra-antennary glycan classes		1			0
+O-GalNAc glycans		1			0
+Tn (GalNAcα-Ser/Thr)		1			0
+STn (Neu5Acα2-6GalNacα-Ser/Thr)		1			0
+Le(c)Le(x)		1			0
+di-Le(a)		1			0
+Le(a)Le(x)		1			0
+Le(a)-containing glycans		1			0
+N-acetyllactosamine-type glycans		1			0
+3-fucosyl N-acetyllactosamine		1			0
+O-glycan processing		1			0
+fucosylated LacdiNAc	Fucosylated LDN	1	G02240AO	gsd_strict	2
+glycan antigen 125 (CA125)		1			0
+H4N3F1L1		1			0
+H4N6F1E1		1			0
+core and outer-arm fucosylation		1			0
+GlcNAc(beta1,3)GalNAc		1			0
+sialyl Lewis X epitope		1			0
+Putative N-linked glycosylation site (PNGS) mutations		1			0
+serum glycopatterns		1			0
+carbohydrate antigen recognized by mAb FH6		1			0
+core 2-based O-glycan		1			0
+complex-type N-glycan		1			0
+N-acetyl-neuraminic acid		1			0
+N-glycolyl-neuraminic acid		1			0
+core mannose oligosaccharide side chains		1			0
+N-acetyl glucosamine-residues		1			0
+SSEA3		1			0
+type 1 core O-glycan		1			0
+N-acetyllactosamine-type structures		1			0
+oligomannoside-type structures		1			0
+O-glucosylated (Xyl1-3Xyl1-3Glc)		1			0
+O-fucosylated (NeuAc2-3Gal1-4GlcNAc1-3Fuc)		1			0
+glycan chains on MUC1		1			0
+lactosamine structures		1			0
+O-linked glycan(s)		1			0
+multisialylated LacdiNAc (GalNAcβ1-4GlcNAc)		1			0
+glycosylated LRG1		1			0
+CD20 type II epitope		1			0
+1,6 N-acetylglucosamine (GlcNAc)		1			0
+RAAG12		1			0
+agalactosyl IgG		1			0
+Thomsen-Friedenreich glycotope		1			0
+S or Re endotoxin glycoforms		1			0
+glycosidic conjugates of cyanidin		1			0
+O-linked oligosaccharide chain		1			0
+carboxylated N:-glycans		1			0
+O-Linked oligosaccharides	O-linked glycans	1		gsd_strict	2
+high-mannose, hybrid and complex N-linked glycans		1			0
+tri- and tetra-antennary fucosylated oligosaccharides		1			0
+N-acetylhexosamine (HexNAc)		1			0
+N-acetylglucosaminyl-phosphatidylinositol		1			0
+MAA-reactive SA		1			0
+SNA relative reactivity with CLU glycans		1			0
+fucosylated structures		1			0
+2'FL		1			0
+LNFP I		1			0
+LDFT		1			0
+LNDFH I		1			0
+tandem-repeat-type galectin-8		1			0
+asialo GA1		1			0
+GD3 (d18:1/24:1)		1			0
+GD3 (d18:1/24:2)		1			0
+core 1 O-glycan (Galbeta1-3GalNAcalpha1-Ser/Thr, T antigen)		1			0
+sialyl-T antigen (NeuAcalpha2-3Galbeta1-3GalNAcalpha1-Ser/Thr)		1			0
+6-sulfated glycan		1			0
+core 3 structure of O-glycans		1			0
+N-glycosylated asparagine		1			0
+complex glycosylation		1			0
+fucose-rich glycovariants		1			0
+CML		1			0
+CD83		1			0
+N-linked glycosylation motifs		1			0
+alpha-mannosyl ceramide		1			0
+glycosylation sites (N331 and N343)		1			0
+CD4 binding site (CD4bs)		1			0
+sialyl Lewis X (3'SLeX)		1			0
+glycosylated angiotensin-(1-7) peptide Ang-1-6-O-Ser-Glc-NH2 (PNA5)		1			0
+GP 3		1			0
+GP 8		1			0
+GP 11		1			0
+GP 4		1			0
+GP 14		1			0
+oligo mannose-rich glycoproteins		1			0
+sialic acid-bearing glycans		1			0
+Lewis X (Le(x))-containing glycan		1			0
+Lewis A (Le(a))-capped glycan		1			0
+A2G1(6)FB		1			0
+complex type N-glycan groups		1			0
+natural complex glycan ligand		1			0
+fucosylated lactosaminoglycans		1			0
+keratan sulphate	Keratan sulfate	1	G82109MW	gsd_strict	2
+core3MUC1 (GlcNAcβ1-3GalNAc-MUC1)		1			0
+STnMUC1 (NeuAcα2,6GalNAc-MUC1)		1			0
+sialylated meningococcal lipopolysaccharide		1			0
+bi-sialylated N-glycans		1			0
+tri-sialylated N-glycans		1			0
+neutral N-glycans		1			0
+mono-sialylated glycans		1			0
+Man(5)GlcNAc(2)		1			0
+CA 15-3		1			0
+tetra-antennary N-glycans		1			0
+tri-antennary N-glycans		1			0
+Neu5Ac-α2, 6-Gal-β1, 4-GlcNAc-β1, 4-GlcNAc		1			0
+O-Glycans	O-linked glycans	1		gsd_strict	2
+N-acetyl galactosamine/galactose (GalNAc/Gal)-associated glycan		1			0
+α2,3-sialylated prostate-specific antigen (S23PSA)		1			0
+Siglec-9 sialoglycan ligands		1			0
+Galβ1,3GalNAc		1			0
+sialic acid-binding immunoglobulin-like lectin 8		1			0
+fPSA glycosylation		1			0
+galectin-7		1			0
+sialyl-Tn (Neu5Acalpha2-6-GalNAc)		1			0
+Lewis(x) trisaccharide		1			0
+MUC1-glycopeptides		1			0
+GM1-like		1			0
+GT1a-like		1			0
+GD3-like		1			0
+GD1a-like		1			0
+Gal: Man: GlcN: GaIN		1			0
+tetrasaccharide O-glycans		1			0
+hexasaccharide O-glycans		1			0
+N-linked glycan epitopes		1			0
+N- and O-glycosylated sugar chains		1			0
+H-type3		1			0
+cancerous glycans		1			0
+glycan-phosphatidylinositol		1			0
+alginate		1			0
+sialyl Lewis X (sLe<x>)		1			0
+sialyl Lewis A (sLe<a>)		1			0
+Mac-2-binding protein glycan isomer		1			0
+glycan part of PSA		1			0
+sialyl Lewis a (sLea)		1			0
+N-glycan modification		1			0
+m/z 1201		1			0
+m/z 1449		1			0
+glycosylated MUC1 tumor antigen		1			0
+V3 region		1			0
+gp41 amino terminus		1			0
+underglycosylated forms of LGR5		1			0
+glycosylated forms of alpha-dystroglycan		1			0
+sialylated glycan isomers		1			0
+specific glycan patterns		1			0
+branched core 2 structures		1			0
+linear core 1 or core 3 structures		1			0
+MHC associated glycan		1			0
+blood group		1			0
+N-glycosylated forms		1			0
+glycosylated NIS		1			0
+heavily glycosylated core and loop structures		1			0
+glycosylated versions of the HIV proteins		1			0
+nonglycosylated versions of the HIV proteins		1			0
+C-glycosyltryptophan		1			0
+3-carboxy-4-methyl-5-propyl-2-furanpropanoate		1			0
+glycan ligand of the inhibitory receptor CD33 (CD33L)		1			0
+Glc(alpha1,4)Glc(alpha)		1			0
+6'-sulfo-sLe(x)	6'-Sulfo Sialyl Lewis x	1	G00672PE	gsd_strict	2
+high mannose-type N-glycan biosynthesis		1			0
+Sialyl Lewis a	Sialyl Lewis a	1	G00053MO	gsd_strict	2
+Glc2NTs		1			0
+O-linked sialyloligosaccharides		1			0
+Ca 19-9	Sialyl Lewis a	1	G00053MO	gsd_strict	2
+Ca 50		1			0
+T(N) antigen		1			0
+Glycosylphosphatidylinositol	GPI anchors	1		gsd_strict	2
+C2-O-sLe(x)		1			0
+Desialotransferrin		1			0
+glycan chains		1			0
+α2-6 sialylation on N-glycans		1			0
+ABO glycan		1			0
+GalNAcalpha1-Ser/Thr (Tn)		1			0
+α-N-acetylgalactosamine (GalNAc)		1			0
+α-N-acetylglucosamine (GlcNAc)		1			0
+dp5		1			0
+F1 alpha (Gal beta 1-->4GlcNAc beta 1-->6GalNAc alpha 1-->Ser/Thr)		1			0
+Fucα1-2Galβ1-3GalNAc-R		1			0
+βGal-βGalNAc residues		1			0
+HPA and PNA binding glycostructures		1			0
+Tn and sialyl-Tn (sTn) O-glycans		1			0
+altered glycosylation of MUC1		1			0
+prothrombin A2G2S		1			0
+immunoglobulin J chain FA2G2S2		1			0
+clusterin A2G2		1			0
+complement component C8A A2G2S2		1			0
+apolipoprotein M glycopeptide with non-fucosylated and non-sialylated hybrid-type glycan		1			0
+d-GM3		1			0
+d-GD3		1			0
+O126 glycoforms		1			0
+BGP I		1			0
+3-sulfoglucuronyl beta1-3 galactoside		1			0
+human natural killer cell antigen-1 (m-HNK)		1			0
+N260 glycan		1			0
+sialyl Lewis x in core 2 branched O-glycans		1			0
+sialyl Lewis x in extended core 1 O-glycans		1			0
+Fc gamma RIIIb		1			0
+Fc gamma RIIa		1			0
+monosialylated, core 2-based O-glycan with a sialyl Lewis x (C2-O-sLe(x)) motif		1			0
+high mannose tri and tetra antennary N-glycans		1			0
+Tn-antigen (GalNAcα-Ser/Thr)		1			0
+sialylated core 1 (sialyl-T, ST) oligosaccharides		1			0
+O-secretor mucin glycan phenotype		1			0
+N-linked glycosylation site (N66)		1			0
+D1 domain glycan		1			0
+difucosylated oligosaccharide Lewis Y (Le(Y))		1			0
+Peak9		1			0
+Peak9p		1			0
+Peak12		1			0
+Peak11		1			0
+sialylated PFPL O-glycans		1			0
+galectin-3-reactive glycoligands		1			0
+non-glycosylated NT-proBNP		1			0
+complex-type N-linked glycans having multivalent GlcNAc termini		1			0
+penta-antennary complex-type with bisecting GlcNAc		1			0
+bi-antennary complex-type		1			0
+multi-antennary complex-type N-linked OS		1			0
+xylose-binding proteins		1			0
+sialylated Lewis(x) sequence		1			0
+Gal3Sulfo-T(2)		1			0
+Gal3Sulfo-T(4)		1			0
+GlcNAc6Sulfo-T		1			0
+alpha1,2-fucosyltransferase		1			0
+sialylated antigens		1			0
+Galβ1-3GalNAc		1			0
+(β-GlcNAc)n		1			0
+bi- and triantennary N-glycan containing Galβ1-4GlcNAcβ1-2Manα1-6		1			0
+terminal Galβ1-4GlcNAc		1			0
+glycolipids		1			0
+(2,3)-sialyl-T antigen		1			0
+NeuAc alpha 2-6Gal		1			0
+core N-glycans		1			0
+alpha-linked mannose		1			0
+mannose-rich polypeptide		1			0
+complex carbohydrate group		1			0
+glycosylation motif (NTT (221-223))		1			0
+O-glycan core 1 structure		1			0
+glycan phosphoinositol (GPI) anchor		1			0
+NeuGc alpha 2-6Gal beta 1-4GlcNAc		1			0
+Wisteria floribunda agglutinin-positive Mac-2 binding protein		1			0
+TF antigen	T antigen	1	G00031MO	gsd_strict	2
+9-N-(2-naphthyl-sulfonyl)-Neu5Acα2-3-[6-O-sulfo]-Galβ1-4GlcNAc		1			0
+N276		1			0
+N460/N463		1			0
+Lewis(x) (Le(x))		1			0
+glycan structures of fetuin		1			0
+fucose-containing glycans		1			0
+CD4-binding site		1			0
+globotriaosylceramide (Gb3)		1			0
+α(2,6)-linked sialylation		1			0
+Hexuronic Acids		1			0
+phosphatidyl-inositol-glycan		1			0
+altered carbohydrate moieties		1			0
+MUC-1 polypeptide		1			0
+Glycosyl-phosphatidylinositol (GPI) anchor		1			0
+high mannose glycan	High mannose	1	G55220VL	gsd_strict	2
+STn antigen		1			0
+alpha-dystroglycan		1			0
+asialylated LDL		1			0
+glycosylated on asparagine residues		1			0
+1-aminoglucosesuccinate		1			0
+bisecting N-acetylglucosamine (GlcNAc) residues		1			0
+core-glycosylated		1			0
+(Galbeta)Ser		1			0
+(Glcalpha,beta)Tyr		1			0
+branched oligosaccharides		1			0
+galactose-specific lectins		1			0
+Neu5Acα2-3[6S]Galβ1-4GlcNAc		1			0
+N- or O-glycans		1			0
+Thomsen-Friedenreich (T, Gal beta 1-->3-GalNAc alpha 1-->Ser/Thr)		1			0
+mucin O-glycan		1			0
+Concanavalin A-non-reactive fraction		1			0
+STF		1			0
+alpha(1-2)fucosylated glycans		1			0
+stage-specific embryonic antigen-4 (SSEA-4)		1			0
+blood group A trisaccharide		1			0
+Sig8L		1			0
+fucosylated core 1 O-glycan		1			0
+fucosylated forms		1			0
+asialo-AGP		1			0
+defined cell surface glycans		1			0
+core 1 O-glycan structure, Gal-GalNAc-O-Ser/Thr		1			0
+mucin type-O-glycans		1			0
+P63		1			0
+neutral and acidic carbohydrates		1			0
+aspartylglycosamine		1			0
+T/Tn antigen		1			0
+CA199		1			0
+CD33		1			0
+glycan vibrations		1			0
+Gal(beta1-O)Thr		1			0
+Gal(beta1-S)Cys		1			0
+Gal(beta1-N)Asn		1			0
+Lac(beta1-O)Thr		1			0
+Sialyl-Lewis(x)	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+sialo-N- and O-glycans		1			0
+STn glycoform		1			0
+sialylated MUC4β N-glycans		1			0
+multifucosylated sequence		1			0
+multi-antennary sialylated N-glycolylneuraminic acid (Neu5Gc)		1			0
+phosphatidylinositol glycan (PIG)		1			0
+blood group H type 2 (BG-H)		1			0
+Lewis-x (Le(x))		1			0
+β-glycan		1			0
+Neu5Acalpha2-3Galbeta1-4Glc		1			0
+glycosylated parasitic structure		1			0
+disialosyl globopentaosylceramide (DSGb5 (d18:1/16:0))		1			0
+N-linked glycan chain		1			0
+Thomsen nouveau (Tn) antigen	T antigen	1	G00031MO	gsd_strict	2
+high-branched N-glycans		1			0
+ABO blood group glycan antigens		1			0
+P(1)		1			0
+N276_gp120 glycan		1			0
+glycan276		1			0
+aberrantly glycosylated IgA1		1			0
+glycan cap		1			0
+disialotetrasaccharides NeuNAc alpha 2----3Gal beta 1----3(NeuNAc alpha 2----6)Gal-NAc-Ser/Thr		1			0
+NeuNAc alpha 2----3Gal beta 1----3(NeuNAc alpha 2----3Gal beta 1----4GlcNAc beta 1----6)GalNAc-Ser/Thr		1			0
+alpha-galactose		1			0
+H epitope		1			0
+Fucosylated multi-antennary glycopeptide markers		1			0
+glycosylated precursors		1			0
+Fucalpha1-->2Fucalpha1-->3[Gal(NAc)beta1-->4]GlcNAc		1			0
+N-glycan monosaccharide compositions		1			0
+H antigen		1			0
+abnormally glycosylated hCG		1			0
+Laminin-511		1			0
+N-Acetyllactosamine		1			0
+V3 loop		1			0
+fucosylated leukocyte PSGL-1		1			0
+O-linked, sialated glycan		1			0
+oligomannose type N-linked glycans		1			0
+mannosyl core of complex type N-linked glycans		1			0
+MALDI-TOF MS peaks		1			0
+CA199.STRA		1			0
+6-sulfated galactose		1			0
+N-linked glycan at position-276		1			0
+Lewis x determinant (Le(x))		1			0
+β-1,6-N-acetylglucosamine moiety of N-linked glycan		1			0
+glycan chain		1			0
+sialyl-T(N)		1			0
+alpha2,6-sialyl-T		1			0
+alpha2,3-sialyl-T		1			0
+Siaalpha2-3Galbeta1-4GlcNAc		1			0
+Core 1 glycan, Galβ1-3GalNAc		1			0
+Gal beta 1,3GalNAc-PA		1			0
+NeuAc alpha 2,3Gal beta 1,3(NeuAc alpha 2,6)GalNAc-PA		1			0
+NeuAc alpha 2,3Gal beta 1,3GalNAc-PA		1			0
+Sialyl-Lewis X (SLe(x))		1			0
+Galβ1-3GlcNAcβ		1			0
+V2 loop glycosylation		1			0
+de-N-acetyl polysialic acid (dPSA)		1			0
+α-L-fucose		1			0
+α-(2,6)-linked terminal sialic acid		1			0
+α-(2,3)-linked terminal sialic acid		1			0
+antibody Fc-glycosylation		1			0
+β1,6GlcNAc-branched N-glycans		1			0
+galectin‑based magnetic glycan recognition particles		1			0
+sialic acid linked α 2-3		1			0
+sialic acid linked α 2-6		1			0
+sialyl Lewisx	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+N,N-diacetyllactosamine (LacdiNAc)		1			0
+Tn (GalNAcalpha(1-1)-Thr/Ser)		1			0
+T (Galbeta(1-3)-GalNAcalpha(1-1)Thr/Ser)		1			0
+Fc domain glycan		1			0
+Lewis B	Lewis b	1	G39211DH	gsd_strict	2
+glycan phosphatidyl inositol-anchored Fc gamma RIII-1		1			0
+mannosylated and fucosylated structures		1			0
+beta 1-6-branched N-linked oligosaccharides		1			0
+GalNAc (Tn-antigen)		1			0
+Galβ1-3GalNAc (T-antigen)		1			0
+NeuAcα2-3Galβ1-3GalNAc (sialyl-T-antigen)		1			0
+NeuAcα2-6GalNAc (sialyl-Tn-antigen)		1			0
+O-sialoglycans		1			0
+beta glycan		1			0
+Sialyl-Tn antigen (SAalpha2-6 GalNAc alpha-Ser/Thr)	Sialyl-Tn antigen	1	G36123IU	gsd_strict	2
+disialylated core fucosylated biantennary structures with α2,6-SA		1			0
+sialylated diantennary and hybrid-type glycans		1			0
+alpha2,6 sialylation		1			0
+alpha2,3 sialylation		1			0
+mannose-related N-glycans		1			0
+fucose-related sequences		1			0
+Lewisx-related sequence		1			0
+dextran		1			0
+GlcNAc(beta 1-6)GalNAc(alpha 1-OBn) (core 6-Bn)		1			0
+N-acetyl galactosaminylated glycans		1			0
+N230 glycan		1			0
+disialyl-T	Disialyl T antigen	1	G01614ZM	gsd_strict	2
+glycan core of the LPG GPI anchor		1			0
+Agaricus bisporus (ABA) lectin		1			0
+Thomsen-Friedenreich (T) glycotope		1			0
+Gb(4)Cer		1			0
+Lc(4)Cer		1			0
+fucosyl Lc(4)Cer		1			0
+disialyl Gb(5)Cer		1			0
+O-linked oligosaccharide chains		1			0
+b1-6 branched glycan structures		1			0
+trimeric Tn antigen (tTn)		1			0
+glycosylated polypeptide chain		1			0
+phosphatidylinositol glycan moiety		1			0
+Lewis Y (Le<sup>Y</sup>)		1			0
+ketodeoxynonulosonic acid (Kdn)		1			0
+human blood group A-determinant structure		1			0
+sLe(x) gangliosides with terminal Neu5Acα2-3Galβ1-4(Fucα1-3)GlcNAc epitope		1			0
+type 1 chain (Gal beta 1-3GlcNAc beta 1-)		1			0
+PrPC		1			0
+Sia-containing glycan epitope		1			0
+fucosylated oligosaccharide		1			0
+P-selectin glycan ligands		1			0
+6-sulfo-sialyl-Lewis(x)		1			0
+fully sialylated biantennary glycans		1			0
+glycan phosphatidylinositol-linked		1			0
+alpha-NeuAc-(2----3)-beta-D-Gal		1			0
+hexose		1			0
+hexosamine		1			0
+glycan at N386		1			0
+GlcA-GlcNH3+		1			0
+Galectin-3		1			0
+β-D-1,3-glucan		1			0
+glycosylphosphatidylinositol moiety		1			0
+neolacto-series GSLs (SSEA-1 and H type 2 antigen)		1			0
+complex N-glycans encompassing β1,2 xylose and α1,3 fucose glycoepitopes		1			0
+concanavalin A nonreactive fraction		1			0
+concanavalin A weakly reactive fraction		1			0
+sialyl-Lewisx (Si-Lex)		1			0
+core 6-related epitope on core mucin glycans		1			0
+Mucin type O-glycan		1			0
+O-linked sialylated keratan sulfate chains		1			0
+GalNAcbeta1-4(Fucalpha1-3)GlcNAc		1			0
+phosphatidylinositol		1			0
+glycosylated in the light chain variable region		1			0
+glycosylated recombinant form of human IL-6		1			0
+biantennary N-linked glycans		1			0
+GalNAcalpha1-->Ser/Thr (Tn)		1			0
+Galbeta1-->3GalNAcalpha1-->Ser/Thr (T(alpha))		1			0
+Lewis-x		1			0
+Thomsen-Friedenreich (Tf) antigen	T antigen	1	G00031MO	gsd_strict	2
+Sialyl Thomsen-nouveau (STn) antigen	Sialyl-Tn antigen	1	G36123IU	gsd_strict	2
+Sialic Acid Binding Immunoglobulin-like Lectins		1			0
+O-glycan biosynthesis		1			0
+sialylated core 1 type O-glycans		1			0
+glycan structure		1			0
+phosphatidylinositol glycan (PI-G) anchor		1			0
+α2,3-linked N-sialyllactose polymer		1			0
+N-acetylneuraminic acid	Neu5Ac	1		gsd_strict	2
+glycosylated antigens		1			0
+lambda-carrageenan		1			0
+DUPAN-2		1			0
+mucin O-glycosylation		1			0
+haptoglobin bifucosylated tetra-antennary glycan		1			0
+mannosylated structures		1			0
+6-sulfo LacNAc	6-Sulfo LacNac	1	G13157WZ	gsd_strict	2
+sialomucin		1			0
+LCA-binding AFP		1			0
+O-GalNAcylation		1			0
+Asialoglycoproteins		1			0
+hyposialylated CD43		1			0
+N463		1			0
+mucin core peptide (MUC) 2		1			0
+MUC3		1			0
+TFF3		1			0
+asparagine-linked carbohydrates		1			0
+high-affinity glycan ligand		1			0
+3'-sialyl-N-acetyllactosamine		1			0
+6'-sialyl-N-acetyllactosamine		1			0
+sialyllacto-N-tetraose b		1			0
+N-Glycan biosynthesis		1			0
+alpha 2-->8-linked disialylated poly-N-acetyllactosamine		1			0
+glycosylphosphatidylinositol (GPI) glycan		1			0
+GalNAcalpha1-O-Ser/Thr (Tn)		1			0
+NeuAcalpha2-6GalNAcalpha1-O-Ser/Thr (STn)		1			0
+sulphated glycans		1			0
+LeX	Lewis x	1	G00051MO	gsd_strict	2
+473HD		1			0
+sialyl Lewis X (SLeX)		1			0
+α 2,6-linked tri-sialylated triantennary glycan containing α1,3-linked fucose		1			0
+glycan-containing surfaces		1			0
+phosphatidyl inositol glycan (PIG)		1			0
+HBGAs		1			0
+N-Acetylneuraminic Acid (Neu5Ac)		1			0
+oligomannose type glycosylation		1			0
+teichoic acid		1			0
+Galβ1-3GlcNAc		1			0
+bisecting glucosaminylated biantennary		1			0
+sulfated sialyl Lewis x		1			0
+lactosamine		1			0
+Asn-linked glycans		1			0
+3-sialyl di-Lewis x		1			0
+mono- and difucosylated forms of the disaccharide lactose		1			0
+Lewis(x) and/or Lewis(y) epitopes		1			0
+(GlcNAcbeta1-3/4Glc)		1			0
+type 2 (Galbeta1-4GlcNAc)		1			0
+serotransferrin glycoforms		1			0
+glycan part of the 22C3 epitope		1			0
+α-2,6 linked SA		1			0
+phosphatidyl-inositol-glycan-anchored glycoprotein		1			0
+phosphatidylinositol glycan anchored protein (PIG-AP)		1			0
+mannose-binding lectins		1			0
+beta(1,6)-branched N-linked glycan structures		1			0
+L-PHA reactive glycoproteins		1			0
+unsialylated N-linked glycans		1			0
+laminaribioside		1			0
+chitobioside		1			0
+Manβ1-4GlcNAcβ		1			0
+n-butyrate- and acetate-modified ManNAc analogues		1			0
+nonsulfated HNK-1 epitope		1			0
+di-N-acetylchitobiosyl		1			0
+type 1 and 11 ABH blood group epitopes		1			0
+Galactosamine		1			0
+blood group A tetrasaccharide type II		1			0
+BgA trisaccharide		1			0
+glycan microheterogeneity		1			0
+sialyl-fucosylated core 2 O-glycan (CHO-131 antigen)		1			0
+sulfated Lewis X determinants		1			0
+Sialyl Lewis x (sLe(x))	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+Sialyl Lewis a (sLe(a))		1			0
+sialooligosaccharide sequences		1			0
+GD3 ganglioside		1			0
+Lewis y antigen		1			0
+Forssman determinant		1			0
+asparagine-linked sugar chain		1			0
+glycan portion of the GPI anchor		1			0
+sialyl-Lewisa/x (sLea/sLex)		1			0
+N-acetyl glycan groups		1			0
+LacCer (d18:1-h23:0)		1			0
+N-glycan moieties		1			0
+proinflammatory IgG glycans		1			0
+terminal alpha- and beta-linked GalNAc residues		1			0
+6-sulfo sialyl Lewis(x)		1			0
+O-linked oligosaccharide	O-linked glycans	1		gsd_strict	2
+myo-inositol		1			0
+D-chiro inositol		1			0
+mannan epitope of Saccharomyces cerevisiae (gASCA)		1			0
+laminaribioside (ALCA)		1			0
+chitobioside (ACCA)		1			0
+mannobioside (AMCA)		1			0
+outer membrane porins (Omp)		1			0
+branched hexasaccharides, NeuNAc alpha 2----3Gal beta 1----3(NeuNAc alpha 2----3Gal beta 1----4GlcNAc beta 1----6)GalNAc		1			0
+tetrasaccharides NeuNAc alpha 2----3Gal beta 1----3(NeuNAc alpha 2----6)GalNAc		1			0
+Tn antigen (GalNAcα-Ser/Thr)		1			0
+IgG hypogalactosylation		1			0
+decreased galactosylation of IgG		1			0
+O-glycan-peptide signatures		1			0
+core 2-containing O-glycans		1			0
+T-antigen (Galbeta1-3GalNAc-Thr/Ser)		1			0
+type I and II ABH blood group epitopes		1			0
+sialylated Hp		1			0
+fucosylated Hp		1			0
+Hp		1			0
+glycans in CA125		1			0
+arabinoxylan		1			0
+glycosyl-PI (GPI) anchor		1			0
+anti-disialosyl galactosyl globoside		1			0
+anti-fucosyl GM1		1			0
+anti-Gb2		1			0
+asialo-lactosamine		1			0
+glycan epitope on CD52g		1			0
+beta-D-GalpNAc-(1-->4)[alpha-L-Fucp-(1-->3)]-beta-D-GlcpNAc		1			0
+Tn glycotope		1			0
+Ga1NAc		1			0
+O-linked monosaccharide glycans		1			0
+high-molecular-weight glycosylated exoprotein		1			0
+N-linked glycosylation pattern		1			0
+lacdiNAc sequence GalNAc beta 1-->4GlcNAc beta 1-R		1			0
+β1,6 GlcNAc (N-acetylglucosamine) branches		1			0
+Galbeta1-3GlcNAc		1			0
+incompletely sialylated N-linked glycans		1			0
+core I O-glycans		1			0
+monosialyl T antigen		1			0
+disialyl T antigen	Disialyl T antigen	1	G01614ZM	gsd_strict	2
+90K		1			0
+mucin-type O-glycan biosynthesis		1			0
+O-Acetyl-GD2		1			0
+N362 glycan		1			0
+N463 glycan		1			0
+Tn antigen (GalNAcalpha-O-Ser/Thr)		1			0
+high mannose type		1			0
+complex type		1			0
+sialofucosylated structures		1			0
+lipoarabinomannan		1			0
+Ulex Europaeus Agglutinin I (UEA-I)		1			0
+glycosphingolipid		1			0
+core 1 O-glycans (Gal beta 1-3GalNAc alpha 1-Ser/Thr)		1			0
+high-mannose and hybrid glycoforms		1			0
+mannose-5 or mannose-6 glycoform		1			0
+hybrid glycoform		1			0
+Man3-GlcN-inositol		1			0
+high-mannose-type sugars	High mannose	1	G55220VL	gsd_strict	2
+Fucosylated glycans, including H-antigen		1			0
+O-glycan core 2 structure [Gal beta 1-3(GlcNAc beta 1-6)GalNAc]		1			0
+SSEA-1	SSEA-1	1	G85497PI	gsd_strict	2
+sialyl Lewis X (sLe<sup>x</sup>)		1			0
+mannan epitope of S. cerevisiae		1			0
+gASCA		1			0
+ALCA		1			0
+AMCA		1			0
+biantennary disialylated N-glycan completed with two Neu5Acalpha2-3 residues		1			0
+GM4 sialylated glycolipid Neu5Acalpha2-3Galbeta1-Cer		1			0
+1,7 intramolecular lactone of N-acetyl-neuraminic acid		1			0
+N-linked and O-linked HNK-1-like epitopes		1			0
+HIV-specific Fc-glycans		1			0
+cell surface glycans		1			0
+alpha 2-6-linked Sias		1			0
+phosphoinositol (PI) glycan moiety		1			0
+alpha2beta1 integrin		1			0
+glycan at N160		1			0
+glycan at N276		1			0
+alpha 2,6-linked sialic acid		1			0
+alpha1,4-GlcNAc-capped O-glycans		1			0
+α2,3-NeuAc-containing glycoproteins		1			0
+PD-L1		1			0
+T-Antigen (Gal-beta1,3-GalNAc-alpha-O-Ser/Thr)		1			0
+fucosylated lactosamines		1			0
+complex hybrid glycans		1			0
+Gal4,4,4TRI		1			0
+Gal4,4,3TRI		1			0
+fucosyl biantennary complex type structure		1			0
+nonfucosylated biantennary structure		1			0
+ABH blood group epitopes		1			0
+high mannose-type glycans		1			0
+glycan in the Fc domain of tmab		1			0
+O-linked N-acetylgalactosamine		1			0
+GalNAc beta(1-4)[Fuc alpha(1-3)]GlcNAc beta-OMe		1			0
+IgA1 N-linked and O-linked glycans		1			0
+chondroitin-4 sulfate		1			0
+sulfated blood group chains		1			0
+N-linked high mannose type		1			0
+GlcNAcalpha1-->4Galbeta-->R		1			0
+N-glycan at Asn297		1			0
+branched N-glycan		1			0
+phosphatidylinositol-glycan-linked Fc gamma RIII		1			0
+N-linked high mannose glycans		1			0
+PIGL		1			0
+glycans attached to both Cbeta and Calpha domains		1			0
+3'-sialyl-6-sulfo Lewis a		1			0
+Siaα2-6Gal/GalNAc-binding lectins		1			0
+glycans and glycosaminoglycans		1			0
+3'-sulpho-Le(x)		1			0
+3'-sulpho-Le(a)	3'-Sulfo-Lewis a	1	G78706CK	gsd_strict	2
+polylactosamine glycans		1			0
+α2,6-sialylated glycoconjugates		1			0
+triantennary N-linked oligosaccharides		1			0
+alpha 1-6-fucosylation of the asparagine-bound GlcNAc		1			0
+Neu5Ac alpha 2-3Gal beta 1-3(Neu5Ac alpha 2-6)GalNAc-ol		1			0
+Neu5Ac alpha 2-3Gal beta 1-4GlcNAc beta 1-6(Neu5Ac alpha 2-3Gal beta 1-3)GalNAc-ol		1			0
+Thy-1		1			0
+sialyl Lewis b		1			0
+α2-Heremans-Schmid Glycoprotein (AHSG/fetuin A)		1			0
+Galectin-8		1			0
+Lewisx (Lex)		1			0
+Neu5Gcα2-6GalNAcα1-O-Ser/Thr (GcSTn)		1			0
+galactose-terminal glycans		1			0
+O-linked and complex N-linked glycans		1			0
+mannosyl		1			0
+N-acetylglucosaminyl		1			0
+WFA(+)-CSF1R		1			0
+abnormally glycosylated IgA1		1			0
+decreased sialylation of IgA1		1			0
+galactose deficiency		1			0
+abnormally glycosylated polymeric IgA1		1			0
+soluble CD89-IgA and IgA-IgG complexes		1			0
+glycan phosphoinositol anchor		1			0
+N-linked glycan branching		1			0
+phosphatidylinositol glycan-linked form of FcRIII		1			0
+sialyltransferase ST6GAL1		1			0
+phosphatidylinositol glycan-class A		1			0
+bulky glycocalyx		1			0
+complex type biantennary oligosaccharides		1			0
+sialo biantennary oligosaccharides		1			0
+complex type triantennary oligosaccharides		1			0
+sialic acid (SIA)		1			0
+mannose-rich glycans		1			0
+sialylated Siglec-F ligands		1			0
+CD52 N-linked glycan, in α-2,3 sialic acid linkage with galactose		1			0
+β-(1-4)-galactose		1			0
+O- and N-glycan chains		1			0
+beta-galactosyl-beta-N-acetylglucosamine-galactosaminitol (sialic acid)		1			0
+beta-galactose-beta-N-acetylglucosamine-galactosaminitol		1			0
+beta-galactose-galactosaminitol		1			0
+N-glycan residue		1			0
+galactosylated IgG Fc N-linked glycans		1			0
+sialylated IgG Fc N-linked glycans		1			0
+bisecting N-acetylglucosamine-containing IgG Fc N-linked glycans		1			0
+IgG glycan		1			0
+N-Acetyl galactosamine residues		1			0
+chondroitin type glycosaminoglycans		1			0
+core-2-branched O-linked glycans		1			0
+high mannose and/or hybrid-type N-glycans		1			0
+sialyl T antigen (Neu5Acα2,3Galβ1,3GalNAcα1→)		1			0
+Sialyl-Thomsen-nouveau antigen (STn)	Sialyl-Tn antigen	1	G36123IU	gsd_strict	2
+Asn-linked oligosaccharide chains		1			0
+α2,3-sialylated glycans		1			0
+Galbeta1-4(Fucalpha1-3)GlcNAc (Lewis(x))		1			0
+GalNAcbeta1-4GlcNAc (LDN)		1			0
+3'-Sulfo-Lewis A/C		1			0
+CSF114(Glc)		1			0
+keto-galactose		1			0
+Wisteria floribunda agglutinin-positive Mac-2 binding protein glycan isomer (M2BPGi)		1			0
+CT glycans		1			0
+A2G2F		1			0
+alpha2,6-linked sialic acid-bearing glycans		1			0
+Mucin core-2 structure Galbeta1,4GlcNAcbeta1,6(3-O-MeGalbeta1,3)GalNAcalpha-O-Bn		1			0
+Globo H precursor (Galbeta1,3GalNAcbeta1,3Galalpha-O-Me)		1			0
+Galbeta1,4(6-O-sulfo)-GlcNAcbeta-O-Al		1			0
+Galbeta1,3(6-O-sulfo)GlcNAcbeta-O-Al		1			0
+core 2 N-acetylglucosamine		1			0
+α-2,6-sialic acid		1			0
+carbohydrate at position 386		1			0
+N160 glycan-V1/V2 site		1			0
+glycan backbone of peptidoglycan		1			0
+GPI anchor	GPI anchors	1		gsd_strict	2
+sulphation of glycans		1			0
+Thomsen-Friedenreich (TFα) antigen		1			0
+Core2 β1,6-N-acetylglucosaminyltransferase		1			0
+high-mannose Glycans		1			0
+Glycosylphosphatidylinositols	GPI anchors	1		gsd_strict	2
+core glycan		1			0
+sialyl-Lewis(x) motif		1			0
+O:-linked glycans		1			0
+terminal alpha1,4-GlcNAc		1			0
+hyaluronic acid		1			0
+Sialyl Lewis X (SLe(x))	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+sialylated and fucosylated oligosaccharide		1			0
+GT1 (d18:1/20:0)		1			0
+O-Ac-GD2		1			0
+O-Ac-GM4		1			0
+anti-GP2		1			0
+Sialic acid-binding immunoglobulin-like lectin (Siglec)-8		1			0
+glycans of the spike		1			0
+6-sulfo sialyl Lewis x (sLe(x))		1			0
+2-linked fucosylated glycans		1			0
+1,3,4-O-acetyl-N-azidoacetylmannosamine (Ac3ManNAz)		1			0
+l-rhamnose (Rha)		1			0
+sialylated/fucosylated glycans		1			0
+ACE2		1			0
+sialylglycans		1			0
+α2,3- and α2,6-linked residues of glycoconjugates		1			0
+gASCA (anti-Saccharomyces cerevisiae) IgG		1			0
+gASCA IgA		1			0
+anti-chitobioside (GlcNAc(beta1,4)GlcNAc(beta))		1			0
+anti-laminaribioside (Glc(beta1,3)Glb(beta))		1			0
+anti-mannobioside (Man(alpha1,3)Man(alpha))		1			0
+oligomannosidic structures		1			0
+Thomsen-Friedenreich TACA disaccharide		1			0
+NPL lectin		1			0
+PNA lectin		1			0
+LCA lectin		1			0
+WGA lectin		1			0
+Lewis O-chain		1			0
+heptoglycan domain		1			0
+glucosylated Lewis O-chains		1			0
+elongated PS composed of alternating 2-, and 3-monosubstituted alpha-D-Glcp residues		1			0
+Thomsen-Friedenreich (TF; Galβ1,3GalNAcα-)		1			0
+Glycosylphosphatidylinositol (GPI) anchor	GPI anchors	1		gsd_strict	2
+N-glycan precursors		1			0
+fibrillar extracellular matrix of glycans		1			0
+α1,3-fucosylated glycans		1			0
+Thomsen-nouveau-polysaccharide A1 (Tn-PS A1)		1			0
+sialosyl Lewis(a)		1			0
+glucuronic acid 3-sulfate		1			0
+Sialyl-Lewis X (Slex)	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+V3 glycan-dependent		1			0
+highly fucosylated high m.w. type 1 Lewis glycans		1			0
+ABH group epitopes		1			0
+keratan sulfate	Keratan sulfate	1	G82109MW	gsd_strict	2
+sialylated N-linked glycans		1			0
+C80 glucose-6-monomycolate		1			0
+sialylated, fucosylated lactosaminoglycans		1			0
+N-acetylgalactosamine beta-1 (GalNAcβ1)		1			0
+alpha-2,3-linked sialic acid		1			0
+HLA-G		1			0
+carrageenan		1			0
+alginic acids		1			0
+C2-O-sLex	C2-O-sLex	1	G97345NY	gsd_strict	2
+sialyl Lewis X (sLe(X)) antigen		1			0
+α-galactopyranosyl (α-Gal) epitopes		1			0
+β1,6GlcNAc-branched N-linked glycans		1			0
+fucosylated LacdiNAc (LDN-F)		1			0
+sialofucosylated glycoprotein(s)		1			0
+β-D-glycan		1			0
+biantennary heavy chain glycans		1			0
+fucosylated biantennary N-linked structures		1			0
+biantennary N-linked structures		1			0
+monoantennary oligosaccharide		1			0
+triantennary oligosaccharide		1			0
+sialosides		1			0
+glycosyl phosphatidylinositol (GPI)-anchored proteins		1			0
+sialyl-Lewis x (sLe(x))		1			0
+Le glycans		1			0
+non-terminal carbohydrate in the mucin O-glycans		1			0
+glycosylated form of EDN		1			0
+V2-glycan		1			0
+CD4-binding-site		1			0
+glycan-dependent epitopes		1			0
+conserved nonlinear epitope in the V3 region		1			0
+CD4BS epitope		1			0
+Lewis x (Lex)	Lewis x	1	G00051MO	gsd_strict	2
+S121 epitope		1			0
+alpha-GalNAc	Tn antigen	1	G57321FI	gsd_strict	2
+Tn epitope		1			0
+blood group A antigen		1			0
+sialyl-Lewis(X)	Sialyl Lewis x	1	G00054MO	gsd_strict	2
+sulfatide	Sulfatide	1	G72548RZ	gsd_strict	2
+sulfoglucuronyl glycolipids		1			0
+Galbeta1,4(Fucalpha1,3)GlcNAc (Lex)		1			0
+Lea	Lewis a	1	G00047MO	gsd_strict	2
+Leb		1			0
+Ley	Lewis y	1	G00052MO	gsd_strict	2
+V1V2 glycan		1			0
+membrane-proximal glycan		1			0
+CD4 binding site glycan		1			0
+sialyl-Lewis(a) (sLe(a))		1			0
+histo-blood group A trisaccharide		1			0
+sialyl-Lewis X/A (sLeX/A)		1			0
+core 2 branching structure		1			0
+GalNAc-containing oligosaccharides		1			0
+mannosylated lipoarabinomannan		1			0
+N-acetylhexosamine-sialic acid		1			0
+sialyl-Lewis(x) tetrasaccharide		1			0
+N-linked glycan-dependent epitope		1			0
+glycans located in the V1/V2, V3 and V4 regions		1			0
+alpha 3-galactosyl-capped trisaccharide		1			0
+beta 4-galactosyl-capped trisaccharide		1			0
+glycan-dependent HIV-1 bNAbs		1			0
+mannosyl/N-acetylglucosaminyl derivatives		1			0
+Gal-GalNAc	T antigen	1	G00031MO	gsd_strict	2
+6-sulfo N-acetyllactosamine/Lewis x		1			0
+mannose-terminating glycans		1			0
+V1V2 glycan site		1			0
+sialyl Lewis x-containing glycan		1			0
+Tn antigen (GalNAc-α-O-Ser/Thr)		1			0
+glycan-dependent monoclonal antibody epitopes		1			0
+tRNA-Val		1			0
+N-linked glycan profile		1			0
+selectin ligand		1			0
+glycan biosynthesis and metabolism		1			0
+V1V2 glycan-dependent epitopes		1			0
+blood group ABO antigens		1			0
+Lewis-type epitopes		1			0
+fucose containing structures		1			0
+sialyl-LeA (SLeA)		1			0
+galectin-9		1			0
+alpha-L-fucose		1			0
+N-acetylneuraminyl, alpha- and beta-galactosyl, and N-acetylhexosaminyl sugars		1			0
+6-sulfo sialyl Lewis X-capped O-glycans		1			0
+anti-chitobioside carbohydrate antibodies (ACCA)		1			0
+anti-laminaribioside carbohydrate antibodies (ALCA)		1			0
+anti-mannobioside carbohydrate antibodies (AMCA)		1			0
+pANCA		1			0
+heavy-chain glycans		1			0
+O-glycan branching		1			0
+Man5-enriched N-glycans		1			0
+glycan or glycopeptide epitope		1			0
+glycoform of Dermatophagoides pteronyssinus group 7 allergen (Der p 7)		1			0
+lacto-N-fucopentaose III		1			0

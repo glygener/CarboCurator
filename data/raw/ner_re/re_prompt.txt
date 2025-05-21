@@ -1,0 +1,34 @@
+Objective: Extract relationships between glycans and diseases from a given PubMed abstract. Return one JSON object that follows the JSON schema.
+Instructions:
+I. Extract Entities:
+(If an entity is not mentioned/missing, return an empty string.)
+Use the "PMID", "Title", "Abstract", and "Keywords" rows of the abstract text. Identify 13 entities:
+    1. "glycan_entity"
+    2. "glycan_entity_change"
+    3. "glycoprotein_entity_name"
+    4. "glycoprotein_gene_symbol"
+    5. "glycoenzyme_entity_name"
+    6. "glycoenzyme_gene_symbol"
+    7. "disease_name"
+    8. "medical_intervention"
+    9. "biomarker_role"
+    10. "organism"
+    11. "specimen_type"
+    12. "pmid"
+    13. "sentence_in_abstract"
+
+II. Map Additional Data to *_mapped fields:
+Use the "Chemical names", and "MeSH names" rows of the abstract text to supplement the extracted entities (reference fields) from part I.
+- Multiple values in "Keywords", "Chemical names", and "MeSH names" are provided as "|"‑separated strings.
+Try to fill in the four additional 'mapped' fields:
+ 1. "glycoprotein_mapped", for any "Chemical names" values mapping to "glycoprotein_entity_name".
+ 2. "glycoprotein_mapped", for any "Chemical names" values mapping to "glycoenzyme_entity_name".
+ 3. "disease_mapped", for any "MeSH names" values mapping to "disease_name".
+ 4. "specimen_mapped", for any "MeSH names" values mapping to "specimen_type".
+##Note: When there are multiple entities in the mapped field, return them as "|"-separated objects while maintaining their order as in the reference field
+- use an empty string "" for each unmapped value.
+
+III. Handling Multiple Entities:
+- When there are multiple (i.e., "|"‑separated) values in "glycan_entity", "glycan_entity_change", or "disease_name", split them into separate objects in the "glycan_biomarkers" array.
+- Pipe‑separated strings are allowed for all other fields.
+- Prioritize precision over sensitivity. When multiple glycan terms are associated with multiple diseases, report each association as a separate "glycan_biomarkers" object, accurately.

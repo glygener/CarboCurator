@@ -1,0 +1,6 @@
+PMID: 34495542
+Title: Glycosylation and Cardiovascular Diseases.
+Abstract: Cardiovascular disease (CVD) is the leading cause of death worldwide, accounting for approximately 18 million deaths in 2017. Coronary artery disease is the predominant cause of death from CVD, followed by stroke. Owing to recent technological advancements, glycans and glycosylation patterns of proteins have been investigated in association with CVD risk factors and clinical events. These studies have found significant associations of glycans as biomarkers of systemic inflammation and major CVD risk factors and events. While more limited, studies have also shown that glycans may be useful for monitoring response to anti-inflammatory therapies and may be responsive to changes in lifestyle, particularly in patients with chronic inflammatory diseases. Glycans capture summative risk information related to inflammatory, immune, and signaling pathways and are promising biomarkers for CVD risk prediction and therapeutic monitoring.
+Keywords: Biomarkers|Cardiovascular disease|Glycosylation|Immunoglobulin G|Inflammation|Prevention
+Chemical names: Biomarkers
+MeSH names: Biomarkers|Cardiovascular Diseases|Coronary Artery Disease|Glycosylation|Humans|Risk Factors

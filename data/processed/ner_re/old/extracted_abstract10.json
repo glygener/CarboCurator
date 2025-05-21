@@ -1,0 +1,62 @@
+{
+  "glycan_biomarkers": [
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "\u03b11,3-fucosylation",
+        "glycan_entity_change": "decreased level",
+        "glycoprotein_entity_name": "mesoderm-specific transcript",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "",
+        "glycoenzyme_entity_name": "fucosyltransferase IV",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": "FUT4 protein, human|Fucosyltransferases"
+      },
+      "associated_disease": {
+        "disease_name": "pregnancy failure",
+        "disease_mapped": "",
+        "medical_intervention": "infertility treatment"
+      },
+      "biomarker_role": [
+        "diagnostic"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "villus tissues",
+        "specimen_mapped": ""
+      },
+      "evidence": {
+        "pmid": "37798282",
+        "sentence_in_abstract": "By Lectin array, we discovered the decreased \u03b11,3-fucosylation, especially difucosylated Lewis Y (LeY) glycan, in the villus tissues of miscarriage patients when compared with normal pregnancy women."
+      }
+    },
+    {
+      "assessed_biomarker_entity": {
+        "glycan_entity": "difucosylated Lewis Y (LeY) glycan",
+        "glycan_entity_change": "decreased level",
+        "glycoprotein_entity_name": "mesoderm-specific transcript",
+        "glycoprotein_gene_name": "",
+        "glycoprotein_mapped": "",
+        "glycoenzyme_entity_name": "fucosyltransferase IV",
+        "glycoenzyme_gene_name": "",
+        "glycoenzyme_mapped": "FUT4 protein, human|Fucosyltransferases"
+      },
+      "associated_disease": {
+        "disease_name": "pregnancy failure",
+        "disease_mapped": "",
+        "medical_intervention": "infertility treatment"
+      },
+      "biomarker_role": [
+        "diagnostic"
+      ],
+      "sample": {
+        "organism": "Humans",
+        "specimen_type": "villus tissues",
+        "specimen_mapped": ""
+      },
+      "evidence": {
+        "pmid": "37798282",
+        "sentence_in_abstract": "By Lectin array, we discovered the decreased \u03b11,3-fucosylation, especially difucosylated Lewis Y (LeY) glycan, in the villus tissues of miscarriage patients when compared with normal pregnancy women."
+      }
+    }
+  ]
+}
