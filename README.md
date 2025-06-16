@@ -143,10 +143,16 @@ pip install -r requirements.txt
 git clone https://github.com/glygener/CarboCurator.git
 cd CarboCurator
 ```
-2. Set API keys ([NCBI](https://support.nlm.nih.gov/kbArticle/?pn=KA-05317)) ([OpenAI](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://platform.openai.com/api-keys&ved=2ahUKEwicptvz97SNAxWsF1kFHecXN7cQFnoECBYQAQ&usg=AOvVaw1YhcGDWJXhiKSfmL59Pnfn))
+2. Set API keys
 
-Unix & macOS (bash/zsh):  
-- Add to ~/.bashrc or ~/.zshrc
+Obtain your API keys. Store your API key in a secure way, such as in an environmental variable.
+- **NCBI API key**: Optional. For faster retrieval of PubMed IDs and records. ([How to get an NCBI API key](https://support.nlm.nih.gov/kbArticle/?pn=KA-05317))
+   
+- **OpenAI API key**: Required. For running the GPT models. ([How to get an OpenAI API key](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://platform.openai.com/api-keys&ved=2ahUKEwicptvz97SNAxWsF1kFHecXN7cQFnoECBYQAQ&usg=AOvVaw1YhcGDWJXhiKSfmL59Pnfn))
+
+Set your API keys as environmental variables.  
+(A) Unix & macOS Users(bash/zsh):  
+- Add the following lines to the `~/.bashrc` or `~/.zshrc` file. Replace values with your corresponding API key:
 ```bash
 export NCBI_API_KEY="your_ncbi_api_key_here"
 export OPENAI_API_KEY="your_openai_api_key_here"
@@ -159,27 +165,48 @@ source ~/.bashrc
 source ~/.zshrc
 ```
 
-Windows (PowerShell):  
+(B) Windows Users (PowerShell):  
+
 ```ps
 [Environment]::SetEnvironmentVariable('NCBI_API_KEY','your_ncbi_api_key_here','User')
 [Environment]::SetEnvironmentVariable('OPENAI_API_KEY','your_openai_api_key_here','User')
 ```
+
 - Restart your terminal for changes to take effect
 
 4. Prepare data
-- Place your PubMed XML dump (or Entrez fetch script output) under `data/raw/`.
-- Ensure `requirements.txt` is up to date and install dependencies.
+- If you already have a list of PubMed IDs for curation, replace the `pmid_list.txt` file under `data/processed/corpus/`.
+- Ensure `requirements.txt` is up to date and install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
 
 5. Execute the pipeline
+- If you wish to start with a custom PubMed search term, replace the `term` variable in  `preprocess_get_pmid.py`:
+```python
+term = "(((glycomics[Title/Abstract]) OR (polysaccharides[MeSH Terms])) AND ((biomarkers[MeSH Terms])) OR (disease[MeSH Terms]))"
+```
+- Else, if you already have a list of PubMed IDs (PMIDs)for curation and have already replaced the `pmid_list.txt` file, please skip the first script (`preprocess_get_pmid.py`)
+- Else, start with retrieving the list of PMIDs from the default search query:
+
 ```bash
-# Fetch and preprocess abstracts
-python main/pmid_fetch.py
-python main/preprocess_get_abst.py
-
-# NER & RE
-python main/abstracts_curate.py
-
-# Postprocess
+python preprocessing/proprocess_get_pmid.py
+```
+- Then, fetch the abstracts and metadata from the retrieved PMID:
+```bash
+python preprocessing/preprocess_get_abst.py
+```
+- Remove duplicating abstracts and records without an accessible abstract text.
+```bash
+python preprocessing/preprocess_qc_abst.py
+```
+- Run the **Named Entity Recognition** (NER) and **Relation Extraction** (RE) script:
+```bash
+python named_entity_extraction/placeholder.py
+```
+- Post-processing:
+```bash
 python main/json_parse.py
 ```
 
@@ -189,4 +216,4 @@ python main/json_parse.py
 
 ## License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [Placeholder]().
